@@ -1,0 +1,78 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Home
+    url: '#about'
+    weight: 10
+    identifier: Home
+  - name: About
+    url: '#about'
+    weight: 10
+    parent: Home
+  - name: Services
+    url: '#services'
+    weight: 10
+    parent: Home
+  - name: Blog
+    url: '#posts'
+    weight: 20
+  - name: Data
+    url: '#pillars'
+    weight: 30
+    identifier: Data
+  - name: Open Science Repository &#128279;
+    url: 'https://zenodo.org/communities/music_observatory'
+    weight: 30
+    parent: Data
+  - name: API
+    url: '#data'
+    weight: 30
+    parent: Data
+  - name: Projects
+    url: '#projects'
+    weight: 40
+  - name: Use Case
+    identifier: Use Case
+    url: '#usecase'
+    weight: 45
+  - name: Use Cases
+    parent: Use Case
+    url: '#usecase'
+    weight: 45
+  - name: Software
+    url: '#software'
+    weight: 46
+    parent: Use Case
+  - name: Publications
+    url: '#featured'
+    weight: 50
+    identifier: Publications
+  - name: Featured
+    url: '#featured'
+    weight: 50
+    parent: Publications
+  - name: All Publications
+    url: '#publications'
+    weight: 50
+    parent: Publications
+  - name: Contact
+    url: '#contact'
+    weight: 60
+    identifier: Contact
+  - name: Get in touch
+    url: '#contact'
+    weight: 60
+    parent: Contact
+  - name: Public talks
+    url: '#talks'
+    weight: 62
+    parent: Contact
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+#  - name: CV
+#    url: uploads/resume.pdf
+#    weight: 70

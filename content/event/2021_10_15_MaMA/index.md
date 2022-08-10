@@ -16,10 +16,15 @@ abstract: "We are looking for partners in France for our Digital Music Observato
 
 # Name of event and optional event URL.
 event: "MaMA Festival & Convention 2021"
-event_url: "https://www.mamafestival.com/en/programmation-convention/#/program/byVenue"
+event_url: "https://2021.mamafestival.com/"
 
 # Location of event
-location: "Online"
+location: "MaMA Festival & Convention"
+address:
+  street: 72 bl. Rochechouart
+  city: Paris
+  postcode: 75018
+  country: France
 
 # Is this a selected talk? (true/false)
 selected: true

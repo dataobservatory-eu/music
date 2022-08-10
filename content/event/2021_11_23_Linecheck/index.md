@@ -1,13 +1,13 @@
 ---
-title:  "Streaming Economics: where are we really going?"
-date:  2021-11-03T15:00:00  
-lastmod:  2021-11-03T15:00:00  
+title:  "Streaming Economics: Where Are We Really Going?"
+date:  2021-11-03T15:00:00+02:00 
+lastmod:  2021-11-03T15:00:00+02:00  
 draft:  false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start:  2021-11-23T11:00:00  
-time_end:  2021-11-23T12:00:00  
+time_start:  2021-11-23T11:00:00+02:00
+time_end:  2021-11-23T12:00:00+02:00  
 
 authors:  ["Daniel Antal, CFA"]
 

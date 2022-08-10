@@ -1,15 +1,12 @@
 ---
-title: Recent & Upcoming Talks
-cms_exclude: true
+title: Recent & Upcoming Events
+subtitle: Opportunities to meet, ask your question and start to collaborate
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 2
+# Listing view
+view: compact
 
-# Optional header image (relative to `static/media/` folder).
-header:
+# Optional header image (relative to `assets/media/` folder).
+banner:
   caption: ''
   image: ''
 ---

@@ -19,7 +19,12 @@ event:  "Linecheck Music Meeting & Festival, Milano, Italy"
 event_url:  "https://www.linecheck.it/"
 
 # Location of event
-location:  "TBC"
+location:  "BASE Milano"
+address:
+   street: Via Bergognone, 34 
+   city: Milan
+   postcode: '20144' 
+   country: Italy
 
 # Is this a selected talk? (true/false)
 selected:  true

@@ -18,7 +18,12 @@ event:  "CCS Ecosystems: FLIPPING THE ODDS"
 event_url:  "http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/"
 
 # Location of event
-location:  "LaVallée Creative Hub - Molenbeek Rue Adolphe Lavallée 39, 1080 Brussels, Belgium"
+location: LaVallée Creative Hub - Molenbeek 
+address:
+  street: Rue Adolphe Lavallée 39
+  city: Brussels
+  postcode: '1080'
+  country: Belgium
 
 # Is this a selected talk? (true/false)
 selected:  true
@@ -45,11 +50,8 @@ url_code:  ""
 math:  false
 
 # Featured image
-[image]
+image:
   caption:  "Central European Music Industry Report 2020"
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point:  "Center"
 ---
 

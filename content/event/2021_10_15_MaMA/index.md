@@ -44,7 +44,7 @@ url_code: ""
 math: false
 
 # Featured image
-[image]
+image:
   caption: ""
 
   # Focal point (optional)

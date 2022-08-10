@@ -46,7 +46,7 @@ math:  false
 abstract: "Streaming services account for 62% of global recorded music revenue, making them by far the most popular medium for listeners. Digital revenue has been steadily increasing, mainly due to subscriptions and ad-supported streams, but low margins for artists and musicians mean this is just not enough. There is a need to rethink a fairer, more sustainable streaming business model, starting with the role of DSPs, catalog management and intellectual property rights. How can streaming economies be a real source of revenue for artists? What aspects matter most within these economies?"
 
 # Featured image
-[image]
+image:
   caption:  ""
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

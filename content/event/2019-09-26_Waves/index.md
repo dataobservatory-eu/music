@@ -19,8 +19,13 @@ event:  "Panel of the Central Euroepan Music Industry Report 2019"
 event_url:  "https://www.wavesvienna.com/conference/conference-schedule/"
 
 # Location of event.
-location:  "WUK, Werkstätten- und Kulturhaus, Währinger Straße 59, 1090 Vienna"
-
+location:  "WUK, Werkstätten- und Kulturhaus"
+address:
+  street: Währinger Straße 59
+  city: Vienna
+  postcode: '1090'
+  country: Austria
+  
 # Is this a selected talk? (true/false)
 selected:  true
 
@@ -50,7 +55,7 @@ math:  false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
+image:
   # Caption (optional)
   caption:  "Cross-border European Hits in September 2019 on Spotify"
 

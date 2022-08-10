@@ -45,7 +45,7 @@ url_code:  ""
 math:  false
 
 # Featured image
-[image]
+image:
   caption:  "Grouping of economic activities and jobs in typical music occupations"
 
   # Focal point (optional)

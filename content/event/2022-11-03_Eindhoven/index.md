@@ -14,6 +14,7 @@ address:
   country: Netherlands
 
 summary: Introducing the collaborative data observatories with the example of the music industry and sector.
+
 abstract: 'Big data creates injustices, because only the biggest corporations, universities and governments can sustain long, systematic, and well-organized data collection. Reprex builds collaborative data ecosystems, communities, that can share resources and access legally open but not available data sources. Our flagship products are the Digital Music Observatory and Listen Local, a system that tries to prevent global platforms colonizing local ecosystems with AI.'
 
 

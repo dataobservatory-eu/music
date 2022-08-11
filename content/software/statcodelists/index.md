@@ -1,5 +1,5 @@
 ---
-title: "retroharmonize R package for survey harmonization"
+title: "statcodelists: Use Standardized Statistical Codelists"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -12,9 +12,9 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2020-08-25T00:00:00Z"
-lastmod: "2021-06-28T09:00:00Z"
-doi: "10.5281/zenodo.5006056"
+date: "2022-06-28T00:00:00Z"
+lastmod: "2022-08-11T09:00:00+02:00"
+doi: "10.5281/zenodo.6751783"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -45,11 +45,11 @@ links:
 - icon: github
   icon_pack: fab
   name: Code
-  url: https://github.com/rOpenGov/retroharmonize/
+  url: https://github.com/antaldaniel/statcodelists/
 - icon: book-open
   icon_pack: fas
   name: Documentation
-  url: https://retroharmonize.dataobservatory.eu/
+  url: https://statcodelists.dataobservatory.eu/
 - icon: twitter
   icon_pack: fab
   name: Follow
@@ -70,7 +70,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -80,14 +80,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- ""
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 ## Retrospective data harmonization

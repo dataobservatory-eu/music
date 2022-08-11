@@ -13,8 +13,8 @@ authors:
 #- "Equal contribution"
 
 date: "2020-06-03"
-lastmod: 2021-06-03T12:00:00
-doi: "10.5281/zenodo.4897472"
+lastmod: 2022-02-10T12:00:00+02:00
+doi: "10.5281/zenodo.6038553"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-06-03T00:00:00Z"
@@ -34,7 +34,9 @@ abstract: The goal of iotables is to make allow a programmatic acces to the symm
 # Summary. An optional shortened abstract.
 summary: The goal of iotables is to make allow a programmatic acces to the symmetric input-output tables of Eurostat. It creates multipliers, calculates direct, indirect and induced effects from European SIOT tables.
 
-tags: []
+tags: 
+  - Environmental impact analysis
+  - Economic impact analysis
 
 # Display this page in the Featured widget?
 featured: true
@@ -73,7 +75,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -83,7 +85,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- Music reports
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

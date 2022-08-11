@@ -1,5 +1,6 @@
 ---
-title: "retroharmonize R package for survey harmonization"
+title: "dataset: Create Interoperable FAIR Datasets"
+subtitle: "Publish your datasets with FAIR metadata in open science repositories and place them on knowledge graphs"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -12,8 +13,8 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2020-08-25T00:00:00Z"
-lastmod: "2021-06-28T09:00:00Z"
+date: "2022-08-11T00:00:00Z"
+lastmod: "2022-08-11T09:00:00Z"
 doi: "10.5281/zenodo.5006056"
 
 # Publication type.
@@ -26,12 +27,16 @@ publication_types: ["0"]
 publication: The Comprehensive R Archive Network
 publication_short: In *CRAN*
 
-abstract: The goal of retroharmonize is to facilitate retrospective (ex-post) harmonization of data, particularly survey data, in a reproducible manner. The package provides tools for organizing the metadata, standardizing the coding of variables, variable names and value labels, including missing values, and for documenting all transformations, with the help of comprehensive S3 classes.
+abstract: The primary aim of dataset is create well-referenced, well-described, interoperable datasets from data.frames, tibbles or data.tables that translate well into the W3C DataSet definition within the Data Cube Vocabulary in a reproducible manner. The data cube model in itself is is originated in the Statistical Data and Metadata eXchange, and it is almost fully harmonzied with the Resource Description Framework (RDF), the standard model for data interchange on the web.
 
 # Summary. An optional shortened abstract.
-summary: The goal of retroharmonize is to facilitate retrospective (ex-post) harmonization of data, particularly survey data, in a reproducible manner.
+summary: Publish your datasets with FAIR metadata in open science repositories and place them on knowledge graphs
 
-tags: []
+tags: 
+ - Reproducible research
+ - SDMX
+ - W3C
+ - semantic web
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,11 +50,11 @@ links:
 - icon: github
   icon_pack: fab
   name: Code
-  url: https://github.com/rOpenGov/retroharmonize/
+  url: https://github.com/dataobservatory-eu/dataset/
 - icon: book-open
   icon_pack: fas
   name: Documentation
-  url: https://retroharmonize.dataobservatory.eu/
+  url: https://dataset.dataobservatory.eu/
 - icon: twitter
   icon_pack: fab
   name: Follow
@@ -67,6 +72,8 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
+doi: 10.5281/zenodo.6969683
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
@@ -80,139 +87,55 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- Digital Music Observatory
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-## Retrospective data harmonization
+## Interoperable, FAIR datasets
 
-The aim of `retroharmonize` is to provide tools for reproducible
-retrospective (ex-post) harmonization of datasets that contain variables
-measuring the same concepts but coded in different ways. Ex-post data
-harmonization enables better use of existing data and creates new
-research opportunities. For example, harmonizing data from different
-countries enables cross-national comparisons, while merging data from
-different time points makes it possible to track changes over time.
+The primary aim of dataset is create well-referenced, well-described,
+interoperable datasets from data.frames, tibbles or data.tables that
+translate well into the W3C DataSet definition within the [Data Cube
+Vocabulary](https://www.w3.org/TR/vocab-data-cube/) in a reproducible
+manner. The data cube model in itself is is originated in the
+[Statistical Data and Metadata eXchange](https://sdmx.org/), and it is
+almost fully harmonzied with the Resource Description Framework (RDF),
+the standard model for data interchange on the web[^1].
 
-Retrospective data harmonization is associated with challenges including
-conceptual issues with establishing equivalence and comparability,
-practical complications of having to standardize the naming and coding
-of variables, technical difficulties with merging data stored in
-different formats, and the need to document a large number of data
-transformations. The `retroharmonize` package assists with the latter
-three components, freeing up the capacity of researchers to focus on the
-first.
+A mapping of R objects into these models has numerous advantages:
 
-Specifically, the `retroharmonize` package proposes a reproducible
-workflow, including a new class for storing data together with the
-harmonized and original metadata, as well as functions for importing
-data from different formats, harmonizing data and metadata, documenting
-the harmonization process, and converting between data types. See
-[here](https://retroharmonize.dataobservatory.eu/reference/retrohamonize.html)
-for an overview of the functionalities.
+1.  Makes data importing easier and less error-prone;
+2.  Leaves plenty of room for documentation automation, resulting in far
+    better reusability and reproducability;
+3.  The publication of results from R following the
+    [FAIR](https://www.go-fair.org/fair-principles/) principles is far
+    easier, making the work of the R user more findable, more
+    accessible, more interoperable and more reusable by other users;
+4.  Makes the placement into relational databases, semantic web
+    applications, archives, repositories possible without time-consuming
+    and costly data wrangling (See [From dataset To
+    RDF](https://dataset.dataobservatory.eu/articles/RDF.html)).
 
-The new `labelled_spss_survey()` class is an extension of [haven’s labelled\_spss class](https://haven.tidyverse.org/reference/labelled_spss.html). It not
-only preserves variable and value labels and the user-defined missing
-range, but also gives an identifier, for example, the filename or the
-wave number, to the vector. Additionally, it enables the preservation –
-as metadata attributes – of the original variable names, labels, and
-value codes and labels, from the source data, in addition to the
-harmonized variable names, labels, and value codes and labels. This way,
-the harmonized data also contain the pre-harmonization record. The
-stored original metadata can be used for validation and documentation
-purposes.
-
-The vignette [Working With The labelled\_spss\_survey Class](https://retroharmonize.dataobservatory.eu/articles/labelled_spss_survey.html)
-provides more information about the `labelled_spss_survey()` class.
-
-In [Harmonize Value Labels](https://retroharmonize.dataobservatory.eu/articles/harmonize_labels.html)
-we discuss the characteristics of the `labelled_spss_survey()` class and
-demonstrates the problems that using this class solves.
-
-We also provide three extensive case studies illustrating how the
-`retroharmonize` package can be used for ex-post harmonization of data
-from cross-national surveys:
-
--   [Afrobarometer](https://retroharmonize.dataobservatory.eu/articles/afrobarometer.html)
--   [Arab
-    Barometer](https://retroharmonize.dataobservatory.eu/articles/arabbarometer.html)
--   [Eurobarometer](https://retroharmonize.dataobservatory.eu/articles/eurobarometer.html)
-
-The creators of `retroharmonize` are not affiliated with either
-Afrobarometer, Arab Barometer, Eurobarometer, or the organizations that
-designs, produces or archives their surveys.
-
-We started building an experimental APIs data is running retroharmonize
-regularly and improving known statistical data sources. See: [Digital Music Observatory](https://music.dataobservatory.eu/), [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/), [Economy Data Observatory](https://economy.dataobservatory.eu/).
-
-## Citations and related work
-
-### Citing the data sources
-
-Our package has been tested on three harmonized survey’s microdata.
-Because [retroharmonize](https://retroharmonize.dataobservatory.eu/) is
-not affiliated with any of these data sources, to replicate our
-tutorials or work with the data, you have download the data files from
-these sources, and you have to cite those sources in your work.
-
-**Afrobarometer** data: Cite
-[Afrobarometer](https://afrobarometer.org/data/) **Arab Barometer**
-data: cite [Arab
-Barometer](https://www.arabbarometer.org/survey-data/data-downloads/).
-**Eurobarometer** data: The
-[Eurobarometer](https://ec.europa.eu/commfrontoffice/publicopinion/index.cfm)
-data
-[Eurobarometer](https://ec.europa.eu/commfrontoffice/publicopinion/index.cfm)
-raw data and related documentation (questionnaires, codebooks, etc.) are
-made available by *GESIS*, *ICPSR* and through the *Social Science Data
-Archive* networks. You should cite your source, in our examples, we rely
-on the
-[GESIS](https://www.gesis.org/en/eurobarometer-data-service/search-data-access/data-access)
-data files.
-
-### Citing the retroharmonize R package
-
-For main developer and contributors, see the
-[package](https://retroharmonize.dataobservatory.eu/) homepage.
-
-This work can be freely used, modified and distributed under the GPL-3
-license:
-
-``` r
-citation("retroharmonize")
-#> 
-#> To cite package 'retroharmonize' in publications use:
-#> 
-#>   Daniel Antal (2021). retroharmonize: Ex Post Survey Data
-#>   Harmonization. R package version 0.1.17.
-#>   https://retroharmonize.dataobservatory.eu/
-#> 
-#> A BibTeX entry for LaTeX users is
-#> 
-#>   @Manual{,
-#>     title = {retroharmonize: Ex Post Survey Data Harmonization},
-#>     author = {Daniel Antal},
-#>     year = {2021},
-#>     doi = {10.5281/zenodo.5006056},
-#>     note = {R package version 0.1.17},
-#>     url = {https://retroharmonize.dataobservatory.eu/},
-#>   }
-```
+Our package functions work with any structured R objects (data.fame,
+data.table, tibble, or well-structured lists like json), however, the
+best functionality is achieved by the (See [The dataset S3
+Class](https://dataset.dataobservatory.eu/articles/dataset.html)), which
+is inherited from `data.frame()`.
 
 ### Contact
 
 For contact information, contributors, see the
-[package](https://retroharmonize.dataobservatory.eu/) homepage.
+[package](https://dataset.dataobservatory.eu/) homepage.
 
 ### Code of Conduct
 
-Please note that the `retroharmonize` project is released with a
+Please note that the `dataset` project is released with a
 [Contributor Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/).
 By contributing to this project, you agree to abide by its terms.
 

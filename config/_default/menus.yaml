@@ -56,11 +56,11 @@ main:
     parent: Publications
   - name: All Publications
     url: '#publications'
-    weight: 50
+    weight: 52
     parent: Publications
   - name: Software releases
-    url: '#software'
-    weight: 50
+    url: '#releases'
+    weight: 51
     parent: Publications
   - name: Contributors
     url: '#contributors'

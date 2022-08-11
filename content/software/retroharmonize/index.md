@@ -31,7 +31,9 @@ abstract: The goal of retroharmonize is to facilitate retrospective (ex-post) ha
 # Summary. An optional shortened abstract.
 summary: The goal of retroharmonize is to facilitate retrospective (ex-post) harmonization of data, particularly survey data, in a reproducible manner.
 
-tags: []
+tags: 
+ - Surveys
+ - Survey harmonization
 
 # Display this page in the Featured widget?
 featured: true
@@ -80,14 +82,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- CEEMID
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 ## Retrospective data harmonization

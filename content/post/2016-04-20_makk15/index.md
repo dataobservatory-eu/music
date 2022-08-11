@@ -8,12 +8,12 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Daniel Antal"]
 
-tags = ["Music industry", "CEEMID", "Croatia", "music supply"]
+tags = ["Music industry", "CEEMID", "Croatia", "Market report"]
 
 summary = "Daniel Antal presented the preliminary findings of the Croatian music industry research in the International Authors’ and Creators’ Conference in Zagreb on 24 November 2015. The presentation was largely based on analysis of various CEEMID databases."
 
 # Projects (optional).
-projects = ["market-observatory"]
+projects = ["CEEMID"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

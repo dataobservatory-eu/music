@@ -1,66 +1,66 @@
-+++
-title = "An Empirical Analysis of Music Streaming Revenues and Their Distribution"
-date = 2021-09-23T10:00:00
-draft = false
+---
+title: "An Empirical Analysis of Music Streaming Revenues and Their Distribution"
+date: 2021-09-23T10:00:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
 # Publication type.
 # Legend:
 
-publication_types = ["4"]
+publication_types: ["4"]
 
 # Abstract and optional shortened version.
-abstract = "Our report highlights some important lessons. First, we show that in the era of global music sales platforms it is impossible to understand the economics of music streaming without international data harmonization and advanced surveying and sampling. Paradoxically, without careful adjustments for accruals, market shares in jurisdictions, and disaggregation of price and volume changes, the British industry cannot analyze its own economics because of its high level of integration to the global music economy. Furthermore, the replacement of former public performances, mechanical licensing, and private copying remunerations (which has been available for British rightsholders in their European markets for decades) with less valuable streaming licenses has left many rightsholders poorer. Making adjustments on the distribution system without modifying the definition of equitable remuneration rights or the pro-rata distribution scheme of streaming platforms opens up many conflicts while solving not enough fundamental problems.  Therefore, we suggest participation in international data harmonization and policy coordination to help regain the historical value of music."
+abstract: "Our report highlights some important lessons. First, we show that in the era of global music sales platforms it is impossible to understand the economics of music streaming without international data harmonization and advanced surveying and sampling. Paradoxically, without careful adjustments for accruals, market shares in jurisdictions, and disaggregation of price and volume changes, the British industry cannot analyze its own economics because of its high level of integration to the global music economy. Furthermore, the replacement of former public performances, mechanical licensing, and private copying remunerations (which has been available for British rightsholders in their European markets for decades) with less valuable streaming licenses has left many rightsholders poorer. Making adjustments on the distribution system without modifying the definition of equitable remuneration rights or the pro-rata distribution scheme of streaming platforms opens up many conflicts while solving not enough fundamental problems.  Therefore, we suggest participation in international data harmonization and policy coordination to help regain the historical value of music."
 
-abstract_short = "This report was commissioned by the Music Creators’ Earnings Project as an empirical analysis of justified and unjustified differences in music creators’ music streaming earnings."
+abstract_short: "This report was commissioned by the Music Creators’ Earnings Project as an empirical analysis of justified and unjustified differences in music creators’ music streaming earnings."
 
 # Is this a featured publication? (true/false)
-featured = true
+featured: true
 
 # Projects (optional).
-projects = ["music-reports"]
+projects: ["music-reports"]
 
-tags = ["market-report", "Music industry", "United Kingdom", "music-streaming", "equitable remuneration"]
+tags: ["market-report", "Music industry", "United Kingdom", "music-streaming", "equitable remuneration"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
+#   E.g. `slides: "example-slides"` references 
 #   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = ""
+#   Otherwise, set `slides: ""`.
+slides: ""
 
 # Links (optional).
-url_pdf = "https://mce.dataobservatory.eu/MCE_UKIPO_Reprex.pdf"
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = "https://mce.dataobservatory.eu/"
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
+url_pdf: "https://mce.dataobservatory.eu/MCE_UKIPO_Reprex.pdf"
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+url_project: "https://mce.dataobservatory.eu/"
+url_slides: ""
+url_video: ""
+url_poster: ""
+url_source: ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "MCE Downloads Webiste", url = "https://www.gov.uk/government/publications/music-creators-earnings-in-the-digital-era"}]
+url_custom: [{name: "MCE Downloads Webiste", url: "https://www.gov.uk/government/publications/music-creators-earnings-in-the-digital-era"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.5281/zenodo.5554089"
+doi: "10.5281/zenodo.5554089"
 
 # Does this page contain LaTeX math? (true/false)
-math = false
+math: false
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
-+++
+  focal_point: "Center"
+---
 
 ## ccc
 

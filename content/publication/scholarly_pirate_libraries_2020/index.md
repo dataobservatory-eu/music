@@ -1,64 +1,64 @@
-+++
-title = "Can scholarly pirate libraries bridge the knowledge access gap? An empirical study on the structural conditions of book piracy in global and European academia"
-date = 2020-12-03T11:00:00
-draft = false
+---
+title: "Can scholarly pirate libraries bridge the knowledge access gap? An empirical study on the structural conditions of book piracy in global and European academia"
+date: 2020-12-03T11:00:00
+draft: false
 
-authors = ["Balazs Bodó", "Daniel Antal", "Zoltan Puha"]
+authors: ["Balazs Bodó", "Daniel Antal", "Zoltan Puha"]
 
 # Publication type.
 # Legend:
 
-publication_types = ["2"]
+publication_types: ["2"]
 
 # Abstract and optional shortened version.
-abstract = "The topic of the paper is Library Genesis (LG), the biggest piratical scholarly library on the internet, which provides copyright infringing access to more than 2.5 million scientific monographs, edited volumes, and textbooks. The paper uses advanced statistical methods to explain why researchers around the globe use copyright infringing knowledge resources. The analysis is based on a huge usage dataset from LG, as well as data from the World Bank, Eurostat, and Eurobarometer, to identify the role of macroeconomic factors, such as R&D and higher education spending, GDP, researcher density in scholarly copyright infringing activities."
+abstract: "The topic of the paper is Library Genesis (LG), the biggest piratical scholarly library on the internet, which provides copyright infringing access to more than 2.5 million scientific monographs, edited volumes, and textbooks. The paper uses advanced statistical methods to explain why researchers around the globe use copyright infringing knowledge resources. The analysis is based on a huge usage dataset from LG, as well as data from the World Bank, Eurostat, and Eurobarometer, to identify the role of macroeconomic factors, such as R&D and higher education spending, GDP, researcher density in scholarly copyright infringing activities."
 
-abstract_short = "The paper analyzes a set of weblogs of one of the book piracy mirrors to reconstruct the global black-market demand for scholarly literature."
+abstract_short: "The paper analyzes a set of weblogs of one of the book piracy mirrors to reconstruct the global black-market demand for scholarly literature."
 
 # Is this a selected publication? (true/false)
-featured = true
+featured: true
 
 # Projects (optional).
-projects = ["market-report"]
+projects: ["market-report"]
 
 # Slides (optional).
 #   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = ""
+#   Otherwise, set `slides: ""`.
+slides: ""
 
 # Tags (optional).
-tags = ["market-report", "Books", "Piracy", "Shadow libraries"]
+tags: ["market-report", "Books", "Piracy", "Shadow libraries"]
 
 # Links (optional).
-url_pdf = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0242509&type=printable"
-url_preprint = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3628326"
-url_code = "https://github.com/bodobalazs/bookpiracy_final"
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
+url_pdf: "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0242509&type=printable"
+url_preprint: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3628326"
+url_code: "https://github.com/bodobalazs/bookpiracy_final"
+url_dataset: ""
+url_project: ""
+url_slides: ""
+url_video: ""
+url_poster: ""
+url_source: ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# url_custom: [{name: "Custom Link", url: "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1371/journal.pone.0242509"
+doi: "10.1371/journal.pone.0242509"
 
 # Does this page contain LaTeX math? (true/false)
-math = true
+math: true
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Left"
-+++
+  focal_point: "Left"
+---
 
 [PLOS One](https://journals.plos.org/plosone/) is the fourth most influential multidisciplinary journal after Nature, and Science, and Proceedings of the National Academy of Sciences of the United States of America (based on [H index](https://www.scimagojr.com/journalrank.php?category=1000&area=1000&order=h&ord=desc).) On December 3, 2020 it published [a paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242509) co-authored by Dr. Balazs Bodo, associate professor at the Institute for Information Law (IViR), Daniel Antal (Reprex, Demo Music Observatory), a data scientist interested in reproducible research, as an independent researcher, and Zoltan Puha, a Data Science PhD at Tilburg University, JADS. PLOS (Public Library of Science) is a nonprofit Open Access publisher, empowering researchers to accelerate progress in science and medicine by leading a transformation in research communication.
 

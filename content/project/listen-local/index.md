@@ -1,4 +1,6 @@
 ---
+title: Listen Local
+subtitle: ""
 date: 2020-09-29T10:00:00+02:00
 lastmod: 2021-05-06T18:52:00+02:00
 external_link: ""
@@ -10,14 +12,13 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/DigitalMusicObs
-slides: example
+slides: ""
 summary: "Listen Local is a trustworthy, ethical AI-powered system that aims to help great artists in small organizations and small countries using big data. We want to make sure that audiences are not only recommended global superhits, but locally relevant music, too. At present, corporate Algorithms fail to connect listeners in small countries with music from the local scene - with artists whom the listener can easily see perform live in local venues, who sing in the listener’s language and who connect with the listener’s feelings and experiences."
 tags:
 - Listen Local
 - Trustworthy AI
 - Music recommendations
-title: Listen Local
-subtitle: We are looking for end-users and dissemination partners to test our data and visualization products
+
 url_code: ""
 url_pdf: ""
 url_slides: ""

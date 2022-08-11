@@ -1,47 +1,47 @@
-+++
+---
 # Project title.
-title = "CEEMID"
-subtitle = "CEEMID (2014-2020) is now the Digital Music Observatory"
+title: "CEEMID"
+subtitle: "CEEMID (2014-2020) is now the Digital Music Observatory"
 
 # Date this page was created.
-date = 2019-02-27T00:00:00
-lastmod = 2022-04-11T17:00:00
+date: 2019-02-27T00:00:00
+lastmod: 2022-04-11T17:00:00
 
 # Project summary to display on homepage.
-summary = "CEEMID was multi-country project that was a predecessor of Reprex’s Digital Music Observatory."
+summary: "CEEMID was multi-country project that was a predecessor of Reprex’s Digital Music Observatory."
 
 # Tags: can be used for filtering projects.
-tags = ["CEEMID", "Surveys", "Digital Music Observatory"]
+tags: ["CEEMID", "Surveys", "Digital Music Observatory"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link: ""
 
 # Slides (optional).
-#   E.g. `slides = "example-slides"` references
+#   E.g. `slides: "example-slides"` references
 #   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = "CEEMID"
+#   Otherwise, set `slides: ""`.
+slides: "CEEMID"
 
 # Links (optional).
-url_pdf = ""
-url_slides = ""
-url_video = ""
-url_code = ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+url_code: ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+#url_custom: [{icon_pack: "fab", icon="twitter", name="Follow", url: "https://twitter.com/georgecushen"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
-[image]
+image: 
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
-+++
+  focal_point: "Smart"
+---
 
 
 The *Feasibility study for the establishment of a European Music

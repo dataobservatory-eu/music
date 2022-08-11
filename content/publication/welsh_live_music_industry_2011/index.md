@@ -1,66 +1,66 @@
-+++
-title = "Investigating the Live Music Industry in Wales: A Critical Analysis"
-date = 2011-07-01T10:00:00
-draft = false
+---
+title: "Investigating the Live Music Industry in Wales: A Critical Analysis"
+date: 2011-07-01T10:00:00
+draft: false
 
-authors = ["Paul Carr"]
+authors: ["Paul Carr"]
 
 # Publication type.
 # Legend:
 
-publication_types = ["4"]
+publication_types: ["4"]
 
 # Abstract and optional shortened version.
-abstract = "This report is the result of a grant application awarded by The Welsh Music Foundation, who were given the money by The Welsh Assembly Government. Its purpose was to investigate pertinent issues of the live music industry that resonate within Wales. Research methodology included the implementation of an online questionnaire targeted toward the Welsh music industry, closely followed by a range of face to face interviews with key industry personnel."
+abstract: "This report is the result of a grant application awarded by The Welsh Music Foundation, who were given the money by The Welsh Assembly Government. Its purpose was to investigate pertinent issues of the live music industry that resonate within Wales. Research methodology included the implementation of an online questionnaire targeted toward the Welsh music industry, closely followed by a range of face to face interviews with key industry personnel."
 
-abstract_short = "This report investigates the pertinent issues of the live music industry that resonate within Wales."
+abstract_short: "This report investigates the pertinent issues of the live music industry that resonate within Wales."
 
 # Is this a featured publication? (true/false)
-featured = false
+featured: false
 
 # Projects (optional).
-projects = ["music-reports"]
+projects: ["music-reports"]
 
-tags = ["market-report", "live music", "Wales", "United Kingdom"]
+tags: ["market-report", "live music", "Wales", "United Kingdom"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
+#   E.g. `slides: "example-slides"` references 
 #   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = ""
+#   Otherwise, set `slides: ""`.
+slides: ""
 
 # Links (optional).
-url_pdf = "https://data.music.dataobservatory.eu/plots/Paul-Carr-WMF-Report.pdf"
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
+url_pdf: "https://data.music.dataobservatory.eu/plots/Paul-Carr-WMF-Report.pdf"
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+url_project: ""
+url_slides: ""
+url_video: ""
+url_poster: ""
+url_source: ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Hypertext Version & Downloads Webiste", url = "https://pure.southwales.ac.uk/en/publications/investigating-the-live-music-industry-in-wales-a-critical-analysis(2032d161-b20b-4707-8ef8-97d339dad3c8).html"}]
+url_custom: [{name: "Hypertext Version & Downloads Webiste", url: "https://pure.southwales.ac.uk/en/publications/investigating-the-live-music-industry-in-wales-a-critical-analysis(2032d161-b20b-4707-8ef8-97d339dad3c8).html"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi: ""
 
 # Does this page contain LaTeX math? (true/false)
-math = false
+math: false
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
-+++
+  focal_point: "Center"
+---
 
 This report is the result of a grant application awarded by The Welsh Music Foundation, who were given the money by The Welsh Assembly Government. Its purpose was to investigate pertinent issues of the live music industry that resonate within Wales. Research methodology included the implementation of an online questionnaire targeted toward the Welsh music industry, closely followed by a range of face to face interviews with key industry personnel. The key findings were then taken to a number of forum meetings in the south, west and north of the country, where the industry at large were given the opportunity to discuss preliminary issues. Themes highlighted at the start of the research included: inward investment, training provision needs, examples of best practice, sales and marketing issues, Welsh language issues.
 

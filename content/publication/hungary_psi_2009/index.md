@@ -8,13 +8,13 @@ authors: ["Daniel Antal", "Rita Kiss"]
 
 # Publication type.
 # Legend:
-# 0 = Uncategorized
-# 1 = Conference paper
-# 2 = Journal article
-# 3 = Manuscript
-# 4 = Report
-# 5 = Book
-# 6 = Book section
+# 0: Uncategorized
+# 1: Conference paper
+# 2: Journal article
+# 3: Manuscript
+# 4: Report
+# 5: Book
+# 6: Book section
 publication_types: ["0"]
 
 # Publication name and optional abbreviated version.
@@ -30,20 +30,20 @@ selected: false
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects: ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+#   Otherwise, set `projects: []`.
 projects: ""
 
 # Tags (optional).
-#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+#   Set `tags: []` for no tags, or use the form `tags: ["A Tag", "Another Tag"]` for one or more tags.
 tags: 
  -open-government
  -open-data
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom: [{name = "Prezi", url = "http://prezi.com/emqi9ylcpuyr/psi-magyarorszagi-piac/"}]
+url_custom: [{name: "Prezi", url: "http://prezi.com/emqi9ylcpuyr/psi-magyarorszagi-piac/"}]
 
 # Digital Object Identifier (DOI)
 doi: ""

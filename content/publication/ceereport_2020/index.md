@@ -1,66 +1,66 @@
-+++
-title = "Central & Eastern European Music Industry Report 2020"
-date = 2020-01-29T16:00:00
-draft = false
+---
+title: "Central & Eastern European Music Industry Report 2020"
+date: 2020-01-29T16:00:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
 # Publication type.
 # Legend:
 
-publication_types = ["4"]
+publication_types: ["4"]
 
 # Abstract and optional shortened version.
-abstract = "The results of the first Hungarian, Slovak, Croatian and Czech music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings."
+abstract: "The results of the first Hungarian, Slovak, Croatian and Czech music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings."
 
-abstract_short = "The results of the first Hungarian, Slovak, Croatian and Czech music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings."
+abstract_short: "The results of the first Hungarian, Slovak, Croatian and Czech music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings."
 
 # Is this a featured publication? (true/false)
-featured = true
+featured: true
 
 # Projects (optional).
-projects = ["Digital Music Observatory"]
+projects: ["Digital Music Observatory"]
 
-tags = ["market-report", "Music industry", "Armenia", "Austria", "Bulgaria", "Czechia", "Lithuania", "Hungary", "Slovakia", "Serbia"]
+tags: ["market-report", "Music industry", "Armenia", "Austria", "Bulgaria", "Czechia", "Lithuania", "Hungary", "Slovakia", "Serbia"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
+#   E.g. `slides: "example-slides"` references 
 #   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = ""
+#   Otherwise, set `slides: ""`.
+slides: ""
 
 # Links (optional).
-url_pdf = "http://ceereport2020.ceemid.eu/CEE_Report.pdf"
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
+url_pdf: "http://ceereport2020.ceemid.eu/CEE_Report.pdf"
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+url_project: ""
+url_slides: ""
+url_video: ""
+url_poster: ""
+url_source: ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Hypertext Version & Downloads Webiste", url = "http://ceereport2020.ceemid.eu/"}]
+url_custom: [{name: "Hypertext Version & Downloads Webiste", url: "http://ceereport2020.ceemid.eu/"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.13140/RG.2.2.21450.31686"
+doi: "10.13140/RG.2.2.21450.31686"
 
 # Does this page contain LaTeX math? (true/false)
-math = false
+math: false
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
-+++
+  focal_point: "Center"
+---
 
 The predecessor of Reprex's Demo Music Observatory, CEEMID together with the independent music distributor Consolidated Independent presented and discussed with stakeholders the  [Central & Eastern European Music Industry Report 2020](https://danielantal.eu/publication/ceereport_2020/) as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the [CCS Ecosystems: FLIPPING THE ODDS Conference](http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/) – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.
 

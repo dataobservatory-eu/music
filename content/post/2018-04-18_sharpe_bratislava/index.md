@@ -7,12 +7,12 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["Market report", "Slovakia", "Multipliers", "Music industry"]
+tags: "Market report", "Slovakia", "Multipliers", "Music industry"]
 
 summary = "We presented the most important findings of the Slovak Music Industry Report with the project sponsor, Mgr. Tomas Miks, member of SOZA’s management team in the first SHARPE music conference in Bratislava."
 
 # Projects (optional).
-projects = ["CEEMID", "Listen Local"]
+projects = ["CEEMID", "Listen Local", "Market Reports"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

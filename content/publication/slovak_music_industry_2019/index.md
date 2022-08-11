@@ -1,66 +1,66 @@
-+++
-title = "Slovak Music Industry Report"
-date = 2019-03-26T00:00:00
-draft = false
+---
+title: "Slovak Music Industry Report"
+date: 2019-03-26T00:00:00
+draft: false
 
-authors = ["Daniel Antal, CFA"]
+authors: ["Daniel Antal, CFA"]
 
 # Publication type.
 # Legend:
 
-publication_types = ["4"]
+publication_types: ["4"]
 
 # Abstract and optional shortened version.
-abstract = "Slovakia's first music industry report. Following the three income streams model from creation till audience, we summarized for the the number of works that were created, recorded, staged in Slovakia in a year. We calculated their revenues, their value added, their employment effect and the investments of the recording industry. There is an extensive business development and policy conclusions chapter in the 227-pages report, which follows a similar Hungarian report."
+abstract: "Slovakia's first music industry report. Following the three income streams model from creation till audience, we summarized for the the number of works that were created, recorded, staged in Slovakia in a year. We calculated their revenues, their value added, their employment effect and the investments of the recording industry. There is an extensive business development and policy conclusions chapter in the 227-pages report, which follows a similar Hungarian report."
 
-abstract_short = "Slovakia's first music industry report. Following the three income streams model from creation till audience, we summerized for the the number of works that were created, recorded, staged in Hungary in a year. We calculated their revenues, their value added, their employment effect and the investments of the recording industry."
+abstract_short: "Slovakia's first music industry report. Following the three income streams model from creation till audience, we summerized for the the number of works that were created, recorded, staged in Hungary in a year. We calculated their revenues, their value added, their employment effect and the investments of the recording industry."
 
 # Is this a selected publication? (true/false)
-featured = true
+featured: true
 
 # Projects (optional).
-projects = ["music report"]
+projects: ["music report"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
+#   E.g. `slides: "example-slides"` references 
 #   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = ""
+#   Otherwise, set `slides: ""`.
+slides: ""
 
 # Tags (optional).
-tags = ["market-report", "Slovakia", "Music industry", "VAT", "advocacy", "regulation", "CCS"]
+tags: ["market-report", "Slovakia", "Music industry", "VAT", "advocacy", "regulation", "CCS"]
 
 # Links (optional).
-url_pdf = "http://www.soza.sk/cms/content/files/Sprava_o_slovenskom_hudobnom_priemysle_marec2019.pdf"
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = "https://www.slideshare.net/antaldaniel/spva-o-hudobnom-priemysle-na-slovensku-sharpe-2018"
-url_video = ""
-url_poster = ""
-url_source = ""
+url_pdf: "http://www.soza.sk/cms/content/files/Sprava_o_slovenskom_hudobnom_priemysle_marec2019.pdf"
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+url_project: ""
+url_slides: "https://www.slideshare.net/antaldaniel/spva-o-hudobnom-priemysle-na-slovensku-sharpe-2018"
+url_video: ""
+url_poster: ""
+url_source: ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# url_custom: [{name: "Custom Link", url: "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi: "10.17605/OSF.IO/V3BE9"
 
 # Does this page contain LaTeX math? (true/false)
-math = true
+math: true
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Top"
-+++
+  focal_point: "Top"
+---
 
 The whole report can be downloaded for free from the [homepage of SOZA](http://www.soza.sk/aktuality/235/soza-zverej%C5%88uje-historicky-prvu-spravu-o-slovenskom-hudobnom-priemysle).
 

@@ -1,57 +1,57 @@
-+++
-title = "Feasibility Study On Promoting Slovak Music In Slovakia & Abroad"
-date = '2021-03-25T11:00:00'
-doi =  '10.5281/zenodo.6427514'
-draft = false
+---
+title: "Feasibility Study On Promoting Slovak Music In Slovakia & Abroad"
+date: '2021-03-25T11:00:00'
+doi:  '10.5281/zenodo.6427514'
+draft: false
 
-authors = ["Daniel Antal", "Dáša Bulíková (translator)"]
+authors: ["Daniel Antal", "Dáša Bulíková (translator)"]
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
+# Legend: 0: Uncategorized; 1: Conference paper; 2: Journal article;
+# 3: Preprint / Working Paper; 4: Report; 5: Book; 6: Book section;
+# 7: Thesis; 8: Patent
 
-publication_types = ["4"]
+publication_types: ["4"]
 
 # Abstract and optional shortened version.
-abstract = "Why are the total market shares of Slovak music relatively low both on the domestic and the foreign markets? How can we measure the market share of the Slovak music in the domestic and foreign markets? We offer some answers and solution based on empirical research and with the creation of a database and an AI application."
+abstract: "Why are the total market shares of Slovak music relatively low both on the domestic and the foreign markets? How can we measure the market share of the Slovak music in the domestic and foreign markets? We offer some answers and solution based on empirical research and with the creation of a database and an AI application."
 
 # Is this a selected publication? (true/false)
-featured = true
+featured: true
 
 # Projects (optional).
-projects = ["Listen Local"]
+projects: ["Listen Local"]
 
 # Slides (optional).
 #   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = ""
+#   Otherwise, set `slides: ""`.
+slides: ""
 
 # Tags (optional).
-tags = ["Slovakia", "Trustworthy AI", "Music recommender systems", "Music distribution", "Local content regulation"]
+tags: ["Slovakia", "Trustworthy AI", "Music recommender systems", "Music distribution", "Local content regulation"]
 
 # Links (optional).
-url_pdf =  "https://music.dataobservatory.eu/media/reports/Listen_Local_Feasibility_Study_2020_EN.pdf"
-url_code = ''
-url_dataset = ''
-url_poster = ''
-url_project = '/project/listen-local'
-url_slides = ''
-url_source = ''
-url_video =  ''
+url_pdf:  "https://music.dataobservatory.eu/media/reports/Listen_Local_Feasibility_Study_2020_EN.pdf"
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: '/project/listen-local'
+url_slides: ''
+url_source: ''
+url_video:  ''
 
 # Does this page contain LaTeX math? (true/false)
-math = true
+math: true
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Left"
-+++
+  focal_point: "Left"
+---
 
 Download the study {{% staticref "/media/reports/Listen_Local_Feasibility_Study_2020_SK.pdf" "newtab" %}}in Slovak{{% /staticref %}} or {{% staticref "/media/reports/Listen_Local_Feasibility_Study_2020_EN.pdf" "newtab" %}}in English{{% /staticref %}}.
 

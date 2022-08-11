@@ -6,19 +6,11 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["CISAC", "pricing", "private copying", "private copying", "restaurants", "hedonic pricing", "valuation"]
+tags = ["CISAC", "pricing", "Private copying", "restaurants", "hedonic pricing", "Valuation"]
 
 summary = "My short presentation highlighted the fact that the CEE region’s is much richer in terms of household cultural and recreational spending than music publishers believe."
 
-projects = ["Digital Music Observatory"]
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-# projects = ["pricing", "royalties"]
+projects = ["CEEMID"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -58,4 +50,4 @@ You can review the slides below.
 
 There is a lot more information on the slides. 
 
-Read more in the [Use cases](./usecase/) of this website.
+Read more in the [Use cases](/usecase/) of this website.

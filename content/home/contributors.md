@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Contributors of the Digital Music Observatory
-subtitle:
+subtitle: Data curators, developers, and institutional partners
   
 content:
   # Choose which groups/teams of users to display.
@@ -19,8 +19,9 @@ user_groups:
 - developers
 - data curators 
 - service development team
--institutional partners
+- institutional partners
 - join us
+
 design:
   show_interests: false
 show_role: true

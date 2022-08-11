@@ -58,6 +58,10 @@ main:
     url: '#publications'
     weight: 50
     parent: Publications
+  - name: Software releases
+    url: '#software'
+    weight: 50
+    parent: Publications
   - name: Contributors
     url: '#contributors'
     weight: 55

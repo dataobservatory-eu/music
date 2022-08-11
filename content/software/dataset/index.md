@@ -77,8 +77,8 @@ doi: 10.5281/zenodo.6969683
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
+  caption: ''
+  focal_point: 'TopLeft'
   preview_only: false
 
 # Associated Projects (optional).

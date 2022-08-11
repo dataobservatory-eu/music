@@ -25,32 +25,30 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: ""
+  phone: ""
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: 
+    city: The Hague
+    region: Zuid-Holland
+    postcode: ''
+    country: Netherlands
+    country_code: NL
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '52.07'
+    longitude: '4.313'
+  directions: ""
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    - ''
+  appointment_url: '/#contact'
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://twitter.com/DigitalMusicObs'
+    - icon: linkedin
+      icon_pack: fab
+      link: https://www.linkedin.com/company/79286750/
 
 design:
   columns: '2'

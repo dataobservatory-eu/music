@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: 'Digital Music Observatory'
     description: 'An open knowledge platform for the music industry'
-    twitter: 'wowchemy'
+    twitter: 'DigitalMusicObs'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© 2020-{year} Daniel Antal, Reprex B.V. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

@@ -30,7 +30,31 @@ item:
     description: ''
     organization: Horizon Europe
     organization_url: 
-    title: 
+    title: Invited for contracting Horizon Europe
+    url: ''
+  - certificate_url: 
+    date_end: ''
+    date_start: '2022-07-01'
+    description: ''
+    organization: MusicAIRE
+    organization_url: 
+    title: Four observatory partners win MusicAIRE grants
+    url: ''  
+  - certificate_url: 
+    date_end: ''
+    date_start: '2021-09-01'
+    description: ''
+    organization: Music Creators' Earnings
+    organization_url: 
+    title: Data and analysis for Music Creators' Earnings report
+    url: ''
+  - certificate_url: 
+    date_end: ''
+    date_start: '2020-10-01'
+    description: ''
+    organization: Yes!Delft
+    organization_url: 
+    title: AI+Blockchain Product/Market Fit
     url: ''
 design:
   columns: '2'

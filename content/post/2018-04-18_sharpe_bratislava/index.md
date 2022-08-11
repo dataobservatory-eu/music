@@ -7,7 +7,7 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags: "Market report", "Slovakia", "Multipliers", "Music industry"]
+tags = ["Market report", "Slovakia", "Multipliers", "Music industry"]
 
 summary = "We presented the most important findings of the Slovak Music Industry Report with the project sponsor, Mgr. Tomas Miks, member of SOZA’s management team in the first SHARPE music conference in Bratislava."
 

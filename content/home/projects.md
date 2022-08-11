@@ -29,10 +29,12 @@ content:
       tag: '*'
     - name: CEEMID
       taag: CEEMID
-    - name: Horizon
-      tag: Horizon
+    - name: Listen Local
+      tag: Listen Local
     - name: OpenMuse
       tag: OpenMuse
+    - name: MusicAIRE
+      tag: MusicAIRE
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

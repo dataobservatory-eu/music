@@ -27,7 +27,7 @@ item:
   - certificate_url: 
     date_end: ''
     date_start: '2023-01-01'
-    description: ''
+    description: "Invited for contracting after a competitive tendering for Europe's prestigious research and innovation program."
     organization: Horizon Europe
     organization_url: https://music.dataobservatory.eu/project/openmuse/
     title: Invited for contracting Horizon Europe
@@ -35,7 +35,7 @@ item:
   - certificate_url: 
     date_end: '2023-02-28'
     date_start: '2022-07-01'
-    description: ''
+    description: 'Four partners using open knowledge and data harmonization of the observatory win competitive grants'
     organization: MusicAIRE
     organization_url: 
     title: Four observatory partners win MusicAIRE grants
@@ -43,7 +43,7 @@ item:
   - certificate_url: 
     date_end: ''
     date_start: '2021-09-01'
-    description: ''
+    description: 'Placing the new observatory data into a policy context.'
     organization: Music Creators' Earnings
     organization_url: https://music.dataobservatory.eu/project/mce/
     title: Data and analysis for Music Creators' Earnings report
@@ -51,7 +51,7 @@ item:
   - certificate_url: 
     date_end: ''
     date_start: '2020-10-01'
-    description: ''
+    description: 'Product-market fit validation in the globally 2nd ranked university-backed incubator to turn CEEMID into a music observatory.'
     organization: Yes!Delft
     organization_url: https://www.yesdelft.com/
     title: AI+Blockchain Product/Market Fit
@@ -62,7 +62,7 @@ item:
     description: 'Presenting the first, multi-country, reproducible music market report in Europe'
     organization: Creative Flip
     organization_url: http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/
-    title: AI+Blockchain Product/Market Fit
+    title: Central European Music Industry Report
     url: 'https://music.dataobservatory.eu/post/2020-01-30-ceereport/'
 design:
   columns: '2'

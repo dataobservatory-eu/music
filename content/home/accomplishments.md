@@ -29,11 +29,11 @@ item:
     date_start: '2023-01-01'
     description: ''
     organization: Horizon Europe
-    organization_url: 
+    organization_url: https://music.dataobservatory.eu/project/openmuse/
     title: Invited for contracting Horizon Europe
-    url: ''
+    url: 'https://music.dataobservatory.eu/project/openmuse/'
   - certificate_url: 
-    date_end: ''
+    date_end: '2023-02-28'
     date_start: '2022-07-01'
     description: ''
     organization: MusicAIRE
@@ -45,17 +45,25 @@ item:
     date_start: '2021-09-01'
     description: ''
     organization: Music Creators' Earnings
-    organization_url: 
+    organization_url: https://music.dataobservatory.eu/project/mce/
     title: Data and analysis for Music Creators' Earnings report
-    url: ''
+    url: 'https://music.dataobservatory.eu/project/mce/'
   - certificate_url: 
     date_end: ''
     date_start: '2020-10-01'
     description: ''
     organization: Yes!Delft
-    organization_url: 
+    organization_url: https://www.yesdelft.com/
     title: AI+Blockchain Product/Market Fit
-    url: ''
+    url: 'https://music.dataobservatory.eu/post/2020-09-25-yesdelft-validation/'
+  - certificate_url: 
+    date_end: '2020-01-28'
+    date_start: '2020-01-28'
+    description: 'Presenting the first, multi-country, reproducible music market report in Europe'
+    organization: Creative Flip
+    organization_url: http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/
+    title: AI+Blockchain Product/Market Fit
+    url: 'https://music.dataobservatory.eu/post/2020-01-30-ceereport/'
 design:
   columns: '2'
 ---

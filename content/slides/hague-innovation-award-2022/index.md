@@ -1,8 +1,8 @@
 ---
 title: Slides
-summary: An introduction to using Wowchemy's Slides feature.
+summary: Discussion starter to contest the Hague Innovation Award.
 authors: [daniel_antal]
-tags: [Digital Music Observatory]
+tags: [Digital Music Observatory, Hague Innovation Award 2022]
 categories: []
 date: '2022-08-17T12:00:00Z'
 slides:
@@ -12,6 +12,11 @@ slides:
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
 ---
+
+{{< slide background-image="contest-hague-award-2022.webp" >}}
+
+---
+
 
 # Data Observatory 3.0
 
@@ -72,7 +77,7 @@ slides:
 
 ---
 
-## Possible Use Case
+## Possible Collaboration
 
 - Connect national collective management organization, national library, and various services (Spotify, YouTube) to make the national repertoire more visible
 - Create use statistics for cultural diversity policies and monitoring local content regulations
@@ -82,11 +87,34 @@ slides:
 
 ## Creative and Cultural Sectors Industries Data Observatory
 
+---
 
+{{< slide background-image="ccsi-data-observatory.webp" >}}
 
 ---
 
+## Possible Collaboration
 
+- The [CCSI Data Observatory](https://ccsi.dataobservatory.eu/) already has some data assets on Zenodo, and we can upgrade its API (both as Rest API with datacube and with a simple RDF serialization)
+- Create use statistics for cultural heritage objects and other cultural heritage policy data
+- Revisit some modest deliverables of RECREO and seek new funding.
+
+---
+
+## Green Deal Data Observatory
+
+---
+
+{{< slide background-image="green-deal-europeana-slide.webp" >}}
+
+---
+
+## Possible Collaboration
+
+- The [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/) is currently developed to provide free or very accessible environmental, social and governance reporting tools to the cultural sector.
+- It could also be used to provide ecological context to cultural heritage objects (CHO) for greater awareness.
+
+---
 # Technical Features
 
 [Reprex](https://reprex.nl/) | [Documentation](https://introduction.dataobservatory.eu/)

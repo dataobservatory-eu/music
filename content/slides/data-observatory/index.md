@@ -21,9 +21,14 @@ slides:
 
 ---
 
-## Strategic objectives
+## What are data observatories?
 
 - There are more than 60 functional, and about 20 already discontinued data observatories, i.e. long-term, usually triangular (business, academic, policy) data collection institutions recognized by the EU, OECD or UNESCO, including the [European Observatory on Infringements of Intellectual Property Rights](https://single-market-economy.ec.europa.eu/industry/strategy/intellectual-property/enforcement-intellectual-property-rights/european-observatory-infringements-intellectual-property-rights_en#:~:text=The%20European%20Observatory%20on%20Infringements,countries%2C%20businesses%20and%20civil%20society.) of the EU or the [European Audiovisual Observatory](https://www.obs.coe.int/en/web/observatoire) of the Council of Europe.
+
+---
+
+## In the Hague we do it smarter
+
 - They usually do not exchange standard data with statistical agencies, they are not synchronized on knowledge graphs of the Europeana or national libraries, and their research output is usually not to be found on open science repositories.
 - The Hague is the winner of the [World Smart City Award 2021](https://thehague.com/businessagency/the-hague-the-winner-world-smart-city-award-2021)
 

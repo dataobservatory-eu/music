@@ -29,3 +29,5 @@ vignettes/*.pdf
 public/
 giturl.txt
 .hugo_build.lock
+content/slides/data-observatory/Europeana.pptx
+content/slides/data-observatory/~$Europeana.pptx

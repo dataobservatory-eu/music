@@ -1,8 +1,8 @@
 ---
 title: Slides
-summary: Discussion starter to contest the Hague Innovation Award.
+summary: An introduction to using Wowchemy's Slides feature.
 authors: [daniel_antal]
-tags: [Digital Music Observatory, Hague Innovation Award 2022]
+tags: [Digital Music Observatory]
 categories: []
 date: '2022-08-17T12:00:00Z'
 slides:
@@ -12,11 +12,6 @@ slides:
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
 ---
-
-{{< slide background-image="contest-hague-award-2022.webp" >}}
-
----
-
 
 # Data Observatory 3.0
 

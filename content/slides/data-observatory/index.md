@@ -100,8 +100,8 @@ slides:
 
 ## FAIR
 
-- [x] FAIR metadata: Dublin Core & DataCite referential metadata
-- [x] Integration to FigShare and Zenodo for automated releases and publications
+- [x] FAIR metadata: Dublin Core & DataCite referential metadata. Our [dataset](https://dataset.dataobservatory.eu/) R software package is under review in [rOpenSci](https://ropensci.org/) and will be added to the [rOpenGov](https://ropengov.org/) ecosystem. It will greatly facilitate the automatic release of any research output from the R statistical system.
+- [x] Integration to FigShare and Zenodo for automated releases and publications.
 
 ---
 

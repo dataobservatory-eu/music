@@ -56,6 +56,10 @@ slides:
 
 ---
 
+{{< slide background-image="listen-local-slide.webp" >}}
+
+---
+
 ## Possible Use Case
 
 - Connect national collective management organization, national library, and various services (Spotify, YouTube) to make the national repertoire more visible

@@ -27,7 +27,7 @@ slides:
 
 ---
 
-## In the Hague we do it smarter
+## What are data observatories?
 
 - They usually do not exchange standard data with statistical agencies, they are not synchronized on knowledge graphs of the Europeana or national libraries, and their research output is usually not to be found on open science repositories.
 - The Hague is the winner of the [World Smart City Award 2021](https://thehague.com/businessagency/the-hague-the-winner-world-smart-city-award-2021)
@@ -53,10 +53,6 @@ slides:
 - `Listen Local` in Horizon Europe OpenMuse WP Diversity, Creative Europe MusicAIRE: connected and curated data on 10,000s of music works
 - Our aim is to describe the entire, currently legally available music repertoire of Slovakia and Lithuania at first, and a large part of Ukraine.
 - Connected with name authorities, web services.
-
----
-
-{{< slide background-image="listen-local-slide.webp" >}}
 
 ---
 

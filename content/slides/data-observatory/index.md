@@ -31,7 +31,7 @@ slides:
 
 ---
 
-{{< slide background-image="dataobservatory-mission-statement.png" >}}
+{{< slide background-image="contest-hague-award-2022.webp" >}}
 
 ---
 

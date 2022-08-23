@@ -1,6 +1,9 @@
 ---
+title: OpenMuse Consortium
+subtitle: We are looking for end-users and dissemination partners to test our data and visualization products
+summary: "OpenMuse brings together music industry stakeholders and researchers from 12 European countries. Our partners represent the diversity of the industry, as well as the shared need to find financially, socially, and environmentally sustainable policy and business models in multiple, sometimes-fragmented streams (e.g., live music, composers/publishers, and recordings with producers and performers)."
 date: 2021-05-06T17:52:00
-lastmod: 2021-05-06T18:52:00
+lastmod: 2021-08-21T18:52:00
 external_link: ""
 image:
   caption: ""
@@ -11,12 +14,11 @@ links:
   name: Follow
   url: https://twitter.com/DigitalMusicObs
 slides: ""
-summary: "OpenMusE brings together music industry stakeholders and researchers from 12 European countries. Our partners represent the diversity of the industry, as well as the shared need to find financially, socially, and environmentally sustainable policy and business models in multiple, sometimes-fragmented streams (e.g., live music, composers/publishers, and recordings with producers and performers)."
+
 tags:
+- OpenMuse
 - Digital Music Observatory
-- Music Report
-title: OpenMusE Consortium
-subtitle: We are looking for end-users and dissemination partners to test our data and visualization products
+
 url_code: ""
 url_pdf: "https://reprex.nl/documnets/DMO_Horizon_Europe_Invitation_2022_03_20.pdf"
 url_slides: ""

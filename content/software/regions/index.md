@@ -33,7 +33,8 @@ abstract: An open source R package for validating sub-national statistical typol
 # Summary. An optional shortened abstract.
 summary: regions currently takes care of 20,000 sub-divisional boundary changes in Europe since 1999.
 
-tags: []
+tags: 
+ - Regional statistics
 
 # Display this page in the Featured widget?
 featured: true

@@ -31,7 +31,8 @@ abstract: The goal of retroharmonize is to facilitate retrospective (ex-post) ha
 # Summary. An optional shortened abstract.
 summary: The goal of retroharmonize is to facilitate retrospective (ex-post) harmonization of data, particularly survey data, in a reproducible manner.
 
-tags: []
+tags:
+ - statcodelists
 
 # Display this page in the Featured widget?
 featured: true

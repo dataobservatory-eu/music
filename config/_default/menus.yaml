@@ -36,7 +36,6 @@ main:
     weight: 40
   - name: Use Case
     identifier: Use Case
-    url: '#usecase'
     weight: 45
   - name: Use Cases
     parent: Use Case

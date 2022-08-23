@@ -1,45 +1,41 @@
-+++
+---
 # Project title.
-title = "Valuing Music"
+title:  "Valuing Music"
 
 # Date this page was created.
-date = 2020-11-12T11:00:00
+date:  2020-11-12T11:00:00
 
 # Project summary to display on homepage.
-summary = "Valuing music and projecting royalty flows."
+summary:  "Valuing music and projecting royalty flows."
 
-tags = ["royalties", "private copying", "valuation"]
+tags: 
+ - Valuation
+ - Royalties
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link:  ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
+#   E.g. `slides:  "example-slides"` references 
 #   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = ""
+#   Otherwise, set `slides:  ""`.
+slides:  ""
 
 # Links (optional).
-url_pdf = ""
-url_slides = ""
-url_video = ""
-url_code = ""
+url_pdf:  ""
+url_slides:  ""
+url_video:  ""
+url_code:  ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
-  # Caption (optional)
-  caption = ""
-  
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
-+++
+image:
+  caption:  ""
+  focal_point:  "Smart"
+---
 
 The copyright and neighboring right royalty is the wage-like earning of the music performer, the composer and producer. In popular music performers usually play their own composition and sing their own lyrics. If the musician is self-published, all the three royalties directly pay the artist’s work. If a professional publisher is helping the artist as a composer, or a record producer as a recorded performer, they usually share the respective royalty revenues. In emerging markets fewer, in mature markets more composers are represented by publishers and performers by record labels. 
 

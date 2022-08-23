@@ -1,49 +1,46 @@
-+++
+---
 # Project title.
-title = "Music Reports"
+title:  "Music Reports"
 
 # Date this page was created.
-date = 2020-11-12T08:00:00
+date:  2020-11-12T08:00:00
 
 # Project summary to display on homepage.
-summary = "Reproducible (automatically refreshing) advocacy reports, valuation and grant assessment reports, regulatory filings"
+summary:  "Reproducible (automatically refreshing) advocacy reports, valuation and grant assessment reports, regulatory filings"
 
 # Tags: can be used for filtering projects.
-tags = ["CEEMID", "Surveys", "music industry", "music report"]
+tags:  
+ - Music report
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link:  ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
+#   E.g. `slides:  "example-slides"` references 
 #   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = ""
+#   Otherwise, set `slides:  ""`.
+slides:  ""
 
 # Links (optional).
-url_pdf = ""
-url_slides = ""
-url_video = ""
-url_code = ""
+url_pdf:  ""
+url_slides:  ""
+url_video:  ""
+url_code:  ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+#url_custom:  [{icon_pack:  "fab", icon="twitter", name="Follow", url:  "https://twitter.com/georgecushen"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
-  # Caption (optional)
-  caption = "The royalty gap within Europe"
-  
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
-+++
+image: 
+  caption: Reports created with our research and data
+  focal_point:  "Smart"
+---
 
-Our `Demo Music Observatory` is powering policy, business reports and scientific publication with high quality, internationally comparable data on 
+Our `Digital Music Observatory` is powering policy, business reports and scientific publication with high quality, internationally comparable data on 
 
 * [Music Economy](http://data.music.dataobservatory.eu/#music-economy)
 * [Music Diversity & Circulation](http://data.music.dataobservatory.eu/#music-diversity)

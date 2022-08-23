@@ -1,7 +1,7 @@
 ---
-# An instance of the Pages widget.
+# An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: portfolio
 
 # This file represents a page section.
 headless: true
@@ -13,29 +13,39 @@ title: Software
 subtitle: ''
 
 content:
-  # Filter on criteria
-  filters:
-    folders:
-      - software
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 0
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
-design:
-  # Choose a view for the listings:
-  view: citation
-  columns: '2'
----
+  # Page type to display. E.g. project.
+  page_type: software
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering software releases](/software/).
-{{% /callout %}}
+  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  filter_default: 0
+
+  # Filter toolbar (optional).
+  # To remove the toolbar, delete the entire `filter_button` block.
+  filter_button:
+    - name: All
+      tag: '*'
+    - name: retroharmonize
+      tag: Surveys
+    - name: iotables 
+      tag: Environmental impact analysis
+    - name: regions
+      tag: Regional statistics
+    - name: dataset
+      tag: Reproducible research
+    - name: statcodelists
+      tag: statcodelists
+
+design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '2'
+
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   5 = Showcase
+  view: 2
+
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows: false
+---

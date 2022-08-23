@@ -1,17 +1,17 @@
 ---
-# Project title.
-title: "CEEMID"
-subtitle: "CEEMID (2014-2020) is now the Digital Music Observatory"
+title: CEEMID
+subtitle: CEEMID (2014-2020) is now the Digital Music Observatory
 
 # Date this page was created.
 date: 2019-02-27T00:00:00
 lastmod: 2022-04-11T17:00:00
 
 # Project summary to display on homepage.
-summary: "CEEMID was multi-country project that was a predecessor of Reprex’s Digital Music Observatory."
+summary: CEEMID was multi-country project that was a predecessor of Reprex’s Digital Music Observatory.
 
 # Tags: can be used for filtering projects.
-tags: ["CEEMID", "Surveys", "Digital Music Observatory"]
+tags:
+- CEEMID
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

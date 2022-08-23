@@ -1,30 +1,39 @@
 ---
 # Display name
+# Change this to your name 
+# You can use a title like PhD in the title part but not in the name part.
 title: New Curators
 name: New Curators
 
-# Username (this should match the folder name)
+# Username (this should match the folder name, it should be given_family  your name
+# without capitalization, space, or special characters.
 authors:
   - curator
 
-# Is this the primary user of the site?
+# Is this the primary user of the site? Don't change this.
 superuser: false
 
 # Role/position
+# change this to your role
 role: Future curator
 
 # Organizations/Affiliations
+# you can add multiple -name: Affiliation name and url: myurl pairs.
 organizations:
   - name: Your Affiliation
     url: ""
 
-# Short bio (displayed in user profile at end of posts)
+# Short bio (displayed in user profile at end of posts, please keep this to 1-2 lines)
 bio: Help us curate data – tell us what sort of information is missing from your research agenda. Challenge us and collaborate with us in the crafting of valuable datasets that combine domain knowledge with reproducible, open data research practices.
 
+# please add two topics after data curation
 topics:
   - data curation
   - data science
+  - special topic
 
+# Please change this to your real data.
+# you can add a third course by copying exactly the template.
 education:
   courses:
     - course: MSc in Public Administration
@@ -34,29 +43,42 @@ education:
       institution: Other University
       year: 2010
 
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+# Please place your credentials below by changing this template.
+# Uncomment optional badges / links
 social:
 - icon: envelope
   icon_pack: fas
-  link: "#contact" # For a direct email link, use "mailto:test@example.org".
+  link: "#contact" 
+# For a direct email link, use "mailto:test@example.org", but we usually use the contact form and not reveal your email to the open internet.
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/aaaa-bbbb-cccc-dddd
+# Change to: https://linkedin.com/in/yourusername if you use it for professional purposes.
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/antaldaniel/
+# Change to: keybase.io/your-username 
 - icon: keybase
   icon_pack: fab
   link: https://keybase.io/team/reprexcommunity
+# Change to: https://twitter.com/yourhandle if you use it for professional purposes.
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/EconDataObs
+  link: https://twitter.com/DigitalMusicObs
+# Change to: https://github.com/yourhandle if you use it for professional purposes.
 - icon: github
   icon_pack: fab
   link: https://github.com/dataobservatory-eu
+  
+# - icon:
+# sad
+# 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: "" <we don't use this>
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+#   Change - join us to - data curators
 user_groups:
   - join us
 ---
@@ -70,8 +92,6 @@ user_groups:
 - Great new data products are always made out of some relevant, professional, often playful curiosity to our topics. If you have that curiosity in the field of economic policies, particularly in computational antitrust, innovation research, and understanding the statistically under-represented micro- and small enterprises, join our [Economy Data Observatory](https://economy.dataobservatory.eu/#contributors) curatorial team.  If you have an interest in environmental research of climate change, designing urban, social and economic mitigation strategies, or undertanding how people think about climate change, join our [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/#contributors) curatorial team.  If you are interested in music, musicians, or etchical, trustworthy AI and data governance issues, join our [Digital Music Observatory](https://music.dataobservatory.eu/#contributors) curatorial team. This last observatory is dealing with data governance issues, too, showcase experience from the music industry. 
 
 [Get inspired](https://curators.dataobservatory.eu/data-curators.html#create-new-datasets)
-
-- Send us a plain language document, preferably in any flavor of markdown (See subchapter \@ref(markdown) in the [Tools](#markdown)), or even in a clear text email about the indicator. What should the indicator be used for, how it should be measured, with what frequency, and what could be the open data source to acquire the observations. Experienced data scientists can send us a Jupiter Notebook or an Rmarkdown file with code, but this submission can be a simple plain language document without numbers. 
 
 - Sometimes we put our hands on data that looks like a unique starting point to create a new indicator.  But our indicator will be flawed, if the original dataset is flawed.  And it can be flawed in many ways, most likely that some important aspect of the information was omitted, or the data is autoselected, for example, under-sampling women, people of color, or observations from small or less developed countries. See our curatorial handbook on how to [remain critical](https://curators.dataobservatory.eu/data-curators.html#remain-critical).
 

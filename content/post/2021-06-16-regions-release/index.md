@@ -1,42 +1,46 @@
-+++
-title = "Another Step to bring our Digital Music Observatory Closer To Your Metropolitan Area"
-subtitle = "Maping Regional Data, Maping Metadata Problems"
-date = 2021-06-16T12:00:00
-lastmod = 2021-06-16T12:00:00
-draft = false
+---
+title: "Another Step to bring our Digital Music Observatory Closer To Your Metropolitan Area"
+subtitle: "Maping Regional Data, Maping Metadata Problems"
+date:  2021-06-16T12:00:00
+lastmod:  2021-06-16T12:00:00
+doi: doi.org/10.5281
 
-authors = ["daniel_antal", "rOpenGov", "leo_lahti", "kasia_kulma"]
+authors:  ["daniel_antal", "rOpenGov", "leo_lahti", "kasia_kulma"]
 
-tags = ["Open data", "Open science", "regional data", "sub-national data", "R", "data collection"]
+tags:  
+ - Open data
+ - Open science
+ - Regional data
+ - R
+ - Small area statistics
+ 
+summary:  "Live music is the breadwinner of most music professionals, artists, technicians, and managers alike, and it is a very local business. To analyze the live music economy, and its connection with the recorded music business, we need to create indicators on regional, provincial, or metropolitan area level.  We just made another step to localize our Digital Music Observatory."
 
-summary = "Live music is the breadwinner of most music professionals, artists, technicians, and managers alike, and it is a very local business. To analyze the live music economy, and its connection with the recorded music business, we need to create indicators on regional, provincial, or metropolitan area level.  We just made another step to localize our Digital Music Observatory."
-
-projects = ["eu-datathon_2021"]
+projects:  
+ - OpenMuse
 
 # Featured image
-[image]
-  # Caption (optional)
-  caption = "Annette Wong"
+image:
+  caption:  ""
+  focal_point:  "Center"
+  preview_only:  true
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+categories:
+- R-bloggers
 
-  # Show image only in page previews?
-  preview_only = true
+---
 
-+++
-
-{{< figure src="/screenshots/package/regions_017_169.png" numbered="false" >}}
+{{< figure src="/img/package_screenshots/regions_017_169.png" numbered="false" >}}
 
 The new version of our [rOpenGov](https://ropengov.org/) R package
 [regions](https://regions.dataobservatory.eu/) was released today on
 CRAN. This package is one of the engines of our experimental open
-data-as-service [Green Deal Data
-Observatory](https://greendeal.dataobservatory.eu/) , [Economy Data
-Observatory](https://economy.dataobservatory.eu/) , [Digital Music
-Observatory](https://music.dataobservatory.eu/) prototypes, which aim to
+data-as-service [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/), [Economy Data Observatory](https://economy.dataobservatory.eu/), [Digital Music Observatory](https://music.dataobservatory.eu/) prototypes, which aim to
 place open data packages into open-source applications.
+
+{{< spoiler text="Click to expand table of contents of the post" >}}
+{{<toc>}}
+{{< /spoiler >}}
 
 In international comparison the use of nationally aggregated indicators
 often have many disadvantages: they inhibit very different levels of
@@ -49,10 +53,8 @@ aggregation level and high number of observations can allow more precise
 control of model parameters and errors, and the number of observations
 grows from 20 to 200-300.
 
-This is particularly the case with live music, which is the breadwinner of most music professionals, artists, technicians, and managers alike, and it is a very local business. To analyze the live music economy, and its connection with the recorded music business, we need to create indicators on regional, provincial, or metropolitan area level.  We just made another step to localize our Digital Music Observatory.
 
-
-{{< figure src="/blogposts_2021/indicator_with_map.png" caption="The change from national to sub-national level comes with a huge data processing price: internal administrative boundaries, their names, codes codes change very frequently." numbered="true" >}}
+{{< figure src="/img/blogposts_2021/indicator_with_map.png" caption="The change from national to sub-national level comes with a huge data processing price: internal administrative boundaries, their names, codes codes change very frequently." numbered="true" >}}
 
 Yet the change from national to sub-national level comes with a huge
 data processing price. While national boundaries are relatively stable,
@@ -64,7 +66,7 @@ and boundary definitions of sub-national regions change very frequently.
 Joining data from different sources and different years can be very
 difficult.
 
-{{< figure src="/blogposts_2021/recoded_indicator_with_map.png" caption="Our [regions R package](https://regions.dataobservatory.eu/) helps the data processing, validation and imputation of sub-national, regional datasets and their coding." numbered="true" >}}
+{{< figure src="/img/blogposts_2021/recoded_indicator_with_map.png" caption="Our [regions R package](https://regions.dataobservatory.eu/) helps the data processing, validation and imputation of sub-national, regional datasets and their coding." numbered="true" >}}
 
 There are numerous advantages of switching from a national level of the
 analysis to a sub-national level comes with a huge price in data
@@ -106,7 +108,9 @@ Conduct](https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html)
 
 If you use `regions` in your work, please cite the
 package as:
-Daniel Antal, Kasia Kulma, Istvan Zsoldos, & Leo Lahti. (2021, June 16). regions (Version 0.1.7). CRAN. [http://doi.org/10.5281/zenodo.4965909]((https://doi.org/10.5281/zenodo.4965909))
+Daniel Antal. (2021, June 16). regions (Version 0.1.7). CRAN. [http://doi.org/10.5281/zenodo.4965909]((https://doi.org/10.5281/zenodo.4965909))
+
+Download the {{< staticref "/media/bibliography/cite-regions.bib" "newtab" >}}BibLaTeX entry{{< /staticref >}}.
 
 [![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/regions)](https://cran.r-project.org/package=regions) 
 

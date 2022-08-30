@@ -12,70 +12,108 @@ main:
     url: '#about'
     weight: 10
     parent: Home
-  - name: Services
-    url: '#services'
-    weight: 10
-    parent: Home
   - name: Blog
     url: '#posts'
     weight: 20
+  - name: Solutions
+    url: '#services'
+    weight: 30
+    identifier: Solutions
+  - name: Apps
+    url: '#services'
+    weight: 31
+    parent: Solutions
+  - name: Software
+    url: '#releases'
+    weight: 32
+    parent: Solutions
+  - name: Use cases
+    url: '#usecase'
+    weight: 34
+    parent: Solutions
+  - name: Code
+    url: '/category/r-bloggers/'
+    weight: 34
+    parent: Solutions
   - name: Data
     url: '#pillars'
-    weight: 30
+    weight: 40
     identifier: Data
+  - name: Music & Economy
+    url: '#pillars'
+    weight: 41
+    parent: Data
+  - name: Diversity & Circulation
+    url: '#pillars'
+    weight: 42
+    parent: Data
+  - name: Music & Society
+    url: '#pillars'
+    weight: 43
+    parent: Data
+  - name: Music Tech & Innovation
+    url: '#pillars'
+    weight: 44
+    parent: Data
   - name: Open Science Repository &#128279;
     url: 'https://zenodo.org/communities/music_observatory'
-    weight: 30
+    weight: 48
     parent: Data
   - name: API
     url: '#data'
-    weight: 30
+    weight: 49
     parent: Data
   - name: Projects
     url: '#projects'
-    weight: 40
-  - name: Use Case
-    identifier: Use Case
-    weight: 45
-  - name: Use Cases
-    parent: Use Case
-    url: '#usecase'
-    weight: 45
-  - name: Software
-    url: '#software'
-    weight: 46
-    parent: Use Case
+    weight: 50
+    identifier: Projects
+  - name: Overview
+    url: '#projects'
+    weight: 51
+    parent: Projects
+  - name: Listen Local
+    url: '/project/listen-local/'
+    weight: 52
+    parent: Projects
+  - name: Horizon Europe
+    url: '/project/openmuse/'
+    weight: 53
+    parent: Projects
+  - name: MusicAIRE
+    url: '#projects'
+    weight: 54
+    parent: Projects
   - name: Publications
     url: '#featured'
-    weight: 50
+    weight: 60
     identifier: Publications
   - name: Featured
     url: '#featured'
-    weight: 50
+    weight: 60
     parent: Publications
   - name: All Publications
     url: '#publications'
-    weight: 52
-    parent: Publications
-  - name: Software releases
-    url: '#releases'
-    weight: 51
+    weight: 62
     parent: Publications
   - name: Contributors
     url: '#contributors'
-    weight: 55
+    weight: 70
     identifier: Contributors
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 90
     identifier: Contact
   - name: Get in touch
     url: '#contact'
-    weight: 60
+    weight: 91
     parent: Contact
   - name: Public talks
     url: '#talks'
-    weight: 62
+    weight: 92
+    parent: Contact
+  - name: Meetups in Europe
+    url: '/meetup'
+    weight: 93
     parent: Contact
 
 # Link to a PDF of your resume/CV from the menu.

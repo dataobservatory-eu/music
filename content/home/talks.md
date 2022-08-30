@@ -10,7 +10,7 @@ headless: true
 weight: 70
 
 title: 'Recent & Upcoming Talks'
-subtitle:
+subtitle: More formal events than our [meetups](/meetups/) with a set agenda
 
 content:
   # Page type to display. E.g. post, event, publication...

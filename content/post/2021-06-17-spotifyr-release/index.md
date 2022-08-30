@@ -1,30 +1,33 @@
-+++
-title = "New spotifyr R Package Release"
-subtitle = "2.2.1: Thoroughly modernized exception handling, documentation, and some bug fixes"
-date = 2021-06-17T08:10:00
-lastmod = 2021-06-17T08:10:00
-draft = false
+---
+title: "New spotifyr R Package Release"
+subtitle: "2.2.1: Thoroughly modernized exception handling, documentation, and some bug fixes"
+date: 2021-06-17T08:10:00
+lastmod: 2021-06-17T08:10:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-project = ["Listen Local", "Digital Music Observatory"]
+project:
+ - Listen Local
+ - OpenMuse
 
-tags = ["Algorithms", "Digital Music Observatory", "Trustworthy AI", "recommendations", "Listen Local", "Spotify", "R"]
+tags: ["Algorithms", "Digital Music Observatory", "Trustworthy AI", "Music recommendations", "Listen Local", "Spotify", "R"]
 
-summary = "After a very thorough modernization of the package’s exception handling, documentation, and code dependencies that I did in the last week, the spotifyr package has passed again the peer-review standards and it is back on CRAN. The package is an excellent starting to point for R newbies to try their hands on musicology analysis with a few keystrokes. And of course, it is an essential part of the research infrastructure of musicology worldwide in far more advanced applications."
+summary: "After a very thorough modernization of the package’s exception handling, documentation, and code dependencies that I did in the last week, the spotifyr package has passed again the peer-review standards and it is back on CRAN. The package is an excellent starting to point for R newbies to try their hands on musicology analysis with a few keystrokes. And of course, it is an essential part of the research infrastructure of musicology worldwide in far more advanced applications."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Right"
-
-  # Show image only in page previews?
-  preview_only = true
-+++
+  focal_point: "Right"
+  preview_only: true
+  
+categories:
+- R-bloggers
+---
 
 {{< figure src="/screenshots/package/spotifyr_221.png" caption="The package is an excellent starting to point for R newbies to try their hands on musicology analysis with a few keystrokes. And of course, it is an essential part of the research infrastructure of musicology worldwide in far more advanced applications." numbered="true" >}}
 
@@ -33,6 +36,10 @@ I have been a very long-time user of Charlie Thomson’s [spotifyr R package](ht
 It is an essential part of the [Digital Music Observatory’s](https://music.dataobservatory.eu/) streaming analysis and our [Listen Local](https://listenlocal.community/) apps designed for our trustworthy AI experiments and independent artist services.  I am extremely proud to announce that after a very thorough modernization of the package’s exception handling, documentation, and code dependencies that I did in the last week, the package has passed again the peer-review standards and it is back on CRAN.
 
 The package is an excellent starting to point for R newbies to try their hands on musicology analysis with a few keystrokes. And of course, it is an essential part of the research infrastructure of musicology worldwide in far more advanced applications.
+
+{{< spoiler text="Contents of this blogpost" >}}
+{{<toc>}}
+{{< /spoiler >}}
 
 ## Getting Started
 
@@ -52,7 +59,7 @@ library(purrr)
 library(knitr)
 
 beatles %>% 
-    count(key_mode, sort = TRUE) %>% 
+    count(key_mode, sort: TRUE) %>% 
     head(5) %>% 
     kable()
 ```
@@ -70,10 +77,10 @@ beatles %>%
 ``` r
 library(lubridate)
 
-get_my_recently_played(limit = 5) %>% 
+get_my_recently_played(limit: 5) %>% 
     mutate(
-        artist.name = map_chr(track.artists, function(x) x$name[1]),
-        played_at = as_datetime(played_at)
+        artist.name: map_chr(track.artists, function(x) x$name[1]),
+        played_at: as_datetime(played_at)
         ) %>% 
     select(
       all_of(c("track.name", "artist.name", "track.album.name", "played_at"))
@@ -94,12 +101,12 @@ That's about right...
 ### Find Your All Time Favorite Artists
 
 ``` r
-get_my_top_artists_or_tracks(type = 'artists', 
-                             time_range = 'long_term', 
-                             limit = 5) %>% 
+get_my_top_artists_or_tracks(type: 'artists', 
+                             time_range: 'long_term', 
+                             limit: 5) %>% 
     select(.data$name, .data$genres) %>% 
     rowwise %>% 
-    mutate(genres = paste(.data$genres, collapse = ', ')) %>% 
+    mutate(genres: paste(.data$genres, collapse: ', ')) %>% 
     ungroup %>% 
     kable()
 ```
@@ -117,11 +124,11 @@ What could I say?  I travelled Australia listening only to Angus & Julia Stone, 
 ### Find your favorite tracks at the moment
 
 ``` r
-get_my_top_artists_or_tracks(type = 'tracks', 
-                             time_range = 'short_term', 
-                             limit = 5) %>% 
+get_my_top_artists_or_tracks(type: 'tracks', 
+                             time_range: 'short_term', 
+                             limit: 5) %>% 
     mutate(
-        artist.name = map_chr(artists, function(x) x$name[1])
+        artist.name: map_chr(artists, function(x) x$name[1])
         ) %>% 
     select(name, artist.name, album.name) %>% 
     kable()
@@ -206,4 +213,9 @@ Vatsa
 
 A key mission of our [Digital Music Observatory](https://music.dataobservatory.eu/), which is our modern, subjective approach on how the future European Music Observatory should look like, is to not only to provide high-quality data on the music economy, the diversity of music, and the audience of music, but also on metadata.  The quality and availability, interoperability of metadata (information about how the data should be used) is key to build trustworthy AI systems. We rely on [spotifyr](https://github.com/charlie86/spotifyr) to fulfil this mission.
 
-*Join our open collaboration Music Data Observatory team as a [data curator](https://music.dataobservatory.eu/author/new-curators/), [developer](https://music.dataobservatory.eu/author/new-developers/) or [business developer](https://music.dataobservatory.eu/author/observatory-business-associate/).
+
+{{< spoiler text="Join our Digital Music Observatory collaboration!" >}}
+Join our open collaboration Digital Music  Observatory team as a [data curator](https://music.dataobservatory.eu/author/new-curators/), [developer](https://music.dataobservatory.eu/author/new-developers/) or [business developer](https://music.dataobservatory.eu/author/observatory-business-associate/).
+{{< /spoiler >}}
+
+

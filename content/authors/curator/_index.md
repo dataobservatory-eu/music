@@ -23,14 +23,19 @@ organizations:
   - name: Your Affiliation
     url: ""
 
+# Uncomment and add as many as you like
+#  - name: New affiliation
+#    url: ""
+
 # Short bio (displayed in user profile at end of posts, please keep this to 1-2 lines)
 bio: Help us curate data – tell us what sort of information is missing from your research agenda. Challenge us and collaborate with us in the crafting of valuable datasets that combine domain knowledge with reproducible, open data research practices.
 
 # please add two topics after data curation
+# Use topics Capitalized.
 topics:
-  - data curation
-  - data science
-  - special topic
+  - Data curation
+  - Data science
+  - Special topic
 
 # Please change this to your real data.
 # you can add a third course by copying exactly the template.
@@ -57,15 +62,16 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/antaldaniel/
-# Change to: keybase.io/your-username 
+# Change keybase link below to: keybase.io/your-username 
 - icon: keybase
   icon_pack: fab
   link: https://keybase.io/team/reprexcommunity
-# Change to: https://twitter.com/yourhandle if you use it for professional purposes.
+# Change twitter link below to https://twitter.com/yourhandle if you use it for professional purposes, or delete twitter three lines.
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DigitalMusicObs
 # Change to: https://github.com/yourhandle if you use it for professional purposes.
+# Otherwise delete three lines below.
 - icon: github
   icon_pack: fab
   link: https://github.com/dataobservatory-eu

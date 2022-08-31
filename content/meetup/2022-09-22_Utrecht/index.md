@@ -2,7 +2,7 @@
 title: Listen Local Utrecht
 subtitle: Nurture and protect the local music ecosystem on global platforms
 
-event: Eindhoven Innovation Café Breakout Talks
+event: Listen Local Utrecht
 event_url: https://www.eventbrite.com/manage/events/411140571517/
 
 location: TBA

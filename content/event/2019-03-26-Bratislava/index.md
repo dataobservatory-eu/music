@@ -1,7 +1,8 @@
 ---
 title:  "Presentation of the Slovak Music Industry Report 2019"
 date:  2019-03-26T13:00:00  # Schedule page publish date.
-draft:  false
+categories:
+ - Conference
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

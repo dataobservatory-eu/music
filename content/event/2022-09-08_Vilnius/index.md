@@ -2,6 +2,9 @@
 title: Listen Local
 subtitle: How to avoid that local AI algorithms colonize the Lithuanian music ecosystem
 
+categories:
+ - Conference
+
 event: What's Next In Music
 event_url: https://wnim.lt/
 

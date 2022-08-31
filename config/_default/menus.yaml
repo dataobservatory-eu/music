@@ -112,7 +112,7 @@ main:
     weight: 92
     parent: Contact
   - name: Meetups in Europe
-    url: '/meetup'
+    url: '/category/meetup/'
     weight: 93
     parent: Contact
 

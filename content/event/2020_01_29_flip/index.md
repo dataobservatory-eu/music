@@ -1,10 +1,10 @@
 ---
 title:  "Central European Music Industry Report 2020"
 date:  2020-01-22T14:16:00  
-draft:  false
-
+categories:
+ - Conference
+ 
 # Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
 time_start:  2020-01-29T10:10:00
 time_end:  2020-01-29T18:00:00
 

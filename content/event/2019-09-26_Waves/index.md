@@ -1,7 +1,9 @@
 ---
 title:  "Panel Discussion of the Central Euroepan Music Industry Report 2019"
 date:  2019-09-20T10:16:00  # Schedule page publish date.
-draft:  false
+
+categories:
+ - Conference
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

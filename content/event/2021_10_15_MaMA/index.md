@@ -9,6 +9,9 @@ draft: false
 time_start: 2021-10-15T11:00:00  
 time_end: 2021-10-15T13:30:00  
 
+categories:
+ - Conference
+
 authors: ["Daniel Antal, CFA"]
 
 # Abstract and optional shortened version.

@@ -4,6 +4,10 @@ date:  2021-11-03T15:00:00+02:00
 lastmod:  2021-11-03T15:00:00+02:00  
 draft:  false
 
+
+categories:
+ - Conference
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 time_start:  2021-11-23T11:00:00+02:00

@@ -51,6 +51,44 @@ slides:
 [Human agency and oversight](https://music.dataobservatory.eu/project/trustworthy-ai#human-agency) | [Technical Robustness and Safety](project/trustworthy-ai#technical-robustness) | [Human agency and oversight](https://music.dataobservatory.eu/project/trustworthy-ai/#human-agency) | [Privacy and Data Governance](https://music.dataobservatory.eu/project/trustworthy-ai#data-governance) | [Transparency](https://music.dataobservatory.eu/project/trustworthy-ai#transparency) | [Diversity, Non-Discrimination and Fairness](https://music.dataobservatory.eu/project/trustworthy-ai#fairness) | [Societal and Environmental Well-Being ](https://music.dataobservatory.eu/project/trustworthy-ai#well-being) 
 
 ---
+
+## Data biases
+
+Empty slide at this point
+
+---
+
+{{< slide background-image="listen_local_slovakia_publication.webp" >}}
+<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
+
+{{% fragment %}} [Download in English](https://music.dataobservatory.eu/publication/listen_local_2020/) | {{% /fragment %}} {{% fragment %}} | [Download in Slovak](https://music.dataobservatory.eu/publication/listen_local_2020/) {{% /fragment %}}
+
+---
+
+# Our Invitation
+
+
+---
+
+## Ensure the Visibilty of Lithuania's Music
+
+- CTA for national library
+- CTA for collective management
+- CTA for individuals
+
+---
+
+## Fair Remuneration for Lithuania's Creators
+
+- CTA for collective management
+- CTA for individuals/small businesss
+
+--- 
+
+## Avoid Discrimination Against Lithuanian Creators and Companies
+
+--- 
+
 ## Code Highlighting
 
 Inline code: `variable`
@@ -77,21 +115,6 @@ $$
 
 ---
 
-## Fragments
-
-Make content appear incrementally
-
-```
-{{%/* fragment */%}} One {{%/* /fragment */%}}
-{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
-{{%/* fragment */%}} Three {{%/* /fragment */%}}
-```
-
-Press `Space` to play!
-
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
 
 ---
 

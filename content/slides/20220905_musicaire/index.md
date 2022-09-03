@@ -35,14 +35,14 @@ slides:
 
 ## Digital Music Observatory
 
-- The Digital Music Observatory is an [Public Open Scholarly Infrastructure](), which supports various public benefit music sector projects with open-source software, open data, and linked data services.
+- The Digital Music Observatory is an [Open Scholarly Infrastructure](https://openscholarlyinfrastructure.org/), which supports various public benefit music sector projects with open-source software, open data, and linked data services.
 
-- The Digital Music Observatory was invited to make a grant agreement with the Horizon Europe Program with the OpenMuse project, where four MusicAIRE beneficiaries are partners.
+- The Digital Music Observatory was invited to make a grant agreement with the Horizon Europe Program with the [OpenMuse project](https://music.dataobservatory.eu/project/openmuse/), where four MusicAIRE beneficiaries are partners.
 
 ---
 -  OpenMuse is not a competing with the MusicAIRE projects. In fact, we invited IMPALA and EMC into the OpenMuse as external partners, and our collaboration is open for others, too.
 
-- OpenMuse will deliver a [Public Open Scholarly Infrastructure](), which will be an intended prototype for a future European Music Observatory.
+- OpenMuse will deliver a [Open Scholarly Infrastructure](https://openscholarlyinfrastructure.org/), which will be an intended prototype for a future `European Music Observatory`.
 
 - Several MusicAIRE projects will use this open infrastructure for improving our linking their data. We offer this to any further projects which have a strong, open, and linkable data component.
 
@@ -60,15 +60,23 @@ Listen Local Lithuania is a project of MXF, and will be shown as a use case in O
 
 ---
 
+## Music Export Ukraine
+
+We will further develop the [existing databases](https://www.musicexportukraine.com/database-industry-ua) of Music Export Ukraine in the OpenMuse project. Their MusicAIRE project is not related to the OpenMuse.
+
+---
+
 ## Eviota
 
-Eviota is a project of Reprex, and lead by the policy liaison officer of OpenMuse.
+- Eviota is a project of [Reprex](https://reprex.nl/), and lead by the policy liaison officer of OpenMuse. 
+- Reprex is also contesting **The Hague Innovation Award** with the support of Europeana. We want to win the support of our beautiful host city and Europe's digital cultural heritage organization to support a better connection of our projects. 
+- The Hague is the winner of the World Smart Cities 2021 Award, and particularly supports startups that want to have an impact of on the UN SDG Goals.  This is what we do with Eviota.
 
 ---
 
 - Eviota is an application concept that connects financial reports with sustainability reports.
 - The concept is developed with a value bank, a big four auditor, and a central bank.
-- It is based on the open source software maintained by Reprex, iotables, which has been used in the past for economic impact assessments in the Slovak and Czech music industries, and the Hungarian film industry, and which was extended for Environmental Impact Assessments.
+- It is based on the open source software maintained by Reprex, [iotables](https://iotables.dataobservatory.eu/), which has been used in the past for economic impact assessments in the Slovak and Czech music industries, and the Hungarian film industry, and which was extended for Environmental Impact Assessments.
 
 ---
 
@@ -93,4 +101,4 @@ Eviota is a project of Reprex, and lead by the policy liaison officer of OpenMus
 # Questions?
 
 Get in Touch: [Daniel - Digital Music Observatory](https://music.dataobservatory.eu/authors/daniel_antal/) | 
-[Bori - Reprex](https://wowchemy.com/docs/managing-content/#create-slides)
+[Borbala - Reprex](https://reprex.nl/authors/borbala_domotorfy/)

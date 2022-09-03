@@ -48,7 +48,7 @@ url_slides: ''
 url_video: ''
 
 # Markdown Slides (optional).
-slides:
+slides: listen-local-lithuania-invitation
 
 # Projects (optional).
 projects:

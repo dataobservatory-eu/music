@@ -38,7 +38,7 @@ image:
   focal_point: Right
 
 url_code: ''
-url_pdf: ''
+url_pdf: 'http://kurklt.lt/wp-content/uploads/2022/09/Artech_Esamos-situacijos-analize.pdf'
 url_slides: ''
 url_video: ''
 
@@ -50,10 +50,6 @@ url_video: ''
 slides: listen-local-lithuania-invitation
 
 # Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects:
  - Listen Local
 ---
@@ -86,3 +82,6 @@ You can meet the project's manager and the speaker on 10 September in Kaunas, at
 `Listen Local Lithuania` is supported by the European Union's [MusicAIRE](https://musicaire.eu/), an EU-funded project that aims to provide tailored-made instruments for the sector and contribute to a green, digital, just, and resilient recovery of the music ecosystem. It is managed by MXF in collaboration with Music Export Ukraine and Reprex.
 
 [MXF](https://music.dataobservatory.eu/author/mxf-muzikos-eksporto-fondas/) and the outcomes of the `Listen Local Lithuania` will participate in the OpenMusE project, an international research and innovation project with prestigious universities, music industry stakeholders, collective management organizations, and innovative SMEs to design tools that promote the diversity of music on global platforms, increase the revenues and decrease the data costs of music organizations, provide cultural policymakers with the Open Policy Analysis framework the first time in Europe. This open collaboration project funded for 2023-2025 is open for small and large music organizations, collective management organizations, libraries, and cultural policymakers. 
+
+Suggested reading:
+- [ArtTech – galimybės Lietuvos kultūros ir kūrybinių industrijų sektoriui. Lietuvos esamos situacijos analizė](http://kurklt.lt/wp-content/uploads/2022/09/Artech_Esamos-situacijos-analize.pdf)

@@ -42,7 +42,7 @@ from various components of the GDP, tax collection, at least every five
 years.
 
 {{% callout note %}}
-This code tutorial is not outdated, but the [iotables](https://iotables.dataobservatory.eu/) software has a new release with more environmental impact analysis featues.
+This code tutorial is not outdated, but the [iotables](https://iotables.dataobservatory.eu/) R package has a new release with more environmental impact analysis featues.
 {{% /callout %}}
 
 {{< spoiler text="Click to expand table of contents of the post" >}}
@@ -338,8 +338,8 @@ to all.
 recruitment
 -->
 
-{{< spoiler text="Join our Digital Music Observatory collaboration!" >}}
-*Join our open collaboration Digital Music Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team). More interested in economic policies, particularly computation antitrust, innovation and small enterprises? Check out our [Economy Music Observatory](https://economy.dataobservatory.eu/#contributors) team! Or your interest lies more in sustainability and preventing greenwashing? Check out our [Green Deal Data  Observatory](https://greendeal.dataobservatory.eu/#contributors) team!*
+{{< spoiler text="Join our Green Deal Data Observatory collaboration!" >}}
+*Join our open collaboration Green Deal Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team). More interested in economic policies, particularly computation antitrust, innovation and small enterprises? Check out our [Economy Music Observatory](https://economy.dataobservatory.eu/#contributors) team! Or your interest lies more in data governance, trustworthy AI and other digital market problems? Check out our [Digital Music Observatory](https://music.dataobservatory.eu/#contributors) team!*
 {{< /spoiler >}}
 
 

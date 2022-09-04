@@ -1,10 +1,10 @@
 ---
-title: Slides
-summary: An introduction to using Wowchemy's Slides feature.
+title: Digital Music Observatory
+summary: 
 authors: []
 tags: []
 categories: []
-date: '2019-02-05T00:00:00Z'
+date: '2022-09-04T00:00:00Z'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
@@ -13,9 +13,10 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Wowchemy
+# Invitation for an open collaboration
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
+[Digital Music Observatory](https://music.dataobservatory.eu/) | [Eviota]() |[Listen Local Lithuania](https://music.dataobservatory.eu/talk/listen-local/) | [Surveyharmonies]()
+
 
 ---
 
@@ -42,6 +43,7 @@ slides:
 
 ---
 
+<!---
 ## Code Highlighting
 
 Inline code: `variable`
@@ -161,9 +163,11 @@ Create `assets/css/reveal_custom.css` with:
 ```
 
 ---
+--->
+
+---
 
 # Questions?
 
-[Ask](https://github.com/wowchemy/wowchemy-hugo-modules/discussions)
-
-[Documentation](https://wowchemy.com/docs/managing-content/#create-slides)
+Get in Touch: [Daniel - Digital Music Observatory](https://music.dataobservatory.eu/authors/daniel_antal/) | 
+[Borbala - Reprex](https://reprex.nl/authors/borbala_domotorfy/)

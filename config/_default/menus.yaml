@@ -20,16 +20,16 @@ main:
     weight: 30
     identifier: Solutions
   - name: Apps
-    url: '#services'
+    url: 'apps/'
     weight: 31
     parent: Solutions
   - name: Software
     url: '#releases'
     weight: 32
     parent: Solutions
-  - name: Use cases
-    url: '#usecase'
-    weight: 34
+#  - name: Use cases
+#    url: '#usecase'
+#    weight: 34
     parent: Solutions
   - name: Code
     url: '/category/r-bloggers/'

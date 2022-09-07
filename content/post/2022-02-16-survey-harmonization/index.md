@@ -1,29 +1,29 @@
-+++
-title = "What is Survey Harmonization?"
-subtitle = "Create more useable, cheaper, and better-quality questionnaire-based research"
-date = 2022-02-16T17:00:00+01:00
-lastmod = 2022-02-17T08:15:00+01:00
-draft = false
+---
+title: "What is Survey Harmonization?"
+subtitle: "Create more useable, cheaper, and better-quality questionnaire-based research"
+date: 2022-02-16T17:00:00+01:00
+lastmod: 2022-02-17T08:15:00+01:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = [ "Digital Music Observatory", "Survey harmonization", "Cultural Access and Participation", "Data integration"]
+tags: [ "Digital Music Observatory", "Survey harmonization", "Cultural Access and Participation", "Data integration"]
 
-summary = "Survey harmonization is a powerful research tool to increase the usability of questionnaire-based empirical research.  When the same questions are asked from similarly selected German and French people, music audiences and musicians, then we can make meaningful comparisons between the public opinions of the two countries, or the different perceptions of fans and makers of music."
+summary: "Survey harmonization is a powerful research tool to increase the usability of questionnaire-based empirical research.  When the same questions are asked from similarly selected German and French people, music audiences and musicians, then we can make meaningful comparisons between the public opinions of the two countries, or the different perceptions of fans and makers of music."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only: true
 
-+++
+---
 
 
 Survey harmonization is a powerful research tool to increase the usability of questionnaire-based empirical research.  When the same questions are asked from similarly selected German and French people, music audiences and musicians, then we can make meaningful comparisons between the public opinions of the two countries, or the different perceptions of fans and makers of music.  And if we repeat this procedure time after time, we can see if opinion is shifting more in Germany or France, or the living conditions of musicians are catching up with the rest of the country population.
@@ -38,7 +38,7 @@ The *Digital Music Observatory* and its predecessor, [CEEMID](https://reprex.nl/
 
 - [x]   When you make questionnaire-based research, you immediately get a history (the same question asked years ago) and an international comparison (the same question asked in other countries.)
 
-- [x]   Often you do not even have to pay for the survey, because somebody else has already made a similar taxpayer funded research and we can just get the data for you.
+- [x]  Often you do not even have to pay for the survey, because somebody else has already made a similar taxpayer funded research and we can just get the data for you.
 Harmonizing surveys requires advanced data science and statistics knowledge, which is what we provide with the scientific partners of the Digital Music Observatory.  We have developed an open-source software, free to use, for this purpose.  It is not for the faint heart – but users of our observatory can just leave their data for us and let us run the code. 
 
 {{% callout note %}} Before you start a new questionnaire-based research, get in touch with us!  Maybe we have history for your questionnaires.  We can make your survey cheaper, better, and more informative. 

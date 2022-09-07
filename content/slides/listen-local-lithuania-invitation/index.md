@@ -57,7 +57,7 @@ slides:
 ---
 
 {{< slide background-image="openmuse_logos.webp" >}}
-<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
+
 
 --- 
 ## Read More
@@ -66,7 +66,11 @@ slides:
 
 ---
 
-# LV
+{{< slide background-image="lithuanian_policy_papers.webp" >}}
+
+---
+
+## Lithuania is no different
 
 [Muzikos sritis - Ekspertinio vertinimo ataskaita](https://www.ltkt.lt/admin/ckeditor/fileman/Uploads/SAMS/ATASKAITOS/LKT%20ataskaita%20muzika%20Pakarklyte.pdf) | [ArtTech – galimybės Lietuvos kultūros ir kūrybinių industrijų sektoriui. Rekomendacijos
 ](http://kurklt.lt/wp-content/uploads/2022/09/Rekomendacijos.pdf)

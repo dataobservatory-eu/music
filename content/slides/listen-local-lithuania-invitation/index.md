@@ -64,6 +64,12 @@ slides:
 
 [Income & empirical comparisons](https://music.dataobservatory.eu/data/surveys/) | [Setting the Value of Lithuanian Music](https://music-competition.dataobservatory.eu/relevant-product-market.html#fair-value)
 
+---
+
+# LV
+
+[Muzikos sritis - Ekspertinio vertinimo ataskaita](https://www.ltkt.lt/admin/ckeditor/fileman/Uploads/SAMS/ATASKAITOS/LKT%20ataskaita%20muzika%20Pakarklyte.pdf) | [ArtTech – galimybės Lietuvos kultūros ir kūrybinių industrijų sektoriui. Rekomendacijos
+](http://kurklt.lt/wp-content/uploads/2022/09/Rekomendacijos.pdf)
 
 ---
 

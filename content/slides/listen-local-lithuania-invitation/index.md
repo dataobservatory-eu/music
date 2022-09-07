@@ -163,6 +163,13 @@ Get in Touch: [Daniel - Digital Music Observatory](https://music.dataobservatory
 
 ---
 
+# Market analysis
+
+---
+
+{{< slide background-image="streaming_index.webp" >}}
+
+---
 # Avoiding negative outcomes
 
 ---
@@ -195,6 +202,6 @@ Get in Touch: [Daniel - Digital Music Observatory](https://music.dataobservatory
 
 - `open linked data`: We aim to sync with [AGATA](https://www.agata.lt/),  [LATGA](https://www.latga.lt/), the [Martynas Mažvydas National Library of Lithuania](https://www.lnb.lt/), [MIC](https://www.mic.lt/en/) and internationally via the [Europeana](https://www.europeana.eu/en), [Music Brainz](https://musicbrainz.org/) and  [Zenodo](https://zenodo.org/communities/music_observatory/?page=1&size=20) with global libraries, music services, and scientic repositories.
 
-- `smart policies`: In synch with the the Cultural Ministry of Lithuania, providing a blueprint for film, television, books, newspapers, fashion, architecture, designa and other cultural and creative industries.
+- `open and smart policies`: In sync with the the Cultural Ministry of Lithuania, providing a blueprint for film, television, books, newspapers, fashion, architecture, design and other cultural and creative industries.
 
 

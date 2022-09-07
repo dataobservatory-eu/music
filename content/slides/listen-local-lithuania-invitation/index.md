@@ -46,7 +46,7 @@ slides:
 
 ---
 
-{{< slide background-image="difficulty_bills_levels.webp" >}}
+{{< slide background-image="difficult_bills_slide.webp" >}}
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
 ---
@@ -56,7 +56,7 @@ slides:
 
 ---
 
-{{< slide background-image="logos_3_1.webp" >}}
+{{< slide background-image="openmuse_logos.webp" >}}
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
 --- 
@@ -86,6 +86,11 @@ slides:
 
 ---
 
+{{< slide background-image="Listen_Local_Slide.webp" >}}
+<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
+
+
+---
 
 ## Local content regulation & goals
 
@@ -95,7 +100,18 @@ slides:
 
 --- 
 
-## Smart Policy Brief
+
+
+# Open Polcy Analysis
+
+---
+
+{{< slide background-image="OPA_slide.webp" >}}
+<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
+
+---
+
+## Open Policy Brief
 
 - Trustworthy Cultural AI: make big data work for Lithuania artists and small labels, publishers and CCIs
 - Synchronize the (meta)data of Lithuania heritage and present cultural production as linked open data, so that autonomous systems of Spotify, YouTube, Wikipedia, Library of Congress, etc, can read it.

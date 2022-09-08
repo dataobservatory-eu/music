@@ -96,6 +96,10 @@ slides:
 
 ---
 
+{{< slide background-image="cee_report_slide_qr.webp" >}}
+
+---
+
 {{< slide background-image="openmuse_logos.webp" >}}
 
 
@@ -157,7 +161,7 @@ Features:
 
 ## Invitation for an open collaboration
 
-Click for Contacts: [Digital Music Observatory](https://music.dataobservatory.eu/) | [Listen Local Lithuania](https://music.dataobservatory.eu/talk/listen-local/) | [LaLa for Artists]() | [Lala for Fans]() | [Open Policy Analysis]()
+Click for Contacts: [Digital Music Observatory](https://music.dataobservatory.eu/) | [Listen Local Lithuania](https://music.dataobservatory.eu/talk/listen-local/) | [LaLa for Artists](https://reprex.nl/#contact) | [Lala for Fans](https://reprex.nl/#contact) | [Open Policy Analysis](https://reprex.nl/#contact)
 
 
 ---
@@ -167,7 +171,6 @@ Get in Touch: [Daniel - Valuations, Metadata, AI Policy](https://music.dataobser
 [Mark - MXF](https://wowchemy.com/docs/managing-content/#create-slides)
 
 ---
-
 # Market analysis
 
 ---

@@ -17,7 +17,6 @@ slides:
 
 [Digital Music Observatory](https://music.dataobservatory.eu/) | [Listen Local Lithuania](https://music.dataobservatory.eu/talk/listen-local/)
 
-
 --- 
 ## Controls
 
@@ -33,14 +32,15 @@ slides:
 
 ---
 
-# From Hungary, Slovakia, Croatia to OpenMuse
+1. Lithuanian creators, including music creators, should earn as much as the European average. Their income should level up to German and Finnish levels.
 
+2. Lithuanian people should find good Lithuanian music in Lithuania on Spotify, YouTube and the radio. Foreign labels must not increase their market share and colonize the local creative ecosystem.
 
 ---
 
 # Joining the European Union
 
-- Artists should get the average European "salary"
+- Why should creators earn less than other skilled occupations and knowledge workers?
 - Why should artists get less paid than the average in Lithuania?
 - Why should Lithuanians get paid less than the average European?
 
@@ -54,10 +54,6 @@ slides:
 {{< slide background-image="full_market_example.webp" >}}
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
----
-
-{{< slide background-image="openmuse_logos.webp" >}}
-<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
 --- 
 ## Read More
@@ -66,16 +62,10 @@ slides:
 
 ---
 
-# LV
-
-[Muzikos sritis - Ekspertinio vertinimo ataskaita](https://www.ltkt.lt/admin/ckeditor/fileman/Uploads/SAMS/ATASKAITOS/LKT%20ataskaita%20muzika%20Pakarklyte.pdf) | [ArtTech – galimybės Lietuvos kultūros ir kūrybinių industrijų sektoriui. Rekomendacijos
-](http://kurklt.lt/wp-content/uploads/2022/09/Rekomendacijos.pdf)
+{{< slide background-image="Listen_Local_slide.webp" >}}
+<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
 ---
-
-# Why Slovak Artists Are Invisible in SLovakia?
-
---- 
 
 ## Why They Recommend American Music
 
@@ -85,44 +75,31 @@ slides:
 
 ---
 
-
 {{< slide background-image="listen_local_slovakia_publication.webp" >}}
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
 {{% fragment %}} [Download in English](https://music.dataobservatory.eu/publication/listen_local_2020/) | {{% /fragment %}} {{% fragment %}} | [Download in Slovak](https://music.dataobservatory.eu/publication/listen_local_2020/) {{% /fragment %}}
 
----
 
-{{< slide background-image="Listen_Local_slide.webp" >}}
-<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
 --- 
 
-## LaLa Database
+{{< slide background-image="lithuanian_policy_papers.webp" >}}
 
-- Opt-in, opt-out database to make sure that you are in control
-- Health check of artist data from Wikipedia to YouTube
-- Make changes that avoid missing payments, recommendations errors.
-
----
-
-## Listen Local Database
-
-- Write-in database that we do not forget about any new or legacy artists, crowdsourcing for fans, journalists, musicians, educators to add artists, bands, ensembles
-- Minimum requirement one commercially released recording, one published music composition, a Wikipedia page. Other commercially not released artists, or their heirs must explicitly register to LaLa (if they are not public, GDPR applies)
 
 
 ---
+## Lithuania is no different
 
-## Local content regulation & goals
+[Muzikos sritis - Ekspertinio vertinimo ataskaita](https://www.ltkt.lt/admin/ckeditor/fileman/Uploads/SAMS/ATASKAITOS/LKT%20ataskaita%20muzika%20Pakarklyte.pdf) | [ArtTech – galimybės Lietuvos kultūros ir kūrybinių industrijų sektoriui. Rekomendacijos
+](http://kurklt.lt/wp-content/uploads/2022/09/Rekomendacijos.pdf)
 
-- Unpaid revenue rate
-- Local content regulations for radios
-- Goal setting on streaming
+---
 
---- 
+{{< slide background-image="openmuse_logos.webp" >}}
 
 
+---
 
 # Open Polcy Analysis
 
@@ -139,6 +116,22 @@ slides:
 - Synchronize the (meta)data of Lithuania heritage and present cultural production as linked open data, so that autonomous systems of Spotify, YouTube, Wikipedia, Library of Congress, etc, can read it.
 - Practical, open source solutions that can immediately applied
 - Access to the OpenMuse know-how
+
+---
+
+## LaLa Database
+
+- Opt-in, opt-out database to make sure that you are in control
+- Health check of artist data from Wikipedia to YouTube
+- Make changes that avoid missing payments, recommendations errors.
+
+---
+
+## Listen Local Database
+
+- Write-in database that we do not forget about any new or legacy artists, crowdsourcing for fans, journalists, musicians, educators to add artists, bands, ensembles
+- Minimum requirement one commercially released recording, one published music composition, a Wikipedia page. Other commercially not released artists, or their heirs must explicitly register to LaLa (if they are not public, GDPR applies)
+
 
 ---
 
@@ -162,9 +155,15 @@ Features:
 
 ---
 
+## Invitation for an open collaboration
+
+Click for Contacts: [Digital Music Observatory](https://music.dataobservatory.eu/) | [Listen Local Lithuania](https://music.dataobservatory.eu/talk/listen-local/) | [LaLa for Artists]() | [Lala for Fans]() | [Open Policy Analysis]()
+
+
+---
 # Questions?
 
-Get in Touch: [Daniel - Digital Music Observatory](https://music.dataobservatory.eu/authors/daniel_antal/) | 
+Get in Touch: [Daniel - Valuations, Metadata, AI Policy](https://music.dataobservatory.eu/authors/daniel_antal/) | [Ioanna - Fashion & Blockchain](https://ccsi.dataobservatory.eu/authors/ioanna_lapatoura/) | [Borbala - Fair competition and fighting dark algorithms](https://reprex.nl/authors/borbala_domotorfy/) | 
 [Mark - MXF](https://wowchemy.com/docs/managing-content/#create-slides)
 
 ---
@@ -176,6 +175,16 @@ Get in Touch: [Daniel - Digital Music Observatory](https://music.dataobservatory
 {{< slide background-image="streaming_index.webp" >}}
 
 ---
+
+# Local content regulation & goals
+
+- Unpaid revenue rate
+- Local content regulations for radios
+- Goal setting on streaming
+
+--- 
+
+
 # Avoiding negative outcomes
 
 ---

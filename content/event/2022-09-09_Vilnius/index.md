@@ -63,17 +63,10 @@ The purpose of the meetup is to provide an informal setting to get to know each 
 {{% /callout %}}
 
 
-We are working with leading EU and UK universities and industry associations to find out why sometimes Utrecht-based music is not recommended to people in Utrecht on streaming platforms? Or how we could build applications that bring the local music ecosystem into the attention of visitors, tourists?  Or how we could build games or educational applications that help local youth, pupils, students, educators, with artists in their town, and expand their music discovery to the province, their country, neighboring countries, instead of only recommending a few artists from New York, London, Rio de Janeiro or Seoul. 
+We are working with leading EU and UK universities and industry associations to find out why sometimes Utrecht-based music is not recommended to people in Vilnius on streaming platforms? Or how we could build applications that bring the local music ecosystem into the attention of visitors, tourists?  Or how we could build games or educational applications that help local youth, pupils, students, educators, with artists in their town, and expand their music discovery to the province, their country, neighboring countries, instead of only recommending a few artists from New York, London, Rio de Janeiro or Seoul. 
 
 {{< tweet user="simongerman600" id="1219730171407872001" >}}
 
 With the help of MusicAIRE and Horizon Europe, Europe’s premiere research and innovation grant, we are building open source tools to help to solve these problems, or allow other developers to build new applications and games.
 
 Reprex is a member of the Dutch AI Coalition's [Culture and Media Working Group](https://nlaic.com/en/sectors/culture/). 
-
-{{<spoiler text="Interested in the Dutch AI Coalition event?">}}
-If you are interested in those professional events, get in touch with us on  [Keybase](https://keybase.io/team/reprexcommunity) or via the [contact form](/#contact).
-{{/spoiler}}
-
-
-

@@ -89,10 +89,25 @@ slides:
 
 
 ---
+
 ## Lithuania is no different
 
-[Muzikos sritis - Ekspertinio vertinimo ataskaita](https://www.ltkt.lt/admin/ckeditor/fileman/Uploads/SAMS/ATASKAITOS/LKT%20ataskaita%20muzika%20Pakarklyte.pdf) | [ArtTech – galimybės Lietuvos kultūros ir kūrybinių industrijų sektoriui. Rekomendacijos
+There are initiatives in the progress: [LATGA](https://www.latga.lt/) already improved the rights management for one part of the composer's rights management, [MIC](https://www.mic.lt/en/about-us/#3) has more than 400 profiles in their database online, [LMVA](https://musicassociation.lt/) already lobbied for quotas, the [Kūrybiškos Europos biuras](https://www.facebook.com/kurybiskoseuroposbiuras/) has bright funding ideas, and the country has a respected national library.
+
+There are facts and ideas: [Muzikos sritis - Ekspertinio vertinimo ataskaita](https://www.ltkt.lt/admin/ckeditor/fileman/Uploads/SAMS/ATASKAITOS/LKT%20ataskaita%20muzika%20Pakarklyte.pdf) | [ArtTech – galimybės Lietuvos kultūros ir kūrybinių industrijų sektoriui. Rekomendacijos
 ](http://kurklt.lt/wp-content/uploads/2022/09/Rekomendacijos.pdf)
+
+
+---
+
+## Still a lot to do
+
+`Still much to do`: revaluing music requires a cooperation of all rightsholders, making sure that the AI systems of streaming services work well requires linking (elements of) the existing databases, probably via the library, to `web of data` to sync knowledge into the global global databases about Lithuania. Plenty of education needed how to revalue, claim money or defend the country from dark algorithms.
+
+---
+
+## Further reading 
+
 
 ---
 

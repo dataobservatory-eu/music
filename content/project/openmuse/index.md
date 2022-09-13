@@ -34,6 +34,8 @@ Good policies require supporting evidence, and good business planning and copyri
 ## Open collaboration
 Our project is based on open collaboration.  Our proposal, if funded, will provide us with resources to supply further music businesses, music civil society organizations and researchers with high-quality data (during the duration of the project for free.)  We are already looking for interested parties to put our data and research projects into use and validate their usability and quality in real-life policy or business development scenarios.
 
+{{< toc >}}
+
 ## Data that we can offer
 By providing continually updated data on five industry pillars – innovation, music and society, music economy, music diversity and circulation, and music policy – we will accurately capture the economic and social value created by the sector, as well as providing stakeholders with data-driven means of maximizing this value.
 - [x] **For copyright and neighbouring rights-holders and their organizations**: Value of music, euro value of the value gap, private copying, privacy---we have data and make estimates with all known music value estimation techniques.
@@ -164,7 +166,7 @@ non-profit sector”.
 <tr>
 <th style="padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; font-weight: bold; font-size: 24px;" colspan="4">
 
-Pillar 1 - Music Economy
+Pillar 1 - Music Economy {#pillar1}
 
 </th>
 </tr>
@@ -620,7 +622,7 @@ Creators’ Project initiated by the UK Intellectual Property Office.
 <tr>
 <th style="padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; font-weight: bold; font-size: 24px;" colspan="4">
 
-Pillar 2 - Circulation & Diversity
+Pillar 2 - Circulation & Diversity {#pillar2}
 
 </th>
 </tr>
@@ -777,7 +779,7 @@ to build a tool to monitor the circulation of European artists.
 
 We will address diversity issues with recycled and harmonized surveys.
 
-## Pillar 3: Music & Society
+## Pillar 3: Music & Society {#pillar3}
 
 We will mainly rely on the integration of existing, but fragmented and
 not well-formatted data, and existing, but not processed and not
@@ -1029,7 +1031,8 @@ co-ordination of research on the social impact of music in Europe.
 </tbody>
 </table>
 
-## Pillar 4: Music & Innovation
+
+## Pillar 4: Music & Innovation {#pillar4}
 
 1.  We will connect to several innovation topics in music by providing
     research, data, and evidence. Building on the work of the

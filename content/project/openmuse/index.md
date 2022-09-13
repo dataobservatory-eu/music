@@ -166,7 +166,7 @@ non-profit sector”.
 <tr>
 <th style="padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; font-weight: bold; font-size: 24px;" colspan="4">
 
-Pillar 1 - Music Economy {#pillar1}
+## Pillar 1 - Music Economy 
 
 </th>
 </tr>
@@ -779,7 +779,7 @@ to build a tool to monitor the circulation of European artists.
 
 We will address diversity issues with recycled and harmonized surveys.
 
-## Pillar 3: Music & Society {#pillar3}
+## Pillar 3: Music & Society
 
 We will mainly rely on the integration of existing, but fragmented and
 not well-formatted data, and existing, but not processed and not
@@ -1032,7 +1032,7 @@ co-ordination of research on the social impact of music in Europe.
 </table>
 
 
-## Pillar 4: Music & Innovation {#pillar4}
+## Pillar 4: Music & Innovation 
 
 1.  We will connect to several innovation topics in music by providing
     research, data, and evidence. Building on the work of the

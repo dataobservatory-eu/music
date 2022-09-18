@@ -30,7 +30,7 @@ all_day: false
 publishDate: '2022-09-18T13:18:00+02:00'
 
 authors: []
-tags: [Listen Local, OpenMusE]
+tags: [OpenMuse, Listen Local]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -68,4 +68,4 @@ In the 2023-2025 period we would like to develop at least two ‘[smart policy d
 **Agenda**:
 
 - [Mária Kmety Barteková, PhD](https://music.dataobservatory.eu/authors/maria_bartekova/) will present our Consortium’s ideas on designing policy and key business indicators that fit into the Slovak national creative and cultural sectors and industries policy agenda, and organize the data collection, processing, reporting, evaluation and feedback loop in practice.
-- [Daniel Antal, CFA](https://music.dataobservatory.eu/authors/daniel_antal/), the author of the [Slovak Music Industry Report](https://music.dataobservatory.eu/publication/slovak_music_industry_2019/), will explain how our building Music and CCSI Data Observatories can help the synchronization of busienss and policy knowledge of the Slovak institutions with global knowledge hubs such as streaming platforms, industry databases, Wikipedia/Dbpedia/Freedb, Music brains, and national libraries. 
+- [Daniel Antal, CFA](https://music.dataobservatory.eu/authors/daniel_antal/), the author of the [Slovak Music Industry Report](https://music.dataobservatory.eu/publication/slovak_music_industry_2019/), will explain how our building Music and CCSI Data Observatories can help the synchronization of busienss and policy knowledge of the Slovak institutions with global knowledge hubs such as streaming platforms, industry databases, Wikipedia/Dbpedia/Freedb, Music brains, and national libraries.

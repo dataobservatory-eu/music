@@ -47,11 +47,7 @@ Hugo optmizes all assets that are used, and will create a [webp file](https://de
 
 - `assets/media/albums/` contain image albums that should be viewed together in as an image gallery.
 
-
-
-- `assets/documents/` can be used to upload downloadable articles, PDF files, or anything that is not an image.
-
-
+- `assets/documents/` can be used to upload downloadable articles, PDF files, or anything that is not an image. 
 
 
 ## [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)

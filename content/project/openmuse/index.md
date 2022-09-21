@@ -4,6 +4,7 @@ subtitle: We are looking for end-users and dissemination partners to test our da
 summary: "OpenMuse brings together music industry stakeholders and researchers from 12 European countries. Our partners represent the diversity of the industry, as well as the shared need to find financially, socially, and environmentally sustainable policy and business models in multiple, sometimes-fragmented streams (e.g., live music, composers/publishers, and recordings with producers and performers)."
 date: 2021-05-06T17:52:00
 lastmod: 2021-08-21T18:52:00
+
 external_link: ""
 image:
   caption: ""
@@ -27,11 +28,12 @@ url_slides: ""
 url_video: ""
 ---
 
+
+**OpenMuse** brings together music industry stakeholders and researchers from 12 European countries. Our partners represent the diversity of the industry, as well as the shared need to find financially, socially, and environmentally sustainable policy and business models in multiple, sometimes-fragmented streams (e.g., live music, composers/publishers, and recordings with producers and performers). 
+
 <td style="text-align: center;">{{< figure src="/blogposts_2022/OpenMuse_logos_220921.png" caption="" numbered="false" >}}</td>
 
-**OpenMusE** brings together music industry stakeholders and researchers from 12 European countries. Our partners represent the diversity of the industry, as well as the shared need to find financially, socially, and environmentally sustainable policy and business models in multiple, sometimes-fragmented streams (e.g., live music, composers/publishers, and recordings with producers and performers). 
-
-Good policies require supporting evidence, and good business planning and copyright exploitation require high-quality data. OpenMusE will provide such data through novel, open-source tools that leverage automation to enable transfer to nearly any European market. We will disseminate our data via “live policy documents” and visualisations hosted on our Open Music Observatory, which automatically update when data sources are refreshed. This will set a concrete precedent and a clear path towards a more competitive, fair, and sustainable European music ecosystem.
+Good policies require supporting evidence, and good business planning and copyright exploitation require high-quality data. `OpenMuse` will provide such data through novel, open-source tools that leverage automation to enable transfer to nearly any European market. We will disseminate our data via “live policy documents” and visualisations hosted on our Open Music Observatory, which automatically update when data sources are refreshed. This will set a concrete precedent and a clear path towards a more competitive, fair, and sustainable European music ecosystem.
 
 ## Open collaboration
 Our project is based on open collaboration.  Our proposal, if funded, will provide us with resources to supply further music businesses, music civil society organizations and researchers with high-quality data (during the duration of the project for free.)  We are already looking for interested parties to put our data and research projects into use and validate their usability and quality in real-life policy or business development scenarios.
@@ -47,11 +49,11 @@ By providing continually updated data on five industry pillars – innovation, m
 - [x] **For music export offices**: we measure domestic and foreign market shares in streaming; we create actionable key performance indicators; and we do geographical targeting.
 
 
-The **OpenMusE** Consortium
+The **OpenMuse** Consortium
 
 ## Service Development, Project Management, Coordination and Dissemination 
 
-- [Reprex](/author/reprex/) is the originator of the OpenMusE project which builds on the achievements of the former CEEMID project, and provides leadership in WP Dissemination with building the Open Music Observatory, a full-fledged, open science-based statistical service that can complement the Eurostat Rest API and the future European Music Observatory on the basis of the Digital Music Observatory prototype validated in Yes!Delft AI+Blockchain Lab and the JUMP European Music Market Accelerator.
+- [Reprex](/author/reprex/) is the originator of the `OpenMuse` project which builds on the achievements of the former CEEMID project, and provides leadership in WP Dissemination with building the Open Music Observatory, a full-fledged, open science-based statistical service that can complement the Eurostat Rest API and the future European Music Observatory on the basis of the Digital Music Observatory prototype validated in Yes!Delft AI+Blockchain Lab and the JUMP European Music Market Accelerator.
 - [Sinus-Institut](/author/sinus-institute/), (DE) an innovative market- and policy research SME is the coordinator of the project, and provides leadership on WP Music, Society and Citizenship with promoting best, harmonized practices of the measurement of cultural access and participation.
 - [Synyo](https://www.synyo.com/), (AT) an innovative research company is participating in the coordination and dissemination of the project.
 

@@ -31,7 +31,8 @@ url_video: ""
 
 **OpenMuse** brings together music industry stakeholders and researchers from 12 European countries. Our partners represent the diversity of the industry, as well as the shared need to find financially, socially, and environmentally sustainable policy and business models in multiple, sometimes-fragmented streams (e.g., live music, composers/publishers, and recordings with producers and performers). 
 
-<td style="text-align: center;">{{< figure src="/blogposts_2022/OpenMuse_logos_220921.png" caption="" numbered="false" >}}</td>
+
+<td style="text-align: center;">{{< figure src="/blogposts_2022/OpenMuse_logos_20220921.png" caption="" numbered="false" >}}</td>
 
 Good policies require supporting evidence, and good business planning and copyright exploitation require high-quality data. `OpenMuse` will provide such data through novel, open-source tools that leverage automation to enable transfer to nearly any European market. We will disseminate our data via “live policy documents” and visualisations hosted on our Open Music Observatory, which automatically update when data sources are refreshed. This will set a concrete precedent and a clear path towards a more competitive, fair, and sustainable European music ecosystem.
 

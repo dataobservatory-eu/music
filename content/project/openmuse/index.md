@@ -7,7 +7,9 @@ lastmod: 2021-08-21T18:52:00
 external_link: ""
 image:
   caption: ""
-  focal_point: Smart
+  focal_point: Center
+  preview_only:  true
+  
 links:
 - icon: twitter
   icon_pack: fab
@@ -25,7 +27,7 @@ url_slides: ""
 url_video: ""
 ---
 
-<td style="text-align: center;">{{< figure src="/blogposts_2022/logos_3_1.jpg" caption="" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/blogposts_2022/OpenMuse_logos_220921.png" caption="" numbered="false" >}}</td>
 
 **OpenMusE** brings together music industry stakeholders and researchers from 12 European countries. Our partners represent the diversity of the industry, as well as the shared need to find financially, socially, and environmentally sustainable policy and business models in multiple, sometimes-fragmented streams (e.g., live music, composers/publishers, and recordings with producers and performers). 
 

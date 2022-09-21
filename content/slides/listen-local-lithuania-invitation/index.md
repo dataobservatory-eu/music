@@ -117,7 +117,6 @@ There are facts and ideas: [Muzikos sritis - Ekspertinio vertinimo ataskaita](ht
 
 {{< slide background-image="openmuse_logos.webp" >}}
 
-
 ---
 
 # Open Polcy Analysis

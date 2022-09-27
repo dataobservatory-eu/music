@@ -1,33 +1,33 @@
-+++
+---
 # Project title.
-title = "Innovation"
-subtitle = "Innovations in the music business, music participation, and music technology."
+title: "Innovation"
+subtitle: "Innovations in the music business, music participation, and music technology."
 
 # Date this page was created.
-date = 2020-11-12T11:00:00
-lastmod = 2022-02-08T11:24:00
+date: 2020-11-12T11:00:00
+lastmod: 2022-09-27T08:14:00+02:00
 
 # Project summary to display on homepage.
-summary = "Valuing music and projecting royalty flows."
+summary: ""
 
-tags = ["NFT", "blockchain", "innovation", "startups"]
+tags: ["NFT", "Blockchain", "Innovation", "Music tech"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
+#   E.g. `slides: "example-slides"` references 
 #   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = ""
+#   Otherwise, set `slides: ""`.
+slides: ""
 
 # Links (optional).
-url_pdf = ""
-url_slides = ""
-url_video = ""
-url_code = ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+url_code: ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -36,12 +36,13 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo: [Sašo Tušar](https://unsplash.com/photos/QtgGYlug6Cw?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)"
+  caption: "Photo: [Sašo Tušar](https://unsplash.com/photos/QtgGYlug6Cw?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
-+++
+  focal_point: "Smart"
+---
+
 1.  We will connect to several innovation topics in music by providing
     research, data, and evidence. Building on the work of the
     [Blockchain & Society](https://www.ivir.nl/projects/blockchain-society/) research

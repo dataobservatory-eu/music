@@ -1,49 +1,43 @@
-+++
+---
 # Project title.
-title = "Music Economy"
-subtitle = "Indicators related to the music economy"
+title: "Music Economy"
+subtitle: "Indicators related to the music economy"
 
 # Date this page was created.
-date = 2020-10-14T10:00:00
-lastmod = 2022-02-08T10:45:00
+date: 2020-10-14T10:00:00
+lastmod: 2022-09-27T08:02:00+02:00
 
 # Project summary to display on homepage.
-summary = "The Digital Muisc Observatory monitors the music markets with an economic methodology: we not only measure market volumes and prices, but we also measure both demand- and supply side indicators so that we can forecast future market volumes or prices."
+summary: "The Digital Muisc Observatory monitors the music markets with an economic methodology: we not only measure market volumes and prices, but we also measure both demand- and supply side indicators so that we can forecast future market volumes or prices."
 
 # Tags: can be used for filtering projects.
-tags = ["music demand", "music suppy", "valuations", "private copying", "recommendations", "value gap", "music industry"]
+tags: ["Valuations", "Private copying", "MusiC recommendations", "Value gap", "Music industry", "Open Policy Analysis"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link: ""
 
 # Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
-#   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = ""
+slides: ""
 
 # Links (optional).
-url_pdf = ""
-url_slides = ""
-url_video = ""
-url_code = ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+url_code: ""
 
 # Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/antaldaniel"}]
+#url_custom: [{icon_pack: "fab", icon="twitter", name="Follow", url: "https://twitter.com/antaldaniel"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
-+++
+  focal_point: "Center"
+---
 
 In the case of `Pillar 1 – Music & Economy`, we are usually able to
 locate the source of the data, and we have some experience in processing
@@ -51,6 +45,12 @@ the data and bringing it to light. We have mapped many perceived data
 gaps to the various data harmonization projects of GESAC and CISAC, and
 we will seek cooperation with these organizations and their members to
 find a secure and voluntary way to retrieve the data.
+
+Within the OpenMuse project, we will demonstrate the capacity of improved data
+to increase artist revenues within a short- to medium-term timeframe. This pilot project will directly build upon results of CEEMID and other prior projects undertaken by [Artisjus](/authors/aritsjus), [SOZA](/authors/soza), and [Reprex](/authors/reprex). The partners will replicate a full market model used to measure the use of recorded music in Hungary and Slovakia. [Artisjus](/authors/aritsjus) and [SOZA](/authors/soza) will revise and validate this full market model using fully standardised data, collected and harmonised via the OpenMusE music data software ecosystem.
+
+By bringing the model into line with the standards of Open Policy Analysis, open science, and open-source software development, the consortium will enable its transfer to the Bulgarian market with partner [Musicautor](/authors/musicautor). In all three countries, the Consortium will generate replicable, detailed “[live policy documents](https://reprex.nl/apps/smart-policy-documents/)” including gross value added, employment, and other important economic variables which will be integrated into a precise valuation of all uses of recorded music within the national context. These valuations will depend on standardised data from GESAC, CISAC, and potentially from IFPI, Aepo-Artis, and SCAPR, and provided via partners [Artisjus](/authors/aritsjus), [SOZA](/authors/soza), and MUSICAUTOR. Because the “[live policy documents](https://reprex.nl/apps/smart-policy-documents/)” will be generated semi-automatically using the software ecosystem introduced above, similar documents could be created nearly instantly for any GESAC/CISAC/IFPI
+national member organisation that provided comparable data on recorded music within their national context. The OpenMusE Report on the European Music Economy will be published as a “live policy document” including the Bulgarian, Hungarian, and Slovakian valuations, as well as valuations for any national market in which a representative organisation consents to provide data. 
 
 In other cases, we will rely on on the 2019/1024/EU [Open Data Directive]((https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32019L1024)) to access, process, document, and disseminate the data.
 

@@ -43,6 +43,10 @@ The `content` folders usually contain an `index.md` file with text and a `featur
 
 - `/content/events`:  The `index.md` contains the description and various details (time, venue location) of the events. The thumbnail image and opening image is the `featured.png` or `featured.jpg`. 
 
+- `/content/slides`: The `index.md` contains the yaml and md version of the slide.
+
+- `/content/pillar/<data-pillar>`: The `index.md` contains the description of the data pillar, like [Music economy](https://music.dataobservatory.eu/pillar/music-economy/). 
+
 - `/content/authors/<post_2022-10-01>`: The `index.md` contains the blogpost with metadata (publication time, author, tags).  The thumbnail image and opening image is the `featured.png` or `featured.jpg`. 
 
 - `/content/authors/<name>`:  The `index.md` contains the biography and avatar of our contributors as natural persons or as institutions. The <name> part is the snake_case version of person's or company's name that creates the permanent url, for example, `content/authors/reprex` creates the page `https://music.dataobservatory.eu/authors/reprex/`. In this case, there is no featured.png, instead, the main image (which will be placed behind a cirucal mask for identical layout on the [contributors]() page) is called `avatar.png`.  The `content/authors/reprex/avatar.png` is the Reprex logo. The `content/authors/reprex/daniel_antal.png` is Daniel's portrait.

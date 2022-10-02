@@ -39,27 +39,27 @@ main:
     url: '#pillars'
     weight: 40
     identifier: Data
-  - name: Music & Economy
+  - name: 🏛️ Music & Economy
     url: '#pillars'
     weight: 41
     parent: Data
-  - name: Diversity & Circulation
+  - name: 🏛️ Diversity & Circulation
     url: '#pillars'
     weight: 42
     parent: Data
-  - name: Music & Society
+  - name: 🏛️ Music & Society
     url: '#pillars'
     weight: 43
     parent: Data
-  - name: Music Tech & Innovation
+  - name: 🏛️ Music Tech & Innovation
     url: '#pillars'
     weight: 44
     parent: Data
-  - name: Open Science Repository &#128279;
+  - name: 📖 Open Science Repository
     url: 'https://zenodo.org/communities/music_observatory'
     weight: 48
     parent: Data
-  - name: API
+  - name: 🖥️ API
     url: '#data'
     weight: 49
     parent: Data

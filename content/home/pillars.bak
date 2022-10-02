@@ -1,0 +1,25 @@
+---
+widget: portfolio
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 66
+
+title: Pillars
+subtitle: 
+
+content:
+  folders:
+     - pillar
+
+
+filter_button:
+    - name: All
+      tag: '*'
+
+design:
+  flip_alt_rows: false
+
+---

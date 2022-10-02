@@ -71,7 +71,6 @@ Music recommender systems do not only rely on the listening histories of music f
 
 Whatever data was uploaded to the web by an artist, label, or distributor, it may have changed or been done with an error. Different data may exist with a collective management agency, the record label, or global knowledge hubs like music information libraries, Wikidata or MusicBrainz. As algorithmic recommenders for playlists, radios, festivals, and venues use this data, it is essential to periodically review, correct, and improve the information available by the artist and the music itself.
 
-
 The way to do this cost-effectively and error-free is using the semantic web or web 3.0 technologies. The semantic web contains data standards that make the information, independent of the Lithuanian or Slovak, or other languages, readable and importable by other databases, such as the global streaming platforms or festival promoters. The web 3.0 is organized around knowledge graphs, for example, knowledge hubs of music that radios, streaming platforms, booking agents, or festival promoters all use. Placing information on a knowledge graph is not for the faint heart and certainly falls beyond the skills expected from a small cultural institution or record label.
 
 1. We will ask artists and their representatives (labels, publishers, LATGA, and AGATA) to share some of their data with us so we can make a health check on their data in some parts of the web. We will do a limited number and scope of health checks supported by modern data science. 

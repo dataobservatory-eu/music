@@ -1,9 +1,9 @@
 ---
 title: Listen Local
-subtitle: ""
-summary: "Listen Local is a trustworthy, ethical AI-powered system that aims to help great artists in small organizations and small countries using big data. We want to make sure that audiences are not only recommended global superhits, but locally relevant music, too. At present, corporate Algorithms fail to connect listeners in small countries with music from the local scene - with artists whom the listener can easily see perform live in local venues, who sing in the listener’s language and who connect with the listener’s feelings and experiences."
+subtitle: "An open collaboration of music curators, open-source software developers, and the Digital Music Observatory to help decolonize the local music ecosystems"
+summary: "`Listen Local` is an open collaboration of music curators, open-source software developers, and the Digital Music Observatory to help decolonize the local music ecosystems."
 date: 2020-09-29T10:00:00+02:00
-lastmod: 2021-05-06T18:52:00+02:00
+lastmod: 2022-10-02T10:11:00+02:00
 external_link: ""
 image:
   caption: ""
@@ -14,7 +14,8 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/DigitalMusicObs
-slides: ""
+  
+slides: listen-local
 
 tags:
 - Listen Local
@@ -30,44 +31,53 @@ url_video: ""
 *“Big data creates injustice.”* -- Cathy O'Neil, author of [Weapons of Math Destruction](https://blogs.scientificamerican.com/roots-of-unity/review-weapons-of-math-destruction/)
 
 
-`Listen Local` is a trustworthy, ethical AI-powered system that aims to help great artists in small organizations and small countries using big data. We want to make sure that audiences are not only recommended global superhits, but locally relevant music, too. At present, corporate Algorithms fail to connect listeners in small countries with music from the local scene - with artists whom the listener can easily see perform live in local venues, who sing in the listener’s language and who connect with the listener’s feelings and experiences.
+`Listen Local` is an open collaboration of music curators, open-source software developers, and the Digital Music Observatory to help decolonize the local music ecosystems. 
 
-From the artist’s perspective, we want to understand why certain demographics of artists  only get partly paid, or not paid at all. We want to understand why some artists are never recommended by corporate AI Algorithms. Every good music should be able to find its audience on streaming platforms; and, moreover,the global streaming platforms must give equal chances and fair remuneration to all musicians regardless of language, ethnicity, gender, race, or any other such factor. 
+In Europe, the music sector comprises hundreds of thousands of microenterprises, small enterprises, and freelancer networks that do not employ a data scientist, data engineer, statistician, or royalty economist. 
 
-Music streaming services seemingly make the entire world repertoire available to any audience – which requires an entirely new approach to music education and music discovery. Most people discover music and learn to like a certain style or genre in their teenage years. If the AI Algorithms that make personalized playlists and recommendations do not include locally relevant music, young people will not be exposed to local discoveries in their taste formation processes. This influences the genres and styles of music that people are open to encountering at later life phases and in later social worlds, including the exposure that adults pass on to their children.
+This fragmented structure makes European music very vulnerable in the age of global streaming, when most music discovery and music sales take place on international platforms that have access to the data of hundreds of millions of songs and artists, hundreds of millions of fans, and can train algorithms to optimize their sales profit.
 
-Listen Local wants to prevent global hits from colonizing local musical ecosystems and taking attention, visibility and listening time from local acts. Music is a social activity, and young people should have the opportunity to discover artists whom they can see performing live with their friends, with whom they can learn to play on the same stage, or behind the same turntable. Our goal is to connect young people as well as adults to  music from  their local communities, and to help artists from small countries gain fair access to audiences and opportunities in their communities and beyond.
+{{<toc>}}
 
-## What do we do?
-We are building a recommendation system that allows the user – a radio DJ or music editor, an educator, or a music lover –- to control the recommendation algorithm: for example, to set language preferences or to find music in his or her town or country.
+## Help for the local music ecosystem
 
-We are conducting statistical tests that measure biases in the way artists with different ethnic, national, country of origin, race, scene, genre, age or gender background are promoted and paid, or other biases of Algorithms when they recommend music or sell it, to analyze how global hits colonize local music ecosystems and to determine how to prevent this from happening.
+We want to help the local music ecosystems: artists and their fans, local curators, radios, labels, publishers, collective management, cultural heritage organizations, and local government with open source software, open data, and open scientific results. Without a specialist data and IT team, they cannot enjoy the benefits of rights management and documentation automation, machine learning for curation, A&R, marketing, and tour planning.
 
-Through this, we are gaining understanding of why certain artists are never recommended, or never get paid.
-We are localizing AI. Because music for most artists is a local business, we are building tools that help artists connect to local audiences, target tour destinations that are within reach, and optimize domestic and foreign marketing efforts.
+Our Digital Music Observatory collaboration of music researchers, open source software developers, and industry practitioners offer the ability to gather data collectively, rely on open source software, and build know-how. With our help, we want to strengthen local music ecosystems' competitiveness in the global streaming era.
 
-![](https://dataandlyrics.com/post/2020-12-15-alternative-recommendations/mind_map_recommendations_hu598e31fbda7e27fa2531c6d1d2d7129e_95495_2000x2000_fit_q90_lanczos.jpg)
-
-We are involved in various research and development activities. We are building prototype applications with our partners, and we are conducting impact analyses to detect AI and big data problems. We are collaborating with eminent competition law and copyright law practitioners to understand how independent artists and small labels, publishers, and small country collective management organizations can be protected from the adverse effects of big data and AI.
- 
-## Why do we do it?
-Currently more than half of global music sales is automated through AI Algorithms.  YouTube, Spotify, Apple Music and other music and media streaming platforms use AI that compares the audience member’s preferences, biographical information about the creators and performers of the music, and the content and aesthetic qualities of the music to personalize recommendations from more than a hundred million recordings and videos. If the AI algorithm is biased or the supporting data and metadata is incomplete or faulty, some artists and performers will never connect  with new audiences, nor get paid. Further compounding this problem, bookings for festivals and clubs - the primary income source for most musicians and their technical and managerial support teams - are increasingly conducted through automated pre-selection by Algorithms that monitor the recordings, sales, and fan bases of artists.
-
-The severity of this problem is demonstrated by our pilot project, based on the rich, emerging local music market of Slovakia. Through our strong relationships with music stakeholders, we gained access to vast amounts of confidential data and insider expertise. Based on this pilot project, we estimate that 15% of small country artists are at risk of no exposure to a streaming audience, 50% are at risk of not getting properly paid, and up to 70% of the value of all payments are at risk of being delayed or lost. The numbers confirm it:  this system is broken.
+1. Local curators (for festivals, clubs, radio stations, streaming playlists, and music export offices) to find relevant music locally and globally to place their artists into the correct scene, location, or playlist. We want to hear more music created in Vilnius in the stores and radios of Vilnius. We want to ensure that visitors to the city will take home new music discoveries.
+2. Local artists to remain visible on global streaming platforms and the increasingly global selection pool of radios or festivals. Twenty years ago, artists competed for the attention of the local gatekeepers and competed with about 50,000 songs. On global platforms, they compete with about 2000x more, 100,000,000 recordings.
+3. Music lovers who want to find new artists they can personally meet and see on small stages in the neighborhood where they live, study or work, or go on vacation. The current for-profit and intransparent AI systems recommend music from about 50 cities worldwide.
+4. Small labels, publishers, talent managers, and their represented artists, because they very often do not get paid or do not get fully paid on the complex, AI-driven autonomous systems of global platforms. These platforms require perfect, tedious, detailed, and often updated data about each recording to pay royalties correctly. The documentation cost is greater than the expected revenue for small labels or small country artists in years. We want to help with open source solutions that bring automation and scale to their processes. 
+5. Music export offices, music information centers, and collective management organizations in small countries do not have the cost and talent base to take benefit from modern data science when it comes to working with data on the scale and cheap. We want to help them unleash the advantages of the semantic web, often called web 3.0. This way, we can radically reduce their IT and documentation costs and increase the quality of their data to perform their artist-supporting work better.
+6. National governments ensure that algorithms do not undermine their cultural and copyright policy or music education goals. We want to avoid that global music sales platforms, and AI-driven autonomous recommendation systems do not recommend local music to local audiences or relevant foreign audiences. We want to ensure that children and teenagers find music pertinent to the local government's general music and cultural cohesion objectives.
 
 
-## How do we do it?
+## Our findings in Slovakia
+In our first feasibility phase, we found that most Slovak artists are only partially getting paid on the global streaming platform, and they get paid less than in many other EU countries. 
 
-Reprex is an international start-up that utilizes open data, open-source software and the scientific method of open collaboration to create meaningful AI and data service products. Reprex is a member of the [Dutch AI Coalition](post/2021-02-16-nlaic/) and the European AI Alliance, which are public-private partnerships to promote human-centric, accountable, trustworthy AI. Open data means that we utilize taxpayer funded public sector data and open scientific data on the basis of the Open Data Directive of the European Union. Open data is free, but requires significant investment to be repurposed for different uses (in other words, to process government-sourced data for business or scientific research purposes, or scientific data for public or business purposes.)  Reprex is investing in open-source statistical software that helps the creative industries harness the power of data as an open,  public resource.
+We also found that 17% of the Slovak repertoire is not understandable for the Spotify recommender system. This music remains invisible and earns no royalties. We are confident that another part is poorly understood by the algorithms and often recommended to the wrong audience. Negative recommendation outcomes will build up an adverse listening history for these songs and eventually will be buried by the algorithm.
 
-Our `Listen Local` project is aiming to create better radio playlisting, personal playlisting and concert promotion in a local context: within Slovakia or at a more specific level, Flanders or even the city of Utrecht or Budapest. We aim to place our partner’s music in local radio lists, personal playlists, and grow their fan base during the COVID-19 pandemic so that in 2021 they can eventually meet in the venues again, and carry out longer, more successful tours than ever. 
+Based on our findings, we hypothesize that in small countries, it may be more costly to adequately describe the music for the global platforms than the expected revenue from releasing the recording. The situation is even worse for self-released artists or artists managed by small independent labels who do not have the IT and data skills to automate copyright and marketing data management. 
 
-[Listen Local](https://listenlocal.community/index.html) and the [Demo Music Observatory](https://music.dataobservatory.eu/) grew out of a large, collaborative project of collective management societies, grant managers, music distributors, venues, and other music stakeholders who joined forces to collect more royalties from 2014 onwards starting with three, and eventually encompassing more than a dozen countries.
+<td style="text-align: center;">{{< figure src="/img/screenshots/listen_local/Youniverse_energy.png" caption="" numbered="false" >}}</td>
 
-## Let's Do This Together!
+Our Feasibility Study is written for policymakers, educators, music managers, artists, and collective management organizations. It is a non-technical introduction to promoting small country repertoires globally and avoiding the colonization of local music ecosystems by globally promoted music. 
 
-[Listen Local: Open Collaboration Experiment & Feasibility Study](https://dataandlyrics.com/post/2020-10-19-listen-local/) - how you can participate in the experiment.
 
-* Participation for artists and music venues is **free** in the experiment. We are looking for a viable business model that keeps this tool a good value for money for anybody in the independent music scenes.
+## Plans in Lithuania
+In Lithuania, we want to focus on the effect of documentation, mainly information that is not part of the copyright management metadata.
+Music recommender systems do not only rely on the listening histories of music fans and the rights management data provided by self-released artists and labels via distributors. They use data from various web sources to understand the music and the artist's scene to place the recording in front of the right audience.
 
-* We are asking labels, publishers, talent managers to contribute to our experimental budget on a crowdsourcing basis.  We ask for a nominal contribution from as little as 10-1000 euros on a voluntary basis.  In return. We hope to develop a tool that can make the work of independent labels and publishers easier. Any extra funding will be spent on the project at cost.
+Whatever data was uploaded to the web by an artist, label, or distributor, it may have changed or been done with an error. Different data may exist with a collective management agency, the record label, or global knowledge hubs like music information libraries, Wikidata or MusicBrainz. As algorithmic recommenders for playlists, radios, festivals, and venues use this data, it is essential to periodically review, correct, and improve the information available by the artist and the music itself.
+
+
+The way to do this cost-effectively and error-free is using the semantic web or web 3.0 technologies. The semantic web contains data standards that make the information, independent of the Lithuanian or Slovak, or other languages, readable and importable by other databases, such as the global streaming platforms or festival promoters. The web 3.0 is organized around knowledge graphs, for example, knowledge hubs of music that radios, streaming platforms, booking agents, or festival promoters all use. Placing information on a knowledge graph is not for the faint heart and certainly falls beyond the skills expected from a small cultural institution or record label.
+
+1. We will ask artists and their representatives (labels, publishers, LATGA, and AGATA) to share some of their data with us so we can make a health check on their data in some parts of the web. We will do a limited number and scope of health checks supported by modern data science. 
+2. We will ask their permission to correct data after their consent and measure to what extent this translate to positive outcomes (more recommendations going in their direction, higher visibility, increasing income.)
+3. We will ask music institutions that deal with the information about Lithuania's cultural heritage (like the national library) or the heritage of music (like the Music Information Centre Lithuania) to allow us to sync their music with global knowledge hubs on the semantic web to see how much this increases the visibility and use of the works of the artists that they document.
+4. We would strive to document our project as a case study of trustworthy cultural data and AI policies (in the context of the new EU Data Governance Act and the AI Act, which will be in force in Lithuania within the timeframe of our project.) We would like to connect the experience of the Dutch AP Coalition PPP, international art+tech, cultural heritage, and music policy achievements with Lithuania's cultural policies.
+
+We aim to design collaborative, transparent, ethical services that Listen Local and its partners can carry out at low cost for the benefit of Lithuanian artists. Our experiments will conform to the rules of trustworthy AI and data management and can be seen as AI policy experiments. Because a microgrant from MusicAIRE supports our project, we do not intend to provide an automated service, only a prototype with manual support by a small and highly motivated team at MXF. We aim to create real-life, educational examples that help artists in real life and can be the basis of future, non-profit, affordable services in the country.
+

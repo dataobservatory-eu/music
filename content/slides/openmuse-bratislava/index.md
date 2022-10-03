@@ -2,9 +2,9 @@
 title: Music and Creative Industry Indicators from Needs Assessment to Automated Production
 summary: Music and Creative Industry Indicators from Needs Assessment to Automated Production
 authors: []
-tags: ["Listen Local"]
+tags: ["Listen Local", "OpenMuse"]
 categories: []
-date: '2022-09-07T00:00:00Z'
+date: '2022-10-03T12:42:00+02:00'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: white
@@ -140,9 +140,11 @@ slides:
 
 ---
 
+{{< slide background-image="eurostat_indicator_cycle.webp" >}}
 ## Maria on Eurostat indicator cycle
 
-- explain the Eurostat indicator design cycle
+
+
 
 ---
 

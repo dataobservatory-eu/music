@@ -71,11 +71,11 @@ main:
     url: '#projects'
     weight: 51
     parent: Projects
-  - name: Listen Local
+  - name: 🇪🇺 Listen Local
     url: '/project/listen-local/'
     weight: 52
     parent: Projects
-  - name: Horizon Europe
+  - name: 🇪🇺 Opem Music Observatory - OpenMuse
     url: '/project/openmuse/'
     weight: 53
     parent: Projects

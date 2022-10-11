@@ -4,15 +4,15 @@ subtitle: Introducing the Open Policy Analysis Framework in the context of Slova
 
 categories:
 
-event: 
+event: Introducing the Open Policy Analysis Framework in the context of Slovak cultural and creative industries policy framework
 event_url: 
 
-location: Národná rada Slovenskej republiky/National Council of the Slovak Republic
+location: Inštitút Kultúrnej Politiky
 address:
-  street: Námestie Alexandra Dubčeka 1
+  street: Nám. SNP 33
   city: Bratislava
   region: Bratislava
-  postcode: "812 80"
+  postcode: "811 01"
   country: Slovakia
 
 summary: An open invitation for a collaboration to help the Slovak government, the natonal assembly, and various civil and business societies to build and monitor evidence-based policies based on the experience of the music sector.
@@ -22,12 +22,15 @@ abstract: 'An open invitation for a collaboration to help the Slovak government,
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-10-13T14:00:00Z'
-date_end: '2022-10-13T16:00:00Z'
+date: '2022-10-18T11:30:00Z'
+date_end: '2022-10-18T13:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-09-18T13:18:00+02:00'
+
+
+aniel, can you please change event details on this webpage. I would like to send out invitations with new date and location. DATE: Oct. 18, 11:30; Location: Nám. SNP 33, Inštitút Kultúrnej Politiky (MKSR)
 
 authors: []
 tags: [OpenMuse, Listen Local]
@@ -36,7 +39,7 @@ tags: [OpenMuse, Listen Local]
 featured: false
 
 image:
-  caption: 'Photo: [Miroslav Petrasko](https://www.flickr.com/photos/theodevil/7829632428)'
+  caption: ''
   focal_point: Right
 
 url_code: ''
@@ -56,8 +59,10 @@ projects:
 ---
 
 {{% callout note %}}
-We would like to present an open invitation for a collaboration to help the Slovak government, the natonal assembly, and various civil and business societies to build and monitor evidence-based policies based on the experience of the music sector. We will use the Open Policy Analysis Guideliens and the best European evidence-based policy design practice that faciliate the creation and use of transparent evidence in the entire policy cycle from design to ex post evalutation.
+The LOCATION AND DATE of this event has changed. The event is strictly by registration only. Get in touch on the [Contact Form](https://reprex.nl/#contact) if you have no invitation but would like to participate in the event.
 {{% /callout %}}
+
+We would like to present an open invitation for a collaboration to help the Slovak government, the national assembly, and various civil and business societies to build and monitor evidence-based policies based on the experience of the music sector. We will use the Open Policy Analysis Guidelines and the best European evidence-based policy design practice that facilitate the creation and use of transparent evidence in the entire policy cycle from design to ex post evaluation.
 
 In the context of the OpenMuse project within the Horizon Europe framework program we would like to build on the results of the [Slovak Music Industry Report](https://music.dataobservatory.eu/publication/slovak_music_industry_2019/) and the [Feasibility Study On Promoting Slovak Music In Slovakia & Abroad](https://music.dataobservatory.eu/publication/listen_local_2020/) and show how modern open source statistical software and data science can help the slovak music industry, and more generally, the Cultural and Creative Sectors and Industries (CCSI).
 

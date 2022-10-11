@@ -1,4 +1,5 @@
 ---
+# This is YAML notation, the hashtag means 'comment', not to execute as command.
 title: Listen Local Lithuania
 summary: Invitation for an open collaboration
 authors: []
@@ -18,6 +19,7 @@ slides:
 [Digital Music Observatory](https://music.dataobservatory.eu/) | [Listen Local Lithuania](https://music.dataobservatory.eu/talk/listen-local/)
 
 --- 
+
 ## Controls
 
 - Next: `Right Arrow` or `Space`

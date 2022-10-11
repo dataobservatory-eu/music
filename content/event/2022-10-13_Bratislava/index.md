@@ -29,9 +29,6 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-09-18T13:18:00+02:00'
 
-
-aniel, can you please change event details on this webpage. I would like to send out invitations with new date and location. DATE: Oct. 18, 11:30; Location: Nám. SNP 33, Inštitút Kultúrnej Politiky (MKSR)
-
 authors: []
 tags: [OpenMuse, Listen Local]
 

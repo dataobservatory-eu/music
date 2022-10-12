@@ -50,16 +50,16 @@ slides:
 # Projects (optional).
 projects:
  - Listen Local
- - OpenMusE
+ - OpenMuse
  - Slovakia
  - Open Policy Analysis
 ---
 
 {{% callout note %}}
-The LOCATION AND DATE of this event has changed. The event is strictly by registration only. Get in touch on the [Contact Form](https://reprex.nl/#contact) if you have no invitation but would like to participate in the event.
+The LOCATION AND DATE of this event has changed. The event is strictly by registration only. Get in touch on the [Contact Form](https://reprex.nl/#contact) if you have no invitation but would like to participate in the event. SLOVENSKÉ JAZYKOVÉ VERZIE ⬇️
 {{% /callout %}}
 
-We would like to present an open invitation for a collaboration to help the Slovak government, the national assembly, and various civil and business societies to build and monitor evidence-based policies based on the experience of the music sector. We will use the Open Policy Analysis Guidelines and the best European evidence-based policy design practice that facilitate the creation and use of transparent evidence in the entire policy cycle from design to ex post evaluation.
+We would like to present an open invitation for a collaboration to help the Slovak government, the national assembly, and various civil and business societies to build and monitor evidence-based policies based on the experience of the music sector. We will use the `Open Policy Analysis Guidelines` and the best European evidence-based policy design practice that facilitate the creation and use of transparent evidence in the entire policy cycle from design to ex post evaluation.
 
 In the context of the OpenMuse project within the Horizon Europe framework program we would like to build on the results of the [Slovak Music Industry Report](https://music.dataobservatory.eu/publication/slovak_music_industry_2019/) and the [Feasibility Study On Promoting Slovak Music In Slovakia & Abroad](https://music.dataobservatory.eu/publication/listen_local_2020/) and show how modern open source statistical software and data science can help the slovak music industry, and more generally, the Cultural and Creative Sectors and Industries (CCSI).
 
@@ -71,3 +71,12 @@ In the 2023-2025 period we would like to develop at least two ‘[smart policy d
 
 - [Mária Kmety Barteková, PhD](https://music.dataobservatory.eu/authors/maria_bartekova/) will present our Consortium’s ideas on designing policy and key business indicators that fit into the Slovak national creative and cultural sectors and industries policy agenda, and organize the data collection, processing, reporting, evaluation and feedback loop in practice.
 - [Daniel Antal, CFA](https://music.dataobservatory.eu/authors/daniel_antal/), the author of the [Slovak Music Industry Report](https://music.dataobservatory.eu/publication/slovak_music_industry_2019/), will explain how our building Music and CCSI Data Observatories can help the synchronization of busienss and policy knowledge of the Slovak institutions with global knowledge hubs such as streaming platforms, industry databases, Wikipedia/Dbpedia/Freedb, Music brains, and national libraries.
+
+
+## Slovenská jazyková verzia {#slovak-version}
+
+Projekt OpenMuse, ktorý tvorí veľké konzorcium partnerov vrátane SOZA a Ekonomickej univerzity v Bratislave, bol úspešný vo výzve Horizon Europe s názvom: Towards a competitive, fair and sustainable European music ecosystem a momentálne je v procese podpise grantovej dohody s Európskou komisiou.
+ 
+Sme presvedčení, že budovanie európskych hudobných ekosystémov na konkurencieschopnejších, spravodlivejších a udržateľnejších základoch si vyžaduje dôslednú tvorbu politík a obchodné plánovanie založené na dôkazoch. To si zase vyžaduje vyplniť medzery v dostupných údajoch identifikované v štúdii uskutočniteľnosti pre Európske hudobné observatórium (náš predbežný návrh riešenia v rámci projektu Horizont Europe si môžete pozrieť tu.)
+ 
+Pomocou transparentných metód a nástrojov OpenMuse mapuje oblasť politík a zber údajov; vypĺňa medzery v existujúcich údajoch a umožňuje zainteresovaným stranám a tvorcom politík prijímať opatrenia založené na presných dátach. Projekt OpenMuse je založený na princípoch otvorenej analýzy politík, otvorenej vedy a vývoja softvéru s otvoreným zdrojovým kódom. Spolupracujeme so zainteresovanými stranami na identifikácii medzier v údajoch na úrovni EÚ, na národnej a regionálnej úrovni s cieľom spoluvytvárať relevantné ukazovatele a metódy ich premostenia; vyvíjať bezplatné softvérové nástroje na zber a analýzu údajov; a hlásiť nielen naše zistenia, ale každý krok, ktorý sme podnikli na ich dosiahnutie vo verejne dostupných dokumentoch.

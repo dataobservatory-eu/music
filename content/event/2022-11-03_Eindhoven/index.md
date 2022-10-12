@@ -52,7 +52,7 @@ slides:
 # Projects (optional).
 projects:
  - Listen Local
- - OpenMusE
+ - OpenMuse
 ---
 
 {{% callout note %}}
@@ -71,8 +71,12 @@ In the `Q&A`, we can discuss many things
 - [x] What sort of help it can give to researchers, research institutes, specialist consultancies, law firms, and other knowledge-based actors?
 - [x] What sort of partners is Reprex looking for in Eindhoven?
 
-Check out our projects:
+## Check out our projects
 - [Digital Music Observatory](https://music.dataobservatory.eu/) and [Listen Local](https://music.dataobservatory.eu/project/listen-local/)
 - [Cultural & Creative Sectors and Industries Observatory](https://ccsi.dataobservatory.eu/) and short [call](https://ccsi.dataobservatory.eu/documents/Reprex-CCSI-2022.pdf) for potential partners.
 - [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/) and simple, connected, financial and sustainability [reporting](https://music.dataobservatory.eu/post/2022-06-09-music-eviota/) for creative enterprises and others
 
+## Reprex: the impact startup
+
+- [x] Check out our [accomplishments](https://reprex.nl/#accomplishments) since the foundation in 2020
+- [x] Get in [touch](https://reprex.nl/#contact)!

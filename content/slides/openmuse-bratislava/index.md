@@ -13,6 +13,7 @@ slides:
   highlight_style: dracula
 ---
 
+
 # Invitation for an open collaboration
 
 [Digital Music Observatory](https://music.dataobservatory.eu/) | [Listen Local Slovakia](https://music.dataobservatory.eu/project/listen-local/)
@@ -37,19 +38,57 @@ slides:
 
 ## Presentation outline
 
-- Part I: [Daniel Antal](https://music.dataobservatory.eu/authors/daniel_antal/) introduces the OpenMuse project [general aims, methodology, work packages], and our offering to Slovak CCSI stakeholders.
-- Part II: [Mária Kmety Barteková](https://music.dataobservatory.eu/authors/maria_bartekova/) our offering for indicator design and creation, methodology, timeline, quality control.
-- Part III: [Daniel Antal](https://music.dataobservatory.eu/authors/daniel_antal/) our offering for cultural diversity policies, radio quotas and beyond
-- Part IV: Quesitons and identification of partners and data sources.
+- Part I: [Daniel Antal, CFA](https://music.dataobservatory.eu/authors/daniel_antal/) introduces the OpenMuse project [general aims, methodology, work packages], and our offering to Slovak CCSI stakeholders.
+- Part II: [Mária Kmety Barteková, PhD](https://music.dataobservatory.eu/authors/maria_bartekova/) our offering for indicator design and creation, methodology, timeline, quality control.
+- Part III: Questions and identification of partners and data sources.
 
 ---
 
+# Part I: Slovakia as the best practice
+
+- [CEEMID](https://music.dataobservatory.eu/project/ceemid/)
+- [Slovak Music Industry Report](https://music.dataobservatory.eu/publication/slovak_music_industry_2019/)
+- [Listen Local](https://music.dataobservatory.eu/publication/listen_local_2020/)
+
+---
+
+{{< slide background-image="cee_report_slide_qr.webp" >}}
+
+---
+
+{{< slide background-image="slide_white_national_music_industry_reports.webp" >}}
+
+---
+
+{{< slide background-image="listen_local_slovakia_publication.webp" >}}
+<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
+
+{{% fragment %}} [Download in English](https://music.dataobservatory.eu/publication/listen_local_2020/) | {{% /fragment %}} {{% fragment %}} | [Download in Slovak](https://music.dataobservatory.eu/publication/listen_local_2020/) {{% /fragment %}}
+
+---
+
+{{< slide background-image="slide_white_openmuse_logos.webp" >}}
+
+---
 
 # Part I: OpenMuse offering
 
+
 ---
 
-## Offering Tools 
+## Topics
+
+`WP1` Slovak creators, including music creators, should earn as much as the European average. Their income should level up to German and Finnish levels.
+
+`WP2` Slovak people should find good Slovak music in Lithuania on Spotify, YouTube and the radio. Foreign labels must not increase their market share and colonize the local creative ecosystem.
+
+`WP3` Correctly attributing the environmental and social benefits (and costs) of music.
+
+`WP4` Making sure that big data and AI works for all. Tap into open data, linked open data, bring the creative sectors to the web 3.0.
+
+---
+
+# Offering Tools 
 
 - Smart policy documents
 - Dashboards
@@ -57,62 +96,13 @@ slides:
 
 ---
 
-## Offering Methodology
-
-- Open Policy Analysis, "Live Policy Documents"
-- Indicator design
-- Slovak music market share
-- Harmonized data collection, when needed
+# Bridging the data gap
 
 ---
+## Data gaps are illusorty
 
-
-
----
-
-{{< slide background-image="OPA_slide.webp" >}}
-# Open Polcy Analysis
-<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
-
----
-
-## Live Policy Documents
-
-- Trustworthy Cultural AI: make big data work for Lithuania artists and small labels, publishers and CCIs
-- Synchronize the (meta)data of Lithuania heritage and present cultural production as linked open data, so that autonomous systems of Spotify, YouTube, Wikipedia, Library of Congress, etc, can read it.
-- Practical, open source solutions that can immediately applied
-- Access to the OpenMuse know-how
-
-
-## Past excellence
-
-- CEEMID
-- Slovak Music Industry Report
-
----
-
-## Work Packages
-
-- WP1 Economy - CCSI indicators, valuations (IViR, EUBA)
-- WP2 Diversity - market share of Slovak music in radios, streaming, Listen Local Slovakia (SOZA, Reprex.)
-- WP3 Music & Society - harmonized data collection where needed
-- WP4 Innovation - providing policymakers with tools
-
-
-
----
-
-`WP1` Slovak creators, including music creators, should earn as much as the European average. Their income should level up to German and Finnish levels.
-
-`WP2` Lithuanian people should find good Lithuanian music in Lithuania on Spotify, YouTube and the radio. Foreign labels must not increase their market share and colonize the local creative ecosystem.
-
----
-
-## Joining the European Union
-
-- Why should creators earn less than other skilled occupations and knowledge workers?
-- Why should artists get less paid than the average in Slovakia?
-- Why should Slovaks get paid less than the average European?
+- Open Data Directive
+- Survey recycling
 
 ---
 
@@ -122,105 +112,47 @@ slides:
 
 ---
 
+{{< slide background-image="slide_white_afrobarometer_example.webp" >}}
+## Survey recycling
+<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
+
+---
+
+{{< slide background-image="streaming_index.webp" >}}
+## Sampling big data
+<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
+
+
+---
+
+## Create methodology
+
+- Open Policy Analysis, "Live Policy Documents"
+- Slovak music market share
+- Indicator design and high-quality, reproducible indicator creation 
+
+---
+
+# Offering Methodology
+
+---
+
 {{< slide background-image="full_market_example.webp" >}}
 ## Valuations
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
-
---- 
-
-## Read More
-
-[Income & empirical comparisons](https://music.dataobservatory.eu/data/surveys/) | [Setting the Value of Slovak Music](https://music-competition.dataobservatory.eu/relevant-product-market.html#fair-value)
-
-
 ---
 
-## Part II: Indicators
-
----
-
-{{< slide background-image="eurostat_indicator_cycle.webp" >}}
-## Maria on Eurostat indicator cycle
-
-
-
-
----
-
-## Maria on Slovak indicator cycle
-
-- explain the cylce in Slovakia, with a timline
-- what will they get by October 2022
-- waht will they get by October 2023
-
----
-
-## Maria on Open Policy Analysis
-
-- explain what the application of the OPA guidelines will mean to your work
-- when will you release the information, where, what are the quality/transparency guarrantees
-
----
-
-
-## Maria on indicator topics
-
-- What kind of indicators are we going to produce
-- Just brief, like employment, etc.
-
----
-
-## Maria on stakeholders
-
-- To whom we are designing the indicators
-- When will we ask them for initial needs assessment
-- For data
-- For feedback
----
-
-## Maria on example data needs
-
-- What sort of raw data we will ask for
-- Give a few examples
-
-
----
-
-## Part III: WP2
-
-
-
----
-
-{{< slide background-image="listen_local_slovakia_publication.webp" >}}
+{{< slide background-image="forgetify_blogpost.webp" >}}
+## AI & Data Policies
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
-
-{{% fragment %}} [Download in English](https://music.dataobservatory.eu/publication/listen_local_2020/) | {{% /fragment %}} {{% fragment %}} | [Download in Slovak](https://music.dataobservatory.eu/publication/listen_local_2020/) {{% /fragment %}}
-
-
----
-## Why They Recommend American Music
-
-- Is the algorithm cheating? ➡️ trustworthy AI policy, enabling courts, competition and consuerm protection agencies to protect the Lithuanian CCIs
-- Is the algorithm learning from bad data? ➡️  national heritage policy, consolidate Lithuanian CCI data as linked, open data, and synch it daily with the world.
-- Can we ask for 20% Lithuanian music in radio, television, YouTube or Spotify?
-
-
-
-## LaLa Database
-
-- Opt-in, opt-out database to make sure that you are in control
-- Health check of artist data from Wikipedia to YouTube
-- Make changes that avoid missing payments, recommendations errors.
-
 ---
 
-## Listen Local Database
+## Trustworthy AI, trustworthy data in culture
 
-- Write-in database that we do not forget about any new or legacy artists, crowdsourcing for fans, journalists, musicians, educators to add artists, bands, ensembles
-- Minimum requirement one commercially released recording, one published music composition, a Wikipedia page. Other commercially not released artists, or their heirs must explicitly register to LaLa (if they are not public, GDPR applies)
-
+- Is the algorithm cheating? ➡️ trustworthy AI policy, enabling courts, competition and consumer protection agencies to protect the Slovak CCIs
+- Is the algorithm learning from bad data? ➡️  national heritage policy, consolidate Slovak CCI data as linked, open data, and sync it daily with the world.
+- Can we ask for 20% Slovak music in radio, television, YouTube or Spotify?
 
 ---
 
@@ -228,7 +160,7 @@ slides:
 Topics: 
  - European AI regulation and ethics, music AI, 
  - non-discriminiation and fair remuneration for 
- Lithuania's creators.
+ Slovakia's creators.
  - Smart and future proof local content and media 
  regulation, music export, cultural heritage. 
 
@@ -240,23 +172,67 @@ Features:
  - We educate policy-makers and music professionals
  to talk, write and think about AI in a smart way.
 ```
+---
+
+{{< slide background-image="assign_blame_slide.webp" >}}
+
+---
+
+## Part II: Indicators
+
+---
+
+{{< slide background-image="OPA_slide.webp" >}}
+## Open Polcy Analysis
+<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
+
+---
+
+## Role of Cultural Policy Makers
+- Define the needs within the cultural policymaking in Slovakia
+- Share already collected data about the cultural entities (from music industry)
+- Assess the proposed music industry indicators
+
+---
+
+{{< slide background-image="slide_white_usable_indicators.webp" >}}
+
+---
+
+## Proposed timeline
+
+---
+
+## Indicators: example
+
+- Type and extent of side jobs among Slovak musicians
+- Average number of copyright protected works and neighboring rights protected recordings per musician
+
+---
+
+## Indicators: side job
+
+- Define a side job. Develop a strategy to ask or measure it correctly.
+- Characterize the side job (which other [creative] industry has the performance)
+- Divide it with the correct number of musicians.
+
+---
+
+## Indicators: copyrights
+
+- Define a musician.  What type of intellectual property a musician has?
+- Develop a strategy to ask/measure the number of works/recordings per musician.
+- Develop a strategy to count/measure number of musicians.
+- Divide works/recordings with the number of musicians
+
 
 
 ---
 
+## Who shall we ask?
 
-
-## Further reading 
-
-
----
-
-{{< slide background-image="cee_report_slide_qr.webp" >}}
-
-
-
----
-
+- We would like to involve all relevant policy stakeholders: ministry, parliament, NGOs, government organizations
+- The Open Policy Analysis allows the involvement of citizens, individual experts, small organizations.
 
 ---
 
@@ -265,41 +241,10 @@ Features:
 
 Click for Contacts: [Digital Music Observatory](https://music.dataobservatory.eu/) | [Listen Local Lithuania](https://music.dataobservatory.eu/talk/listen-local/) | [LaLa for Artists](https://reprex.nl/#contact) | [Lala for Fans](https://reprex.nl/#contact) | [Open Policy Analysis](https://reprex.nl/#contact)
 
-
----
-# Part IV Questions?
-
-Get in Touch: [Daniel - Valuations, Metadata, AI Policy](https://music.dataobservatory.eu/authors/daniel_antal/) | [Ioanna - Fashion & Blockchain](https://ccsi.dataobservatory.eu/authors/ioanna_lapatoura/) | [Borbala - Fair competition and fighting dark algorithms](https://reprex.nl/authors/borbala_domotorfy/) | 
-[Mark - MXF](https://wowchemy.com/docs/managing-content/#create-slides)
-
----
-# Market analysis
-
 ---
 
-{{< slide background-image="streaming_index.webp" >}}
+## Potential Extra Slides
 
----
-
-# Local content regulation & goals
-
-- Unpaid revenue rate
-- Local content regulations for radios
-- Goal setting on streaming
-
---- 
-
-
-# Avoiding negative outcomes
-
----
-
-
-{{< slide background-image="forgetify_blogpost.webp" >}}
-
----
-
-{{< slide background-image="assign_blame_slide.webp" >}}
 
 ---
 
@@ -307,21 +252,7 @@ Get in Touch: [Daniel - Valuations, Metadata, AI Policy](https://music.dataobser
 
 [Human agency and oversight](https://music.dataobservatory.eu/project/trustworthy-ai#human-agency) | [Technical Robustness and Safety](project/trustworthy-ai#technical-robustness) | [Human agency and oversight](https://music.dataobservatory.eu/project/trustworthy-ai/#human-agency) | [Privacy and Data Governance](https://music.dataobservatory.eu/project/trustworthy-ai#data-governance) | [Transparency](https://music.dataobservatory.eu/project/trustworthy-ai#transparency) | [Diversity, Non-Discrimination and Fairness](https://music.dataobservatory.eu/project/trustworthy-ai#fairness) | [Societal and Environmental Well-Being ](https://music.dataobservatory.eu/project/trustworthy-ai#well-being) 
 
----
-
-## Data biases
-
-- The data about the Lithuanian national cultural output and heritage shoulld be availabe in Lithuania
-- Should be daily synchronized with the world via the Europena, Dbpedia, MusicBrainz and other open linked data solutions that connect YouTube, Spotify, and other platforms to daily, up-to-date knowledge to train their algorithms.
-- AI is machine learning
 
 
----
-
-## Listen Local Lithuania
-
-- `open linked data`: We aim to sync with [AGATA](https://www.agata.lt/),  [LATGA](https://www.latga.lt/), the [Martynas Mažvydas National Library of Lithuania](https://www.lnb.lt/), [MIC](https://www.mic.lt/en/) and internationally via the [Europeana](https://www.europeana.eu/en), [Music Brainz](https://musicbrainz.org/) and  [Zenodo](https://zenodo.org/communities/music_observatory/?page=1&size=20) with global libraries, music services, and scientic repositories.
-
-- `open and smart policies`: In sync with the the Cultural Ministry of Lithuania, providing a blueprint for film, television, books, newspapers, fashion, architecture, design and other cultural and creative industries.
 
 

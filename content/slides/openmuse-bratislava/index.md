@@ -1,7 +1,7 @@
 ---
 title: Music and Creative Industry Indicators from Needs Assessment to Automated Production
 summary: Music and Creative Industry Indicators from Needs Assessment to Automated Production
-authors: []
+authors: [daniel_antal, maria_bartekova]
 tags: ["Listen Local", "OpenMuse"]
 categories: []
 date: '2022-10-03T12:42:00+02:00'
@@ -31,7 +31,7 @@ slides:
 
 
 {{< slide background-image="openmuse_logos.webp" >}}
-# OpenMuse
+## OpenMuse
 </br></br></br></br></br></br></br></br></br>
 
 ---
@@ -78,13 +78,13 @@ slides:
 
 ## Topics
 
-`WP1` Slovak creators, including music creators, should earn as much as the European average. Their income should level up to German and Finnish levels.
+- <p style="font-size:80%">WP1 Slovak creators, including music creators, should earn as much as the European average. Their income should level up to German and Finnish levels.</p>
 
-`WP2` Slovak people should find good Slovak music in Lithuania on Spotify, YouTube and the radio. Foreign labels must not increase their market share and colonize the local creative ecosystem.
+- <p style="font-size:80%">WP2 Slovak people should find good Slovak music in Lithuania on Spotify, YouTube and the radio. Foreign labels must not increase their market share and colonize the local creative ecosystem.</p>
 
-`WP3` Correctly attributing the environmental and social benefits (and costs) of music.
+- <p style="font-size:80%">WP3 Correctly attributing the environmental and social benefits (and costs) of music.</p>
 
-`WP4` Making sure that big data and AI works for all. Tap into open data, linked open data, bring the creative sectors to the web 3.0.
+- <p style="font-size:80%">WP4 Making sure that big data and AI works for all. Tap into open data, linked open data, bring the creative sectors to the web 3.0.</p>
 
 ---
 
@@ -182,6 +182,11 @@ Features:
 
 ---
 
+{{< slide background-image="slide_white_creative_industries.webp" >}}
+
+
+---
+
 {{< slide background-image="OPA_slide.webp" >}}
 ## Open Polcy Analysis
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
@@ -199,7 +204,7 @@ Features:
 
 ---
 
-## Proposed timeline
+{{< slide background-image="slide_white_first_year_timeline.webp" >}}
 
 ---
 
@@ -224,8 +229,6 @@ Features:
 - Develop a strategy to ask/measure the number of works/recordings per musician.
 - Develop a strategy to count/measure number of musicians.
 - Divide works/recordings with the number of musicians
-
-
 
 ---
 

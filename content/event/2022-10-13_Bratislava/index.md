@@ -45,7 +45,7 @@ url_slides: ''
 url_video: ''
 
 # Markdown Slides (optional).
-slides:
+slides: openmuse-bratislava
 
 # Projects (optional).
 projects:

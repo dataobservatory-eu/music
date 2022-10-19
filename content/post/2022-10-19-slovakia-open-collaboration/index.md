@@ -1,8 +1,8 @@
 ---
 title:  "Open Collaboration in Slovakia"
 subtitle:  ""
-date:  2022-10-19T18:12:00+01:00
-lastmod:  2022-10-19T18:12:00+01:00
+date:  2022-10-19T18:12:00+02:00
+lastmod:  2022-10-19T18:12:00+02:00
 draft:  false
 
 authors:  ["daniel_antal", "maria_bartekova"]

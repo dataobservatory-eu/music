@@ -12,7 +12,7 @@ tags:
  - Listen Local
  - Slovakia
 
-summary:  "We presented our invitation for an open collaboration for the Slovak Ministry of Culture, the ICP.Institute for Cultural Policies - Via Cultura, and various statistical, creative industry and music stakeholders to participate in an open collaboration with us, and try out the Open Policy Analysis framework"
+summary:  "We presented our invitation for an open collaboration with the Slovak Ministry of Culture, the ICP  Institute for Cultural Policies - Via Cultura, and various statistical, creative industry, and music stakeholders. We invited them to try out the Open Policy Analysis Framework with us, create usable indicators with us, use open data, and help synchronize music information from Slovakia to the rest of the world."
 
 image:
   caption:  ""

@@ -14,12 +14,12 @@ slides:
 ---
 
 
+
 # Invitation for an open collaboration
 
 [Digital Music Observatory](https://music.dataobservatory.eu/) | [Listen Local Slovakia](https://music.dataobservatory.eu/project/listen-local/)
 
-
---- 
+---
 
 ## Controls
 
@@ -122,18 +122,22 @@ slides:
 ## Sampling big data
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
+---
+
+{{< slide background-image="gold_panning_slide_notitle.webp" >}}
+## Open Data Directive
+<br/><br/><br/><br/><br/><br/><br/></br></br>
+
+{{% fragment %}} Read more: [Open Data - The Gold Without the Rush](https://dataandlyrics.com/post/2021-06-18-gold-without-rush/){{% fragment %}} 
 
 ---
 
-## Create methodology
+## Offering methodology
 
 - Open Policy Analysis, "Live Policy Documents"
 - Slovak music market share
 - Indicator design and high-quality, reproducible indicator creation 
 
----
-
-# Offering Methodology
 
 ---
 
@@ -188,7 +192,7 @@ Features:
 ---
 
 {{< slide background-image="OPA_slide.webp" >}}
-## Open Polcy Analysis
+## Open Policy Analysis
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
 ---

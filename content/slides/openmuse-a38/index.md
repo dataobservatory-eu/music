@@ -106,6 +106,12 @@ slides:
 ## Statisztikailag érvényes big data mintavételek
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
+---
+
+{{< slide background-image="gold_panning_slide_notitle.webp" >}}
+## Open Data Irányelv
+<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
+
 
 ---
 

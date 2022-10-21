@@ -8,7 +8,7 @@ categories: []
 date: '2022-09-07T00:00:00Z'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: white
+  theme: black
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
@@ -19,16 +19,8 @@ slides:
 
 ---
 
-## Controls
-
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
+{{< slide background-image="mic_controls.webp" >}}
+<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
 ---
 
@@ -102,6 +94,19 @@ slides:
 
 
 ---
+
+{{< slide background-image="blue_background.webp" >}}
+
+# Further information
+
+- Read more: [Digital Music Observatory](https://music.dataobservatory.eu/) | [Listen Local](https://music.dataobservatory.eu/project/listen-local/)  
+- Longer feasibility study: [Feasibility Study On Promoting Slovak Music In Slovakia & Abroad](https://music.dataobservatory.eu/publication/listen_local_2020/) 
+- Scientific version: [Ensuring the Visibility and Accessibility of European Creative Content on the World Market](https://music.dataobservatory.eu/publication/european_visibilitiy_2022/)
+
+---
+
+
+{{< slide background-image="blue_background.webp" >}}
 
 # Questions?
 

@@ -21,7 +21,7 @@ marketing:
     description: 'An open knowledge platform for the music industry'
     twitter: 'DigitalMusicObs'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-3CCTPKHHKL'
     baidu_tongji: ''
   verification:
     google: ''

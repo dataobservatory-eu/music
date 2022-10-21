@@ -1,6 +1,6 @@
 ---
 # This is YAML notation, the hashtag means 'comment', not to execute as command.
-title: Listen Local Lithuania
+title: Listen Local Lithuania - Music Information Center
 summary: Invitation for an open collaboration
 authors: []
 tags: ["Listen Local"]
@@ -14,6 +14,10 @@ slides:
   highlight_style: dracula
 ---
 
+{{< slide background-image="LLL-MIC_cover_2022-10-19.webp" >}}
+<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
+
+---
 # Invitation for an open collaboration
 
 [Digital Music Observatory](https://music.dataobservatory.eu/) | [Listen Local Lithuania](https://music.dataobservatory.eu/talk/listen-local/)

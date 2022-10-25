@@ -97,12 +97,6 @@ slides:
 
 ---
 
-{{< slide background-image="mic_presentation_9.webp" >}}
-<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
-
-
----
-
 # Questions?
 
 Get in Touch: [Gabija Liaugminaitė](https://www.linkedin.com/in/gabija-liaugminait%C4%97-5a906a152) | [Daniel Antal](https://www.linkedin.com/in/antaldaniel) 

@@ -58,7 +58,7 @@ user_groups:
 - institutional partners
 ---
 
-[Aloaded](https://www.aloaded.com/) is a beautiful music venue, five areas, fabulous view, excellent sound system, hundreds of tv-recordings, colourful local crowd and wonderful rich programme. A38 had is a cultural entertainment centre with international programme, restaurant, bar, concert hall, open-air terraces and lounge—all in one aboard as one of the most fascinating venues in Budapest. Since its opening it became the flagship of Budapest nightlife, a must-see spectacle on the Danube with scenic view and one of Europe's coolest clubs.
+[A38](https://www.a38.hu/) is a beautiful music venue, floating on the Danube, with five areas, fabulous view, excellent sound system, hundreds of tv-recordings, colourful local crowd and wonderful rich programme. A38 had is a cultural entertainment centre with international programme, restaurant, bar, concert hall, open-air terraces and lounge—all in one aboard as one of the most fascinating venues in Budapest. Since its opening it became the flagship of Budapest nightlife, a must-see spectacle on the Danube with scenic view and one of Europe's coolest clubs.
 
 
 A38 is the reincarnation of 'Tripolie', a Ukranian stone-carrier ship, built in 1968. The name comes from Artemovsk, which is the name of a ship prototype, and this one was the 38th unit of the 'Artemovsk' class. The re-building project lasted for one and a half years. Architects, ship engineers, acoustic designers, electricians, musicians and promoters contributed their skills and experience to make it an understated but elegant, for both artist and audience friendly place.

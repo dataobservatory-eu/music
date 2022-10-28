@@ -15,7 +15,7 @@ links:
   name: Follow
   url: https://twitter.com/DigitalMusicObs
   
-slides: listen-local
+slides: listen-local-slovakia-invitation
 
 tags:
 - Listen Local

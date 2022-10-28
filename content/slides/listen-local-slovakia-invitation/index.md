@@ -145,7 +145,6 @@ Read our [Data & Lyrics](https://dataandlyrics.com/post/2020-10-24-forgetify_pop
 
 ---
 
-
 {{< slide background-image="blue_background.webp" >}}
 
 # Questions?

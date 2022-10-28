@@ -1,11 +1,11 @@
 ---
 # This is YAML notation, the hashtag means 'comment', not to execute as command.
-title: Listen Local Lithuania - Music Information Center
+title: Listen Local Slovakia - Hudobné centrum
 summary: Invitation for an open collaboration
 authors: ["gabija_liaugminaite", "daniel_antal"]
 tags: ["Listen Local"]
 categories: []
-date: '2022-09-07T00:00:00Z'
+date: '2022-10-28T07:00:00Z'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
@@ -33,12 +33,34 @@ the OpenMuse project.
 
 ---
 
-{{< slide background-image="blue_background.webp" >}}
+{{< slide background-image="slide_music_industry_reports.webp" >}}
+&nbsp;<br/>&nbsp;<br/></br></br>&nbsp;<br/>&nbsp;</br>
+
+{{% fragment %}} [Hungarian](https://music.dataobservatory.eu/publication/hungary_music_industry_2014/) | {{% /fragment %}} {{% fragment %}} | [Slovak](https://music.dataobservatory.eu/publication/slovak_music_industry_2019/) {{% /fragment %}} {{% fragment %}} | [Croatian](https://music.dataobservatory.eu/publication/slovak_music_industry_2019/) {{% /fragment %}} {{% fragment %}} | [CEE](https://music.dataobservatory.eu/publication/ceereport_2020/) {{% /fragment %}} {{% fragment %}} | [Academic](https://music.dataobservatory.eu/publication/made_in_hungary/) {{% /fragment %}}
 
 
-## <span style="color:#FAE000">Feasibility Study</span>
-<br/><br/>
+---
 
+{{< slide background-image="blue_green_listen_local_feasibility_study.png" >}}
+&nbsp;<br/>&nbsp;<br/></br></br>&nbsp;<br/>&nbsp;</br>&nbsp;</br>&nbsp;</br>
+&nbsp;</br>&nbsp;</br>
+{{% fragment %}} [Download in English](https://music.dataobservatory.eu/publication/listen_local_2020/) {{% /fragment %}}  —{{% fragment %}}— [Download in Slovak](https://music.dataobservatory.eu/publication/listen_local_2020/) {{% /fragment %}}
+
+---
+
+{{< slide background-image="blue_green_forgetify_slide.webp" >}}
+&nbsp;<br/>&nbsp;<br/></br></br>&nbsp;<br/>&nbsp;</br>&nbsp;</br>&nbsp;</br>
+&nbsp;</br>
+{{% fragment %}} [Try Forgotify](https://music.dataobservatory.eu/publication/listen_local_2020/)—it is sometimes failing to load! {{% /fragment %}} </br> {{% fragment %}} 
+Read our [Data & Lyrics](https://dataandlyrics.com/post/2020-10-24-forgetify_pop_october/) blogpost {{% /fragment %}}
+
+---
+
+{{< slide background-image="katarzia_favorite_key_slide.webp" >}}
+- Teach the algorithms about the musicologoical, lyrical content of the music<br/></br></br>&nbsp;<br/>&nbsp;</br>&nbsp;</br>&nbsp;</br>
+&nbsp;</br>&nbsp;</br>
+
+- Give biographical and geographical context to the music
 
 ---
 

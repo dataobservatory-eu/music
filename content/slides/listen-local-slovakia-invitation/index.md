@@ -129,12 +129,6 @@ Read our [Data & Lyrics](https://dataandlyrics.com/post/2020-10-24-forgetify_pop
 
 ---
 
-{{< slide background-image="mic_presentation_9.webp" >}}
-<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
-
-
----
-
 {{< slide background-image="blue_background.webp" >}}
 
 # Further information

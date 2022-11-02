@@ -26,8 +26,8 @@ content:
       link:
         icon: fa-solid fa-right-to-bracket
         icon_pack: fas
-        text: "Click, scroll down, and vote REPREX :)"
-        url: https://www.impactcity.nl/en/cast-your-vote-for-the-hague-innovators-challenge-2022/
+        text: "Vote REPREX :)"
+        url: ../post/2022-10-29_reprex-talk-to-all/
     - title: 
       content:  </br></br></br></br></br></br></br></br></br></br></br></br>
       align: left

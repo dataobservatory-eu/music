@@ -70,7 +70,7 @@ Ezeken a nyelveken is elérhető az üzenetünk:
 
 2 Oszd meg a **Twitteren** (ha használod ezt a közösségi médiát) a felhívásunknak.  Zenei körökben lehetőleg ezt:
 
-{{< tweet 1587480876383887369 >}}
+{{< tweet user="DigitalMusicObs" id="1587480876383887369" >}}
 
 Általános kulturális körökben inkább ezt: [@CultDataObs](https://twitter.com/CultDataObs/status/1587482559851761664); zöldeknek meg ezt: [@GreeDealObs](https://twitter.com/GreenDealObs/status/1587513316699668482).
 

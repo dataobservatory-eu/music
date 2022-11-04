@@ -5,16 +5,23 @@
 
 main:
   - name: Home
-    url: '#about'
     weight: 10
     identifier: Home
   - name: About
     url: '#about'
-    weight: 10
+    weight: 11
     parent: Home
+  - name: "In 1 minute"
+    url: '#slider'
+    weight: 12
+    parent: Home
+  - name: News
+    weight: 20
+    identifier: News
   - name: Blog
     url: '#posts'
-    weight: 20
+    weight: 22
+    parent: News
   - name: Solutions
     url: '#services'
     weight: 30
@@ -110,10 +117,6 @@ main:
   - name: Public talks
     url: '#talks'
     weight: 92
-    parent: Contact
-  - name: Meetups in Europe
-    url: '/category/meetup/'
-    weight: 93
     parent: Contact
 
 # Link to a PDF of your resume/CV from the menu.

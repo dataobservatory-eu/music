@@ -47,7 +47,7 @@ The message is the message! We are an ethical data and AI company, and one of ou
 
 2 **Retweet** our appeal from one of our observatory Twitter accounts. For music audiences:
 
-{{< tweet 1587480876383887369 >}}
+{{< tweet user="DigitalMusicObs" id="1587480876383887369" >}}
 
 The same message forgeneral cultural audiences: [@CultDataObs](https://twitter.com/CultDataObs/status/1587482559851761664); for green audiences: [@GreeDealObs](https://twitter.com/GreenDealObs/status/1587513316699668482).
 

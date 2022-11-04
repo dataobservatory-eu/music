@@ -1,6 +1,6 @@
 ---
 title: "Big Data for All: Building Collaborative Data Observatories" 
-subtitle: From the music ecosytem to newer use cases
+subtitle: From the music ecosystem to further use cases
 
 event: Eindhoven Innovation Café Breakout Talks
 event_url: https://www.ehvinnovationcafe.org/program/

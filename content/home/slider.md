@@ -15,6 +15,19 @@ design:
 
 content:
   slides:
+    - title: Daniel in the EHV Innovation Café
+      content: '</br></br></br></br></br></br></br>'
+      align: left
+      background:
+        position: right
+        color: '#555'
+        brightness: 0.6
+        media: img/slides/daniel_antal_ehv_innovation_cafe_20221103.webp
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: Watch the livestream
+        url: ../post/2022-11-03_ehv_innovation_cafe/
     - title: Vote in The Hague Innovators Challenge!
       content: '</br></br></br></br>'
       align: left

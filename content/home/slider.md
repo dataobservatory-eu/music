@@ -89,10 +89,10 @@ content:
       content: '</br></br></br></br></br></br></br></br></br></br>'
       align: left
       background:
-        position: center
+        position: top
         color: '#555'
-        brightness: 0.8
-        media: slides/slider/Reprex_ImpactCity_sdg_16_relevance.webp
+        brightness: 0.85
+        media: slides/slider/Sustainable_development_goals_16_white.webp
       link:
         icon: fa-solid fa-right-to-bracket
         icon_pack: fas
@@ -102,10 +102,10 @@ content:
       content: '</br></br></br></br></br></br></br></br></br></br>'
       align: left
       background:
-        position: center
+        position: top
         color: '#555'
-        brightness: 0.8
-        media: slides/slider/Reprex_ImpactCity_sdg_17_relevance.webp
+        brightness: 0.85
+        media: slides/slider/Sustainable_development_goals_17_white.webp
       link:
         icon: fa-solid fa-right-to-bracket
         icon_pack: fas

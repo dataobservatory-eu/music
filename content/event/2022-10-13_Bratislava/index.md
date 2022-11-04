@@ -59,6 +59,10 @@ projects:
 The LOCATION AND DATE of this event has changed. The event is strictly by registration only. Get in touch on the [Contact Form](https://reprex.nl/#contact) if you have no invitation but would like to participate in the event. SLOVENSKÉ JAZYKOVÉ VERZIE ⬇️
 {{% /callout %}}
 
+*This is a past event*. Check out our forthcoming [events](/#talks) or write to [{{< icon name="linkedin" pack="fab" >}} Daniel Antal](https://www.linkedin.com/in/antaldaniel/)  or to [{{< icon name="keybase" pack="fab" >}} antaldaniel](https://keybase.io/antaldaniel). Or send an [{{< icon name="envelope" pack="fas" >}} email](/contact/).
+
+___
+
 We would like to present an open invitation for a collaboration to help the Slovak government, the national assembly, and various civil and business societies to build and monitor evidence-based policies based on the experience of the music sector. We will use the `Open Policy Analysis Guidelines` and the best European evidence-based policy design practice that facilitate the creation and use of transparent evidence in the entire policy cycle from design to ex post evaluation.
 
 In the context of the OpenMuse project within the Horizon Europe framework program we would like to build on the results of the [Slovak Music Industry Report](https://music.dataobservatory.eu/publication/slovak_music_industry_2019/) and the [Feasibility Study On Promoting Slovak Music In Slovakia & Abroad](https://music.dataobservatory.eu/publication/listen_local_2020/) and show how modern open source statistical software and data science can help the slovak music industry, and more generally, the Cultural and Creative Sectors and Industries (CCSI).

@@ -57,6 +57,10 @@ projects:
 
 <td style="text-align: center;">{{< figure src="reports/listen_local_2020/listen_local_study_covers.png" caption="We will carry out the research outlined in our [feasibility study ](https://music.dataobservatory.eu/publication/listen_local_2020/) within the [OpenMuse] project from 1 January 2023 in an open collaboration with cultural policymakers, the local music ecosystem, and open source developers. Our partner, [MXF](https://music.dataobservatory.eu/project/openmuse/) tries to put the findings into [actionable data services](https://music.dataobservatory.eu/slides/listen-local-lithuania-invitation/) in Lithuania and Ukraine with the help of [MusicAire](https://musicaire.eu/). We develop open tools that can be applied in Utrecht, the Hague, Budapest, Tallinn, [Vilnius](https://music.dataobservatory.eu/slides/lll-mic/), [Bratislava](https://music.dataobservatory.eu/slides/openmuse-bratislava/), or anywhere." numbered="false" >}}</td>
 
+*This is a past event*. Check out our forthcoming [events](/#talks) or write to [{{< icon name="linkedin" pack="fab" >}} Daniel Antal](https://www.linkedin.com/in/antaldaniel/)  or to [{{< icon name="keybase" pack="fab" >}} antaldaniel](https://keybase.io/antaldaniel). Or send an [{{< icon name="envelope" pack="fas" >}} email](/contact/).
+
+___
+
 Our ongoing project since 2014 is [Listen Local](https://music.dataobservatory.eu/project/listen-local/).  We would like to find out how can a local music ecosystem, or a small scene avoid being colonized by global players on streaming platforms, radio, or in-store music.  How can we make sure that music recommendations connect bands in Utrecht with fans in Utrecht?  If a Polish band is visiting Utrecht, music lovers will find their show? 
 
 {{% callout note %}}

@@ -26,12 +26,21 @@ url_slides: ""
 url_video: ""
 url_code: ""
 
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom: [{icon_pack: "fab", icon="twitter", name="Follow", url: "https://twitter.com/antaldaniel"}]
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow & share
+  url: https://twitter.com/dataandlyrics/
+- icon: linkedin
+  icon_pack: fab
+  name: Share our appeal
+  url: https://www.linkedin.com/company/68855596/
+- icon: fa-solid fa-check-to-slot
+  icon_pack: fas
+  name: Vote Reprex
+  link: https://www.impactcity.nl/en/cast-your-vote-for-the-hague-innovators-challenge-2022/
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
+# Markd
 image:
   caption: ""
   

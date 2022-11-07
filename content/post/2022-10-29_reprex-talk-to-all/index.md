@@ -10,6 +10,16 @@ tags:  ["Reprex", "The Hague", "Netherlands", "The Hague Innovators Challenge 20
 
 summary:  "We are finalists in The Hague Innovation Awards with a product offering and a message that big data and AI should work for all: ethnic minorities, small nations, small languages, womxn. Please vote for us."
 
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: linkedin
+  icon_pack: fab
+  name: Share our appeal
+  url: https://www.linkedin.com/company/68855596/
+
 # Featured image
 image: 
   caption:  "Cast your vote in the competition"

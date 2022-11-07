@@ -30,7 +30,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow & share
-  url: https://twitter.com/dataandlyrics/
+  url: https://twitter.com/DigitalMusicObs/
 - icon: linkedin
   icon_pack: fab
   name: Share our appeal
@@ -40,7 +40,6 @@ links:
   name: Vote Reprex
   link: https://www.impactcity.nl/en/cast-your-vote-for-the-hague-innovators-challenge-2022/
 
-# Markd
 image:
   caption: ""
   

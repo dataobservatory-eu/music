@@ -27,6 +27,11 @@ image:
   focal_point:  "Center"
   preview_only:  true
 
+links:
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/company/79286750/
+    
 categories:
 - R-bloggers
 ---

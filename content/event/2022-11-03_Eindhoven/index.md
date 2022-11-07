@@ -51,7 +51,6 @@ projects:
  - OpenMusE
  
 links:
-links:
 - icon: twitter
   icon_pack: fab
   name: "@DigitalMusicObs"
@@ -62,8 +61,8 @@ links:
   url: https://twitter.com/CultDataObs
 - icon: linkedin
   icon_pack: fab
-  name: Reprex
-  url: https://www.linkedin.com/company/68855596/
+  name: Join us on LinkedIn
+  link: https://www.linkedin.com/company/79286750/
 - icon: youtube
   icon_pack: fab
   name: Recorded Livestream

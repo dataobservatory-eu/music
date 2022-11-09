@@ -17,9 +17,6 @@ summary = "In complex systems there are hardly ever singular causes that explain
 [image]
   # Caption (optional)
   caption = "Copyright Data Improvement in the EU – Towards Better Visibility of European Content"
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Top"
 
   # Show image only in page previews?
@@ -33,13 +30,13 @@ Traitors in a war used to be executed by firing squad, and it was a psychologica
 *This is the edited text of my presentation on Copyright Data Improvement in the EU – Towards Better Visibility of European
 Content and Broader Licensing Opportunities in the Light of New Technologies* - {{% staticref "documents/Copyright_Data_Improvement_Workshop_Programme.pdf" "newtab" %}}download the entire webinar's agenda{{% /staticref %}}.
 
-{{< figure src="media/presentations/D_Antal_IVIR_Webinar_2021-05-06/Slide2.PNG" caption="Assigning and avoding blame." numbered="true" >}}
+{{< figure src="presentations/D_Antal_IVIR_Webinar_2021-05-06/Slide2.PNG" caption="Assigning and avoding blame." numbered="true" >}}
 
 If you do not see enough women on streaming charts, or if you think that the percentage of European films on your favorite streaming provider—or Slovak music on your music streaming service—is too low, you have to be able to distribute the blame in more precise terms than just saying “it’s the system” that is stacked up against women, small countries, or other groups. We need to be able to point the blame more precisely in order to effect change through economic incentives or legal constraints.
 
 This is precisely the type of work we are doing with the continued support of the Slovak national rightsholder organizations, as well as in our research in the United Kingdom. We try to understand why classical musicians are paid less, or why 15% of Slovak, Estonian, Dutch, and Hungarian artists never appear on anybody’s personalized recommendations. We need to understand how various AI-driven systems operate, and one approach would at the very least model and assign blame for undesirable outcomes in probabilistic terms. The problem is usually not that an algorithm is nasty and malicious; Algorithms are often trained through “machine learning” techniques, and often, machines “learn” from biased, faulty, or low-quality information.
 
-{{< figure src="/media/presentations/D_Antal_IVIR_Webinar_2021-05-06/Slide3.PNG" caption="Outcomes: What Can Go Wrong With a Recommendation System?" numbered="true" >}}
+{{< figure src="presentations/D_Antal_IVIR_Webinar_2021-05-06/Slide3.PNG" caption="Outcomes: What Can Go Wrong With a Recommendation System?" numbered="true" >}}
 
 In complex systems there are hardly ever singular causes that explain undesired outcomes; in the case of algorithmic bias in music streaming, there is no single bullet that eliminates women from charts or makes Slovak or Estonian language content less valuable than that in English. Some apparent causes may in fact be “blank cartridges,” and the real fire might come from unexpected directions. Systematic, robust approaches are needed in order to understand what it is that may be working against female or non-cisgender artists, long-tail works, or small-country repertoires.
 
@@ -72,7 +69,7 @@ Until now, in most cases, it was assumed that it is the artists or their represe
 
 But this is not enough. We need to address the question of how new, better Algorithms can learn from user history and avoid amplifying pre-existing bias against women or hateful speech. We need to make sure that when Algorithms are “scraping” the internet, they do so in an accountable way that does not make small language repertoires vulnerable.
 
-{{< figure src="/media/presentations/D_Antal_IVIR_Webinar_2021-05-06/Slide5.PNG" caption="Incentives and investments into metadata" numbered="true" >}}
+{{< figure src="presentations/D_Antal_IVIR_Webinar_2021-05-06/Slide5.PNG" caption="Incentives and investments into metadata" numbered="true" >}}
 
 [In our paper](https://dataandlyrics.com/publication/european_visibilitiy_2021/) we argue for new regulatory considerations to create a better, and more accountable playing field for deploying Algorithms in a quasi-autonomous system, and we suggest further research to align economic incentives with the creation of higher quality and less biased metadata. The need for further research on how these large systems affect various fundamental rights, consumer or competition rights, or cultural and media policy goals cannot be overstated. The first step is to open and understand these autonomous systems. It is not enough to say that the firing squads of Big Tech are shooting women out from charts, ethnic minority artists from screens, and small language authors from the virtual bookshelves. We must put a lot more effort on researching the sources of the problems that make machine learning Algorithms behave in a way that is not compatible with our European values or regulations.
 

@@ -43,6 +43,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/DigitalMusicObs/
+  - icon: mastodon
+    icon_pack: fab
+    url: https://eupolicy.social/@digitalmusicobs/
   - icon: fingerprint
     icon_pack: fas
     link: https://zenodo.org/communities/music_observatory/

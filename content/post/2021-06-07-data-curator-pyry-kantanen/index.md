@@ -1,31 +1,41 @@
-+++
-title = "Comparing Data to Oil is a Cliché: Crude Oil Has to Go Through a Number of Steps and Pipes Before it Becomes Useful"
-subtitle = "Introducing Our Developers"
-date = 2021-06-07T10:00:00
-lastmod = 2021-06-07T10:00:00
-draft = false
+---
+title: "Comparing Data to Oil is a Cliché: Crude Oil Has to Go Through a Number of Steps and Pipes Before it Becomes Useful"
+subtitle: "Introducing Our Developers"
+date: 2021-06-07T10:00:00
+lastmod: 2021-06-07T10:00:00
+draft: false
 
-authors = ["pyry_kantanen"]
+authors: ["pyry_kantanen"]
 
-tags = ["Open data", "Open science", "reproducible research", "open government", "Eurovision", "musicology"]
+tags: ["Open data", "Open science", "Reproducible research", "Open government", "Eurovision", "Musicology"]
 
-summary = "Many interesting phenomena are difficult to quantify in a meaningful way and writing a catchy song with international appeal is probably more an art than a science. Nevertheless that should not deter us from trying as music, too, is bound by certain rules and regularities that can be researched."
+summary: "Many interesting phenomena are difficult to quantify in a meaningful way and writing a catchy song with international appeal is probably more an art than a science. Nevertheless that should not deter us from trying as music, too, is bound by certain rules and regularities that can be researched."
 
-projects = ["eu-datathon_2021", "Listen Local"]
-
+projects: ["Listen Local"]
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/dataobservatory-eu/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/company/79286750/
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/DigitalMusicObs/
+  - icon: fingerprint
+    icon_pack: fas
+    link: https://zenodo.org/communities/music_observatory/
 # Featured image
-[image]
-  # Caption (optional)
-  caption = "Pyry Kantanen"
+image:
+  caption: "Pyry Kantanen"
+  focal_point: "Center"
+  preview_only: false
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
-
-  # Show image only in page previews?
-  preview_only = false
-
-+++
+---
+Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}}open repositories, code, tutorials{{< /staticref >}}!
 
 *Pyry Kantanen is mainly involved with our statistical software development and testing.*
 

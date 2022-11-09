@@ -34,25 +34,9 @@ tags:
   - Listen Local
   - ImpactCity
   - SDG
-  
-links:
-- icon: twitter
-  icon_pack: fab
-  name: "@DigitalMusicObs"
-  url: https://twitter.com/DigitalMusicObs
-- icon: github
-  icon_pack: fab
-  name: Open Repo & Code
-  link: https://github.com/dataobservatory-eu
-- icon: fingerprint
-  icon_pack: fas
-  name: Authoritative data
-  link: https://zenodo.org/communities/greendeal_observatory/
-- icon: linkedin
-  icon_pack: fab
-  name: Join our collaboration community on LinkedIn
-  link: https://www.linkedin.com/company/79286750/
+ 
 ---
+_Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}!_
 
 [Reprex](/authors/reprex) is the Hague-based impact startup developing decentralized, modern, web 3.0-compatible data observatories. Our mission is to fulfill parts of the SDG 16 and 17 goals: based on the open collaboration method of open-source software development and open knowledge management, we would like to enable impact makers to contribute to other SDG goals by making AI and big data work for them.
 
@@ -102,4 +86,4 @@ Our message is simple: `doing business and doing good` for the city of the Hague
 
 Reprex’s data observatories, particularly the [Green Deal Data Observatory](/#slider) are public-private partnerships that foster the collective collection, processing, peer-review, and reuse of novel big data, like BeeSage’s beehive data, and reusable statistical and environmental data. We hope to place the permanent institution of this PPP in the Hague, which is already the [World's Smartest City](https://thehague.com/businessagency/the-hague-the-winner-world-smart-city-award-2021), and which wants to remain a global centre of excellence of peace, justice, and sustainability in the era of big data and AI.
 
-
+Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}}open repositories, code, tutorials{{< /staticref >}}!

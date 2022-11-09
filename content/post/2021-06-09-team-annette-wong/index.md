@@ -7,7 +7,7 @@ draft = false
 
 authors = ["annette_wong"]
 
-tags = ["Open data", "Open science", "trustworthy AI", "service-design", "communication"]
+tags = ["Open data", "Open science", "Trustworthy AI", "Dissemination", "Contributors"]
 
 summary = "101 Dalmatians was released in 1985 and 1991 which made thousands of families (in the U.S.) want to adopt one. The American Kennel Club reported that the annual number of Dalmatian puppies registered skyrocketed from 8,170 animals to 42,816."
 
@@ -26,6 +26,8 @@ projects = ["eu-datathon_2021"]
   preview_only = false
 
 +++
+
+Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}}{{< icon name="code" pack="fas" >}}open repositories, code, tutorials{{< /staticref >}}.
 
 *Annette Wong is helping our service development from a digital strategy and marketing point of view.*
 

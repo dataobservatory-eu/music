@@ -31,6 +31,8 @@ categories:
 [![dataobservatory](https://img.shields.io/badge/ecosystem-dataobservatory.eu-3EA135.svg)](https://dataobservatory.eu/)
 <!-- badges: end -->
 
+Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} or get the  {{< staticref "https://statcodelists.dataobservatory.eu/" "newtab" >}}{{< icon name="code" pack="fas" >}} tutorials and code{{< /staticref >}}!
+
 The goal of `statcodelists` is to promote the reuse and exchange of statistical information and related metadata with making the internationally standardized SDMX code lists available for the R user. SDMX – the [Statistical Data and Metadata eXchange](https://sdmx.org/) has been published as an ISO International Standard (ISO 17369). The metadata definitions, including the codelists are updated regularly according to the standard. The authoritative version of the code lists made available in this package is <https://sdmx.org/?page_id=3215/>. 
 
 {{< spoiler text="Click to expand table of contents of the post" >}}

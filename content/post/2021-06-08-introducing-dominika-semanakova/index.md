@@ -7,11 +7,11 @@ draft = false
 
 authors = ["dominika_semanakova"]
 
-tags = ["Open data", "Listen Local", "trustworthy AI", "culture policy",  "musicology", "Slovakia"]
+tags = ["Open data", "Listen Local", "trustworthy AI", "Cultural policy",  "Musicology", "Slovakia", "Contributors"]
 
 summary = "The idea behind Listen Local is simple: we want machine learning Algorithms of Spotify, YouTube, or other services to learn more about Slovak music.  In order to make machines learn about Slovak music, we have to make machine-readable tables of Slovak music for AI learners"
 
-projects = ["eu-datathon_2021", "Listen Local"]
+projects = ["Listen Local"]
 
 # Featured image
 [image]
@@ -26,6 +26,9 @@ projects = ["eu-datathon_2021", "Listen Local"]
   preview_only = false
 
 +++
+
+Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}}open repositories, code, tutorials{{< /staticref >}}!
+
 
 **You were a member of the team that was behind the creation of the application Listen Local. Can you tell us more about this project?**
 

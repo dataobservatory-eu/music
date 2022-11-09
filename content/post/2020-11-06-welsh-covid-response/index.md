@@ -7,7 +7,7 @@ draft = false
 
 authors = ["Daniel Antal, CFA"]
 
-tags = ["Wales", "United Kingdom", "Covid-19", "live music", "Music industry"]
+tags = ["Wales", "United Kingdom", "Covid-19", "Live music", "Music industry"]
 
 summary = "In July 2020, Professor Paul Carr of University of South Wales was commissioned by the Welsh Parliament to create a report examining the music industries in Wales hit by Covid-19 in Wales. Many of his findings may be very interesting starting points for a discussion in other small nations."
 
@@ -27,6 +27,8 @@ projects = ["Digital Music Observatory"]
   preview_only = false
 
 +++
+
+_Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}!_
 
 In July 2020, Professor Paul Carr of [University of South Wales](http://staff.southwales.ac.uk/users/381-pcarr) was commissioned by [Senedd Cymru – the Welsh Parliament]() to create a report examining the ‘*state of play*’ in the post Covid-19 music industries in Wales.
 

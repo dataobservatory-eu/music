@@ -24,6 +24,7 @@ summary = "We are working on a simple interface that can connect the accounting 
   preview_only = false
 
 +++
+_Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}!_
 
 The music sector must increase its environmental and social (ESG) sustainability management to meet the challenges of the climate emergency and to make the music sector a fairer, more just workplace for womxn and artists coming from minorities, small countries. The European Union will make target setting and audited reporting mandatory in environmental and social sustainability for large companies.  The application of these new accounting, reporting and disclosure rules are optional for the music sector where almost all entities are micro-, or small enterprises and civil society organizations.
 

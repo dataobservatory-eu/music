@@ -10,27 +10,6 @@ tags:  ["Reprex", "Eindhoven", "Netherlands", "The Hague Innovators Challenge 20
 
 summary:  ""
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: "@DigitalMusicObs"
-  url: https://twitter.com/DigitalMusicObs
-- icon: twitter
-  icon_pack: fab
-  name: "@CultDataObs"
-  url: https://twitter.com/CultDataObs
-- icon: twitter
-  icon_pack: fab
-  name: "@GreenDealObs"
-  url: https://twitter.com/GreenDealObs
-- icon: linkedin
-  icon_pack: fab
-  name: Reprex
-  url: https://www.linkedin.com/company/68855596/
-- icon: youtube
-  icon_pack: fab
-  name: Recorded Livestream
-  url: https://youtu.be/kM54gAAbHY0?t=05m22s
   
 # Featured image
 image: 
@@ -38,7 +17,7 @@ image:
   focal_point:  "Center"
   preview_only:  true
 ---
-
+_Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}!_
 
 Big data creates injustices, because only the biggest corporations, universities and governments can sustain long, systematic, and well-organized data collection. Reprex builds collaborative data ecosystems, communities, that can share resources and access legally open but not available data sources. Our flagship products are the Digital Music Observatory and Listen Local, a system that tries to prevent global platforms colonizing local ecosystems with AI.
 

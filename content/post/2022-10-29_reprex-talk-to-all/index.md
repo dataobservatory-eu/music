@@ -10,25 +10,15 @@ tags:  ["Reprex", "The Hague", "Netherlands", "The Hague Innovators Challenge 20
 
 summary:  "We are finalists in The Hague Innovation Awards with a product offering and a message that big data and AI should work for all: ethnic minorities, small nations, small languages, womxn. Please vote for us."
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: "@DigitalMusicObs"
-  url: https://twitter.com/DigitalMusicObs
-- icon: linkedin
-  icon_pack: fab
-  name: Share our appeal
-  url: https://www.linkedin.com/company/68855596/
-
 # Featured image
 image: 
   caption:  "Cast your vote in the competition"
   focal_point:  "Center"
   preview_only:  true
 ---
-{{< toc >}}
+_Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}! 🇭🇺 [magyarul](/impactcity/magyar/)_
 
-🇭🇺 [magyarul](/impactcity/magyar/)
+{{< toc >}}
 
 
 ## How to vote?

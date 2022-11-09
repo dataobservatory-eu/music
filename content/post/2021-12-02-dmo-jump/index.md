@@ -7,7 +7,7 @@ draft = false
 
 authors = ["daniel_antal"]
 
-tags = ["JUMP", "Digital Music Observatory", "music streaming", "data visualization"]
+tags = ["JUMP", "Digital Music Observatory", "Music streaming", "Data visualization"]
 
 summary = "Our Digital Music Observatory project spent a year in the JUMP Music Market Accelerator's program. Over the course of 9 months, co-founder Daniel Antal could meet many stakeholders from almost all European countries, meet other new music technology startups and projects, and got mentoring and other professional help to further develop the project."
 
@@ -24,6 +24,7 @@ summary = "Our Digital Music Observatory project spent a year in the JUMP Music 
   preview_only = false
 
 +++
+Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}!
 
 Our [Digital Music Observatory](https://music.dataobservatory.eu/) project spent a year in the JUMP Music Market Accelerator's program. Over the course of 9 months, co-founder Daniel Antal could meet many stakeholders from almost all European countries, meet other new music technology startups and projects, and got mentoring and other professional help to further develop the project.
 

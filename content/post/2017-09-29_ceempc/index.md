@@ -8,7 +8,7 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["value gap", "market report", "CEEMID", "music publishing"]
+tags = ["Value gap", "Market report", "CEEMID", "Music publishing"]
 
 summary = "CEEMID had the honor to participate in the third panel of CEEMP in Warsaw together with Ben McEwen from ICE; Jules Parker from Spotify and Dominic Houston from Netflix, and Chris Butler from Music Sales, who is also the chairperson of ICMP. Our panel was moderated by Nigel Elderton from peermusic, who is also the new chairperson of PRS in the UK."
 
@@ -49,3 +49,5 @@ Digital gap between household cultural spending and CE / S European music indust
 Comparing household cultural spending with digital music revenues in Europe’s main regions.
 
 Daniel’s short presentation highlighted the fact that the CEE region’s is much richer in terms of household cultural and recreational spending that it is thought by the music industry, because the music industry is really lagging its Western and Nordic peers in tapping into this pool of money.  There are many reasons for this, all a bit touched upon the other speaker’s issues, and their implementation difficulties n the CEE region, especially different revenue stream breakup, strong collective management and relatively underdeveloped publishing.  The region is about 200% or more below its benchmark in the sales we were talking about in this session.  The conversation will continue in Brussels, Prague, Budapest, Bratislava and Warsaw in the coming weeks.
+
+_Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}!_

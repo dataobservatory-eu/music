@@ -7,7 +7,7 @@ draft = false
 
 authors = ["eszter_kabai"]
 
-tags = ["Open data", "Open science", "computational antitrust", "royalties", "curators"]
+tags = ["Open data", "Open science", "Computational antitrust", "Royalties", "Contributors"]
 
 summary = "For my daily tasks data would be needed for setting the price of the different licenses and, or identifying the works that were used, exploited, to properly manage the payouts to the rights holders."
 
@@ -26,6 +26,8 @@ projects = ["eu-datathon_2021"]
   preview_only = false
 
 +++
+{{% callout note %}}
+Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}{{% /callout %}}
 
 **As Chief Legal Counsel in a music organization, what type of data do you usually use in your work and/or projects?**
 

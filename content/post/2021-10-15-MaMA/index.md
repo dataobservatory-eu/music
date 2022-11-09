@@ -7,7 +7,7 @@ draft = false
 
 authors = ["daniel_antal"]
 
-tags = ["Music industry","data-as-service", "innovation", "France"]
+tags = ["Music industry","data-as-service", "Innovation", "France"]
 
 summary = "Reprex’s co-founder, Daniel Antal and our Listen Local curator, Marie Zhorová participated in the MaMA Festival & Convention in Paris on 13-15 October within the JUMP Music Market Accelerator Program. We introduced our Digital Music Observatory to national music organizations and encouraged them to try out a cooperation with us."
 
@@ -26,6 +26,8 @@ projects = ""
   preview_only = false
 
 +++
+{{% callout note %}}
+Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}{{% /callout %}}
 
 Reprex’s co-founder, the main developer of the Digital Music Observatory, [Daniel Antal](https://reprex.nl/authors/daniel_antal/) and Digital Music Observatory curator, [Marie Zhorová](https://music.dataobservatory.eu/author/marie-zhorova/) participated in the MaMA Festival & Convention in Paris on 13-15 October within the [JUMP Music Market Accelerator Program](https://www.jumpmusic.eu/fellows/) Program. We introduced our Digital Music Observatory to national music organizations and encouraged them to try out a cooperation with us. (See Use Cases below)
 

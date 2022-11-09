@@ -24,7 +24,9 @@ summary = "Understanding coping strategies with online platforms, their Algorith
   preview_only = true
 
 +++
-Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}!
+{{% callout note %}}
+Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}{{% /callout %}}
+
 
 <td style="text-align: center;">{{< figure src="/blogposts_2022/CCSID_reCreating_Survey_16x9.png"  caption="If you are a creator yourself, please, [fill out](https://uva.fra1.qualtrics.com/jfe/form/SV_23KHcb7E2xqQFNQ) the survey of 2022 in any EU language. If you represent an artist organization, please, make sure that the survey finds its way to your newsletter and [get in touch](https://reprex.nl/#/contact) with us to get the results---and any further data you need for your work." numbered="false" >}}</td>
 

@@ -26,7 +26,8 @@ slides: openmuse-bratislava
 doi: 10.5281/zenodo.6427514
 
 ---
-_Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}!_
+{{% callout note %}}
+Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}{{% /callout %}}
 
 On behalf of the Digital Music Observatory, the [Cultural & Creative Sectors and Industries Observatory](https://ccsi.dataobservatory.eu/), and the forming [OpenMuse](https://music.dataobservatory.eu/project/openmuse/) consortium, Daniel Antal and Maria Bartekova, PhD presented our invitation for an open collaboration for the Slovak Ministry of Culture, the ICP.Institute for Cultural Policies - Via Cultura, and various statistical, creative industry and music stakeholders to participate in an open collaboration with us, and try out the Open Policy Analysis framework.
 

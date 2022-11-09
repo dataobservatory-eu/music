@@ -9,7 +9,7 @@ authors = ["Daniel Antal"]
 
 project = ["Listen Local"]
 
-tags = ["Algorithms", "Slovakia", "Trustworthy AI", "recommendations"]
+tags = ["Algorithms", "Slovakia", "Trustworthy AI", "Recommendations"]
 
 summary = "In complex systems there are hardly ever singular causes that explain undesired outcomes; in the case of algorithmic bias in music streaming, there is no single bullet that eliminates women from charts or makes Slovak or Estonian language content less valuable than that in English."
 
@@ -25,13 +25,15 @@ summary = "In complex systems there are hardly ever singular causes that explain
   # Show image only in page previews?
   preview_only = false
 +++
+{{% callout note %}}
+Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}{{% /callout %}}
 
 Traitors in a war used to be executed by firing squad, and it was a psychologically burdensome task for soldiers to have to shoot former comrades. When a 10-marksman squad fired 8 blank and 2 live ammunition, the traitor would be 100% dead, and the soldiers firing would walk away with a semblance of consolation in the fact they had an 80% chance of not having been the one that killed a former comrade. This is a textbook example of assigning responsibility and blame in systems. AI-driven systems such as the YouTube or Spotify recommendation systems, the shelf organization of Amazon books, or the workings of a stock photo agency come together through complex processes, and when they produce undesirable results, or, on the contrary, they improve life, it is difficult to assign blame or credit.
 
 *This is the edited text of my presentation on Copyright Data Improvement in the EU – Towards Better Visibility of European
 Content and Broader Licensing Opportunities in the Light of New Technologies* - {{% staticref "documents/Copyright_Data_Improvement_Workshop_Programme.pdf" "newtab" %}}download the entire webinar's agenda{{% /staticref %}}.
 
-{{< figure src="/media/presentations/D_Antal_IVIR_Webinar_2021-05-06/Slide2.PNG" caption="Assigning and avoding blame." numbered="true" >}}
+{{< figure src="media/presentations/D_Antal_IVIR_Webinar_2021-05-06/Slide2.PNG" caption="Assigning and avoding blame." numbered="true" >}}
 
 If you do not see enough women on streaming charts, or if you think that the percentage of European films on your favorite streaming provider—or Slovak music on your music streaming service—is too low, you have to be able to distribute the blame in more precise terms than just saying “it’s the system” that is stacked up against women, small countries, or other groups. We need to be able to point the blame more precisely in order to effect change through economic incentives or legal constraints.
 

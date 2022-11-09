@@ -1,9 +1,9 @@
 ---
 title: "New Data Curators Wanted"
-subtitle: The Green Deal Data Observatory is looking for new data curators
+subtitle: The Digital Music Observatory is looking for new data curators
 
 # Summary for listings and search engines
-summary: "Our curators help us vocalize the needs of their domain, be it data-driven beekeeping, or finding locations for wastewater waste heat exchange, or detecting evidence of greenwashing, and evaluates if the data that we come up with is directly usable and actionable."
+summary: "Our curators help us vocalize the needs of their domain, be it data-driven marketing, or finding gender biases in recommendation systems, or detecting evidence of greenwashing, and evaluates if the data that we come up with is directly usable and actionable."
  
 # Link this post with a project
 projects: ''
@@ -39,7 +39,8 @@ tags:
 
 A `data curator` is a contributor in our open collaboration who will be named as a co-creator of tidy, standardized, reusable, FAIR, datasets in his/her field of expertise.  Our curators help us vocalize the needs of their domain, be it data-driven beekeeping, or detecting algorithmic biases of recommender systems, and evaluates if the data that we come up with is directly usable and actionable. A data curator is a similar co-author as a “contributor” to open source software or a co-author of a journal article. 
 
-_Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}!_
+{{% callout note %}}
+Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}{{% /callout %}}
 
 {{<toc>}}
 

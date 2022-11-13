@@ -9,7 +9,7 @@ authors: ["daniel_antal"]
 
 tags: ["music","data-as-service", "API", "Metadata"]
 
-summary: "Public data sources are often plagued by missing values. Naively you may think that you can ignore them, but think twice: in most cases, missing data in a table is not missing information, just malformatted information which will destroy your beautiful visualization or stop your application from working. In this example we show how we increase the usable subset of a public dataset by 66.7%, which is a deal-breaker in panel regressions or machine learning (AI) solutions."
+summary: "Public data sources are often plagued by missing values. Naively you may think that you can ignore them, but think twice: in most cases, missing data in a table is not missing information, just malformatted information which will destroy your beautiful visualization or stop your application from working. In this example, we show how we increase the usable subset of a public dataset by 66.7%, which is a deal-breaker in panel regressions or machine learning (AI) solutions."
 
 projects: ""
 

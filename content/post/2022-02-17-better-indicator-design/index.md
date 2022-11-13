@@ -11,16 +11,24 @@ tags: ["Digital Music Observatory", "Indicator design", "Open data", "Open Scien
 
 summary: "We want to create open indicators that business users, music organizations, evidence-based policy makers can trust as much as data from Eurostat, U.S. federal agencies, or premium market research companies. Using similarly rigorous statistical standards, open data, open science, and the innovations of data science we want to fill the data gaps of the European music industry with timely, easy-to-import, visualized, documented, high-quality data."
 
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: linkedin
+  icon_pack: fab
+  name: Digital Music Observatory
+  url: https://www.linkedin.com/company/79286750/
+- icon: mastodon
+  icon_pack: fab
+  name: "@digitalmusicobs@eupolicy.social"
+  url: https://eupolicy.social/@digitalmusicobs/
+
 # Featured image
 image:
-  # Caption (optional)
   caption: ""
-
-
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: "Center"
-
-
   preview_only: true
 
 ---

@@ -7,11 +7,25 @@ draft: false
 
 authors: ["daniel_antal"]
 
-tags: ["Music industry","data-as-service", "Innovation", "France"]
+tags: ["Music industry", "Paris", "Innovation", "France"]
 
 summary: "Reprex’s co-founder, Daniel Antal and our Listen Local curator, Marie Zhorová participated in the MaMA Festival & Convention in Paris on 13-15 October within the JUMP Music Market Accelerator Program. We introduced our Digital Music Observatory to national music organizations and encouraged them to try out a cooperation with us."
 
 projects: ""
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: linkedin
+  icon_pack: fab
+  name: Digital Music Observatory
+  url: https://www.linkedin.com/company/79286750/
+- icon: mastodon
+  icon_pack: fab
+  name: "@digitalmusicobs@eupolicy.social"
+  url: https://eupolicy.social/@digitalmusicobs/
 
 # Featured image
 image:

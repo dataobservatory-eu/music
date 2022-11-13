@@ -15,15 +15,23 @@ projects: ""
 
 # Featured image
 image:
-  # Caption (optional)
   caption: ""
-
-
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: "Center"
-
-
   preview_only: true
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: linkedin
+  icon_pack: fab
+  name: Digital Music Observatory
+  url: https://www.linkedin.com/company/79286750/
+- icon: mastodon
+  icon_pack: fab
+  name: "@digitalmusicobs@eupolicy.social"
+  url: https://eupolicy.social/@digitalmusicobs/
 
 ---
 

@@ -7,11 +7,25 @@ draft: false
 
 authors: ["daniel_antal"]
 
-tags: ["music","data-as-service", "innovation", "Italy", "Horizon Europe"]
+tags: ["Digital Music Observatory", "Innovation", "Italy"]
 
 summary: "We are looking for partners for the Horizon Europe call Towards a competitive, fair and sustainable European music ecosystem."
 
-projects: ""
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: linkedin
+  icon_pack: fab
+  name: Digital Music Observatory
+  url: https://www.linkedin.com/company/79286750/
+- icon: mastodon
+  icon_pack: fab
+  name: "@digitalmusicobs@eupolicy.social"
+  url: https://eupolicy.social/@digitalmusicobs/
+
+projects: ["OpenMuse"]
 
 # Featured image
 image:

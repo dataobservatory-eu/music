@@ -20,6 +20,24 @@ lastmod: "2022-08-30T13:14:00+02:00"
 # Show this page in the Featured widget?
 featured: false
 
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: code
+  icon_pack: fas
+  name: Code & Tutorials
+  url: https://retroharmonize.dataobservatory.eu/
+- icon: linkedin
+  icon_pack: fab
+  name: Digital Music Observatory
+  url: https://www.linkedin.com/company/79286750/
+- icon: mastodon
+  icon_pack: fab
+  name: "@digitalmusicobs@eupolicy.social"
+  url: https://eupolicy.social/@digitalmusicobs/
+
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:

@@ -49,6 +49,11 @@ social:
   - icon: fingerprint
     icon_pack: fas
     link: https://zenodo.org/communities/music_observatory/
+  - icon: person-booth
+    icon_pack: fas
+    name: Vote for The Hague Innovators Award Audience Prize
+    url: ../post/2022-10-29_reprex-talk-to-all/
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,

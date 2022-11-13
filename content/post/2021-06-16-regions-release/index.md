@@ -14,6 +14,28 @@ tags:
  - R
  - Small area statistics
  
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: code
+  icon_pack: fas
+  name: Code & Tutorials
+  url: https://regions.dataobservatory.eu/
+- icon: linkedin
+  icon_pack: fab
+  name: Digital Music Observatory
+  url: https://www.linkedin.com/company/79286750/
+- icon: mastodon
+  icon_pack: fab
+  name: "@digitalmusicobs@eupolicy.social"
+  url: https://eupolicy.social/@digitalmusicobs/
+- icon: person-booth
+  icon_pack: fas
+  name: Vote for The Hague Innovators Award Audience Prize
+  url: ../post/2022-10-29_reprex-talk-to-all/
+ 
 summary:  "Live music is the breadwinner of most music professionals, artists, technicians, and managers alike, and it is a very local business. To analyze the live music economy, and its connection with the recorded music business, we need to create indicators on regional, provincial, or metropolitan area level.  We just made another step to localize our Digital Music Observatory."
 
 projects:  

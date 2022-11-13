@@ -10,6 +10,27 @@ tags:  ["Reprex", "Eindhoven", "Netherlands", "The Hague Innovators Challenge 20
 
 summary:  ""
 
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: github
+  icon_pack: fab
+  name: Open Repositories & Code
+  url: https://github.com/dataobservatory-eu
+- icon: linkedin
+  icon_pack: fab
+  name: Digital Music Observatory
+  url: https://www.linkedin.com/company/79286750/
+- icon: mastodon
+  icon_pack: fab
+  name: "@digitalmusicobs@eupolicy.social"
+  url: https://eupolicy.social/@digitalmusicobs/
+- icon: person-booth
+  icon_pack: fas
+  name: Vote for The Hague Innovators Award Audience Prize
+  url: ../post/2022-10-29_reprex-talk-to-all/
   
 # Featured image
 image: 

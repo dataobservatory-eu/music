@@ -1,31 +1,49 @@
-+++
-title = "How We Add Value to Public Data With Better Curation And Documentation?"
-subtitle = ""
-date = 2021-11-08T09:00:00
-lastmod = 2021-11-10T09:19:00+01:00
-draft = false
+---
+title: "How We Add Value to Public Data With Better Curation And Documentation?"
+subtitle: ""
+date: 2021-11-08T09:00:00
+lastmod: 2021-11-10T09:19:00+01:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = ["music","data-as-service", "API", "metadata", "FAIR principle"]
+tags: ["Metadata", "FAIR principle", "Data curators"]
 
-summary = "Many people ask if we can really add value to free data that can be downloaded from the Internet by anybody. We do not only work with easy-to-download data, but we know that free, public data usually requires a lot of work to become really valuable. To start with, it is not always easy to find."
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: github
+  icon_pack: fab
+  name: Open Repositories & Code
+  url: https://github.com/dataobservatory-eu
+- icon: linkedin
+  icon_pack: fab
+  name: Digital Music Observatory
+  url: https://www.linkedin.com/company/79286750/
+- icon: mastodon
+  icon_pack: fab
+  name: "@digitalmusicobs@eupolicy.social"
+  url: https://eupolicy.social/@digitalmusicobs/
 
-project = "horizon"
+summary: "Many people ask if we can really add value to free data that can be downloaded from the Internet by anybody. We do not only work with easy-to-download data, but we know that free, public data usually requires a lot of work to become really valuable. To start with, it is not always easy to find."
+
+project: "OpenMuse"
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Photo: [Jack Sloop](https://unsplash.com/photos/eYwn81sPkJ8)"
+  caption: "Photo: [Jack Sloop](https://unsplash.com/photos/eYwn81sPkJ8)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 In this example, we show a simple indicator: the *Turnover in Radio Broadcasting Enterprises* in many European countries. This is an important demand driver in the [Music economy](https://music.dataobservatory.eu/#pillars) pillar of our Digital Music Observatory, and important indicator in our more general [Cultural & Creative Sectors and Industries Observatory](https://ccsi.dataobservatory.eu/).
 

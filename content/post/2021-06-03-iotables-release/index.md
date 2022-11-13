@@ -28,6 +28,24 @@ image:
   preview_only:  true
 
 links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: code
+  icon_pack: fas
+  name: Code & Tutorials
+  url: https://iotables.dataobservatory.eu/
+- icon: linkedin
+  icon_pack: fab
+  name: Digital Music Observatory
+  url: https://www.linkedin.com/company/79286750/
+- icon: mastodon
+  icon_pack: fab
+  name: "@digitalmusicobs@eupolicy.social"
+  url: https://eupolicy.social/@digitalmusicobs/
+
+links:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/company/79286750/

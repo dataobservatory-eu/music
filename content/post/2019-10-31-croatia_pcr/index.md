@@ -1,34 +1,43 @@
-+++
-title = "Private Copying in Croatia"
+---
+title: "Private Copying in Croatia"
 
-date = 2019-10-31T12:00:00
-lastmod = 2019-10-31T12:00:00
-draft = false
+date: 2019-10-31T12:00:00
+lastmod: 2019-10-31T12:00:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["daniel_antal"]
 
-tags = ["Music industry", "CEEMID", "Croatia", "pricing", "PCR", "value gap"]
+tags: ["Music industry", "CEEMID", "Croatia", "Valuation", "PCR", "value gap"]
 
-summary = "My study, Private Copying in Croatia, argues for an overhaul of the Croatian private copying remuneration scheme and gives some empirical evidence for the transposition of the DSM Directive. Even for those who are not interested in royalties, the first 3 chapters offer a very interesting introduction on how people listen to music, how musicians make music and how people copy it in the 21st century."
+summary: "My study, Private Copying in Croatia, argues for an overhaul of the Croatian private copying remuneration scheme and gives some empirical evidence for the transposition of the DSM Directive. Even for those who are not interested in royalties, the first 3 chapters offer a very interesting introduction on how people listen to music, how musicians make music and how people copy it in the 21st century."
 
 # Projects (optional).
 
-projects = ["Digital Music Observatory"]
+projects: ["Digital Music Observatory"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
+  focal_point: ""
+  preview_only: false
+  
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: linkedin
+  icon_pack: fab
+  name: Digital Music Observatory
+  url: https://www.linkedin.com/company/79286750/
+- icon: mastodon
+  icon_pack: fab
+  name: "@digitalmusicobs@eupolicy.social"
+  url: https://eupolicy.social/@digitalmusicobs/
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
-
-  # Show image only in page previews?
-  preview_only = false
-
-+++
+---
 
 After much delay, the first measurement of licensed use of music, audiovisual content, home copying and value transfer to media platforms in Croatia for a practical update of the private copying remuneration in the country.
 

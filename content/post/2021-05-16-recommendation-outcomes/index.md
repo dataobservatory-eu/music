@@ -1,27 +1,27 @@
-+++
-title = "Recommendation Systems: What can Go Wrong with the Algorithm?"
-subtitle = "Effects on equitable remuneration, fair value, cultural and media policy goals"
-date = 2021-05-06T07:10:00
-lastmod = 2021-05-16T07:10:00
-draft = false
+---
+title: "Recommendation Systems: What can Go Wrong with the Algorithm?"
+subtitle: "Effects on equitable remuneration, fair value, cultural and media policy goals"
+date: 2021-05-06T07:10:00
+lastmod: 2021-05-16T07:10:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-project = ["Listen Local"]
+project: ["Listen Local"]
 
-tags = ["Algorithms", "Slovakia", "Trustworthy AI", "Recommendations"]
+tags: ["Algorithms", "Slovakia", "Trustworthy AI", "Recommendations"]
 
-summary = "In complex systems there are hardly ever singular causes that explain undesired outcomes; in the case of algorithmic bias in music streaming, there is no single bullet that eliminates women from charts or makes Slovak or Estonian language content less valuable than that in English."
+summary: "In complex systems there are hardly ever singular causes that explain undesired outcomes; in the case of algorithmic bias in music streaming, there is no single bullet that eliminates women from charts or makes Slovak or Estonian language content less valuable than that in English."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Copyright Data Improvement in the EU – Towards Better Visibility of European Content"
-  focal_point = "Top"
+  caption: "Copyright Data Improvement in the EU – Towards Better Visibility of European Content"
+  focal_point: "Top"
 
-  # Show image only in page previews?
-  preview_only = false
-+++
+
+  preview_only: false
+---
 {{% callout note %}}
 Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}{{% /callout %}}
 

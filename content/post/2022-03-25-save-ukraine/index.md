@@ -1,29 +1,29 @@
-+++
-title = "Save Ukraine #StopWar"
-subtitle = "Global Charity TV Marathon for Support of Ukraine"
-date = 2022-03-25T14:00:00+01:00
-lastmod = 2022-03-25T14:00:00+01:00
-draft = false
+---
+title: "Save Ukraine #StopWar"
+subtitle: "Global Charity TV Marathon for Support of Ukraine"
+date: 2022-03-25T14:00:00+01:00
+lastmod: 2022-03-25T14:00:00+01:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = ["Ukraine"]
+tags: ["Ukraine"]
 
-summary = "An international charity concert-marathon in support of Ukraine Save Ukraine - #StopWar takes place on Sunday, March 27, in Warsaw at 5:30 p.m. CET (6:30 p.m. Kyiv)."
+summary: "An international charity concert-marathon in support of Ukraine Save Ukraine - #StopWar takes place on Sunday, March 27, in Warsaw at 5:30 p.m. CET (6:30 p.m. Kyiv)."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Jeremy Dunne recroding in The Walrus. Photo: Daniel Antal"
+  caption: "Jeremy Dunne recroding in The Walrus. Photo: Daniel Antal"
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
-  # Show image only in page previews?
-  preview_only = true
 
-+++
+  preview_only: true
+
+---
 
 <td style="text-align: center;">{{< figure src="/blogposts_2022/save_ukraine_2022_03_27.png" caption="Please follow our Music Export Ukraine colleauges on [Instagram](https://www.instagram.com/musicexportukraine/) and on [Facebook](https://www.facebook.com/fromplaytorec/)." numbered="false" >}}</td>
 

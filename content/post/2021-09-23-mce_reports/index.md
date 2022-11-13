@@ -1,31 +1,31 @@
-+++
-title = "Research & Analysis: Music Creators’ Earnings in the Digital Era"
-subtitle = "The UK Intellectual Property Office publishes the entire report - read our detailed contributing analysis"
-date = 2021-09-23T08:00:00
-lastmod = 2021-10-07T09:00:00
-draft = false
+---
+title: "Research & Analysis: Music Creators’ Earnings in the Digital Era"
+subtitle: "The UK Intellectual Property Office publishes the entire report - read our detailed contributing analysis"
+date: 2021-09-23T08:00:00
+lastmod: 2021-10-07T09:00:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = ["Open data", "Open science", "regional data","valuation", "United Kingdom"]
+tags: ["Open data", "Open science", "regional data","valuation", "United Kingdom"]
 
-summary = "Our Digital Music Observatory contributed to the Music Creators’ Earnings in the Streaming Era project with understanding the level of justified and unjustified differences in rightsholder earnings, and putting them into a broader music economy context. The entire research paper is published by the UK Intellectual Property office, and we made the details of our analysis available in a joint publication."
+summary: "Our Digital Music Observatory contributed to the Music Creators’ Earnings in the Streaming Era project with understanding the level of justified and unjustified differences in rightsholder earnings, and putting them into a broader music economy context. The entire research paper is published by the UK Intellectual Property office, and we made the details of our analysis available in a joint publication."
 
-projects = [""]
+projects: [""]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
-  # Show image only in page previews?
-  preview_only = false
 
-+++
+  preview_only: false
+
+---
 
 Reprex was commissioned to prepare an analysis on the justified and not justified differences in music creators’ earnings.  We have posted our most important findings in an earlier blogpost ([Music Creators’ Earnings in the Streaming Era. United Kingdom Research Cooperation With the Digital Music Observatory](https://music.dataobservatory.eu/post/2021-06-18-mce/).
 

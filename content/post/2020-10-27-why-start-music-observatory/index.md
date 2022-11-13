@@ -1,32 +1,32 @@
-+++
-title = "Why Did We Start The Demo Music Observatory?"
+---
+title: "Why Did We Start The Demo Music Observatory?"
 
-date = 2020-10-27T10:00:00+02:00
-lastmod = 2020-10-27T10:00:00+02:00
-draft = false
+date: 2020-10-27T10:00:00+02:00
+lastmod: 2020-10-27T10:00:00+02:00
+draft: false
 
-authors = ["Daniel Antal, CFA"]
+authors: ["Daniel Antal, CFA"]
 
-tags = ["Music industry", "royalties", "value gap", "recommendations", "machine learning", "music circulation", "Digital Music Observatory"]
+tags: ["Music industry", "royalties", "value gap", "recommendations", "machine learning", "music circulation", "Digital Music Observatory"]
 
-summary = "The problem of the music industry is not too little, but too much data. Music is drowning in numbers, and it has too little resources to turn much data into valuable information. We have shown that we open collaboration is the key to success."
+summary: "The problem of the music industry is not too little, but too much data. Music is drowning in numbers, and it has too little resources to turn much data into valuable information. We have shown that we open collaboration is the key to success."
 
-projects = ["Digital Music Observatory"]
+projects: ["Digital Music Observatory"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
   # Caption (optional)
-  caption = "Comparing the living standards of musicians and the general population"
+  caption: "Comparing the living standards of musicians and the general population"
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
-  # Show image only in page previews?
-  preview_only = false
 
-+++
+  preview_only: false
+
+---
 
 I was contacted during the consultation period of the Feasibility Study of the European Music Observatory. That led to an uneasy series of conversations with the consultants of this project, and a very enlightening series of conversations with European civil servants, music industry organizations, music managers and artists.  My main pitch was that every single assumption of this project is wrong.
 

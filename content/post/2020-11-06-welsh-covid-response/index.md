@@ -1,32 +1,32 @@
-+++
-title = "Inquiry Into The Live Music Industry In Wales"
+---
+title: "Inquiry Into The Live Music Industry In Wales"
 
-date = 2020-11-06T08:10:00+02:00
-lastmod = 2020-11-06T08:10:00+02:00
-draft = false
+date: 2020-11-06T08:10:00+02:00
+lastmod: 2020-11-06T08:10:00+02:00
+draft: false
 
-authors = ["Daniel Antal, CFA"]
+authors: ["Daniel Antal, CFA"]
 
-tags = ["Wales", "United Kingdom", "Covid-19", "Live music", "Music industry"]
+tags: ["Wales", "United Kingdom", "Covid-19", "Live music", "Music industry"]
 
-summary = "In July 2020, Professor Paul Carr of University of South Wales was commissioned by the Welsh Parliament to create a report examining the music industries in Wales hit by Covid-19 in Wales. Many of his findings may be very interesting starting points for a discussion in other small nations."
+summary: "In July 2020, Professor Paul Carr of University of South Wales was commissioned by the Welsh Parliament to create a report examining the music industries in Wales hit by Covid-19 in Wales. Many of his findings may be very interesting starting points for a discussion in other small nations."
 
-projects = ["Digital Music Observatory"]
+projects: ["Digital Music Observatory"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
   # Caption (optional)
-  caption = "Senedd CWLC interview with Prof. Carr"
+  caption: "Senedd CWLC interview with Prof. Carr"
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "TopLeft"
+  focal_point: "TopLeft"
 
-  # Show image only in page previews?
-  preview_only = false
 
-+++
+  preview_only: false
+
+---
 
 _Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}!_
 

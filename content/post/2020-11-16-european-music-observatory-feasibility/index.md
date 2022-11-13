@@ -1,32 +1,32 @@
-+++
-title = "Feasibility Study For The Establishment Of A European Music Observatory & The Demo Observatory"
+---
+title: "Feasibility Study For The Establishment Of A European Music Observatory & The Demo Observatory"
 
-date = 2020-11-16T08:03:00+02:00
-lastmod = 2020-11-16T08:03:00+02:00
-draft = false
+date: 2020-11-16T08:03:00+02:00
+lastmod: 2020-11-16T08:03:00+02:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["Europe", "EU", "reproducible research", "Digital Music Observatory"]
+tags: ["Europe", "EU", "reproducible research", "Digital Music Observatory"]
 
-summary = "The Feasibility Study on the European Music Observatory was published on 13 November.  We created a Demo Music Observatory to provide a practical guidance on the decisions facing the European stakeholders, and to answer the questions that were left open in the Feasibility Study --- particularly on data quality, time to build, and costs."
+summary: "The Feasibility Study on the European Music Observatory was published on 13 November.  We created a Demo Music Observatory to provide a practical guidance on the decisions facing the European stakeholders, and to answer the questions that were left open in the Feasibility Study --- particularly on data quality, time to build, and costs."
 
-projects = ["Digital Music Observatory"]
+projects: ["Digital Music Observatory"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Left"
+  focal_point: "Left"
 
-  # Show image only in page previews?
-  preview_only = false
 
-+++
+  preview_only: false
+
+---
 
 *The [Feasibility study for the establishment of a European Music Observatory](https://op.europa.eu/en/publication-detail/-/publication/a756542a-249d-11eb-9d7e-01aa75ed71a1/language-en/format-PDF/source-171307257) was published on 13 November.  Our private observatory, CEEMID was consulted in the creation of the Feasibility Study, and some of our recommendations found way into the consultant’s document. We created a Demo Music Observatory to provide a practical guidance on the decisions facing the European stakeholders, and to answer the questions that were left open in the Feasibility Study --- particularly on  [data integration](#data-gaps) and the [institutional model](#organization), where a wrong choice can lead to very long delivery time, [quality control](#quality) and [budgeting](#budget).*
 

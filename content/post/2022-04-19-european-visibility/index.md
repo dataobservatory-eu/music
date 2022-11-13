@@ -27,11 +27,25 @@ image:
   focal_point: ''
   placement: 2
   preview_only: false
+  
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: linkedin
+  icon_pack: fab
+  name: Digital Music Observatory
+  url: https://www.linkedin.com/company/79286750/
+- icon: mastodon
+  icon_pack: fab
+  name: "@digitalmusicobs@eupolicy.social"
+  url: https://eupolicy.social/@digitalmusicobs/
 
 authors:
   - Martin Senfleben
   - Thomas Margoni 
-  - Daniel Antal 
+  - daniel_antal
   - Balazs Bodó 
   - Stef van Gompel 
   - Christian Handke 

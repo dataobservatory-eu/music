@@ -1,29 +1,29 @@
-+++
-title = "Pan-European Creator Survey"
-subtitle = "Online monetization, fairness of compensation, attitute to piracy and free use, understanding AI for your work, Covid-19 relief."
-date = 2022-03-20T14:10:00+01:00
-lastmod = 2022-03-20T14:10:00+01:00
-draft = false
+---
+title: "Pan-European Creator Survey"
+subtitle: "Online monetization, fairness of compensation, attitute to piracy and free use, understanding AI for your work, Covid-19 relief."
+date: 2022-03-20T14:10:00+01:00
+lastmod: 2022-03-20T14:10:00+01:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = [ "Digital Music Observatory", "Survey harmonization", "Value of music", "Trustworthy AI"]
+tags: [ "Digital Music Observatory", "Survey harmonization", "Value of music", "Trustworthy AI"]
 
-summary = "Understanding coping strategies with online platforms, their Algorithms, piracy and free use, and Covid-19 relief measures. A truly Pan-European data collection."
+summary: "Understanding coping strategies with online platforms, their Algorithms, piracy and free use, and Covid-19 relief measures. A truly Pan-European data collection."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
-  # Show image only in page previews?
-  preview_only = true
 
-+++
+  preview_only: true
+
+---
 {{% callout note %}}
 Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}{{% /callout %}}
 

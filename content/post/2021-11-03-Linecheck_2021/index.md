@@ -1,31 +1,31 @@
-+++
-title = "The Digital Music Observatory on LineCheck"
-subtitle = "Open call for Italian and international partners to try out and join the Digital Music Observatory"
-date = 2021-11-03T17:00:00
-lastmod = 2021-11-03T17:00:00
-draft = false
+---
+title: "The Digital Music Observatory on LineCheck"
+subtitle: "Open call for Italian and international partners to try out and join the Digital Music Observatory"
+date: 2021-11-03T17:00:00
+lastmod: 2021-11-03T17:00:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = ["music","data-as-service", "innovation", "Italy", "Horizon Europe"]
+tags: ["music","data-as-service", "innovation", "Italy", "Horizon Europe"]
 
-summary = "We are looking for partners for the Horizon Europe call Towards a competitive, fair and sustainable European music ecosystem."
+summary: "We are looking for partners for the Horizon Europe call Towards a competitive, fair and sustainable European music ecosystem."
 
-projects = ""
+projects: ""
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "See you on [Linecheck 2021](https://www.linecheck.it/)"
+  caption: "See you on [Linecheck 2021](https://www.linecheck.it/)"
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
-  # Show image only in page previews?
-  preview_only = false
 
-+++
+  preview_only: false
+
+---
 
 Our main aim was to find new users to our Digital Music Observatory, and to find partners for a future [Horizon Europe](https://reprex.nl/project/horizon/) R&D project to develop the scientific pillars of the Observatory in a manner that meets practical industry needs and the feature requirements laid out in the [Feasiblity Study for a Euroepan Music Observatory](https://reprex.nl/post/2020-11-16-european-music-observatory-feasibility/). 
 

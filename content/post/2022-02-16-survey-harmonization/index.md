@@ -34,11 +34,11 @@ image:
   # Caption (optional)
   caption: ""
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: "Center"
 
-  # Show image only in page previews?
+
   preview_only: true
 
 ---

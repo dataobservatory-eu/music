@@ -254,7 +254,7 @@ Then solve for the multipliers:
 
     multipliers_sk <- input_multipliers_create( 
       primary_inputs_sk %>%
-        filter (.data$iotables_row: = "gva"), I_sk ) 
+        filter (.data$iotables_row:: "gva"), I_sk ) 
 
 And select a few industries:
 

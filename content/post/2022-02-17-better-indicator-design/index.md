@@ -1,29 +1,29 @@
-+++
-title = "How We Design Better Indicators?"
-subtitle = "Create more useable, cheaper, and better-quality questionnaire-based research"
-date = 2022-02-17T09:24:00+01:00
-lastmod = 2022-02-17T10:24:00+01:00
-draft = false
+---
+title: "How We Design Better Indicators?"
+subtitle: "Create more useable, cheaper, and better-quality questionnaire-based research"
+date: 2022-02-17T09:24:00+01:00
+lastmod: 2022-02-17T10:24:00+01:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = ["Digital Music Observatory", "Indicator design", "Open data", "Open Science", "Open Policy Analysis"]
+tags: ["Digital Music Observatory", "Indicator design", "Open data", "Open Science", "Open Policy Analysis"]
 
-summary = "We want to create open indicators that business users, music organizations, evidence-based policy makers can trust as much as data from Eurostat, U.S. federal agencies, or premium market research companies. Using similarly rigorous statistical standards, open data, open science, and the innovations of data science we want to fill the data gaps of the European music industry with timely, easy-to-import, visualized, documented, high-quality data."
+summary: "We want to create open indicators that business users, music organizations, evidence-based policy makers can trust as much as data from Eurostat, U.S. federal agencies, or premium market research companies. Using similarly rigorous statistical standards, open data, open science, and the innovations of data science we want to fill the data gaps of the European music industry with timely, easy-to-import, visualized, documented, high-quality data."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
-  # Show image only in page previews?
-  preview_only = true
 
-+++
+  preview_only: true
+
+---
 <td style="text-align: center;">{{< figure src="/blogposts_2022/Eurostat_using_indicators_way_communicating_captioned.jpg" caption="We follow the Eurostat indicator design guidelines to make sure that our users – cultural ministries, representative organizations of music, large music organization and companies, researcher get the information that they need in usable and precise indicators." numbered="false" >}}</td>
 
 Many people only trust statistics from the Eurostat service, a U.S. federal service, or from their national statistical offices. Our data provided by market research firms with a premium price.  Our aim is to create open key business performance indicators, evidence-based policy indicators and other statistical indicators for academic research that has a similar or higher level of usability, reliability, and quality. We want to fill the data gaps for the [Music Economy](https://music.dataobservatory.eu/pillars/music-economy/), the [Diversity of Circulation of European Music](https://music.dataobservatory.eu/pillars/diversity-circulation/), [Music & Society](https://music.dataobservatory.eu/pillars/music-and-society/) and [Music Innovation](https://music.dataobservatory.eu/pillars/innovation/) data left by public authorities and international organization with timely, easy-to-import, easy to use indicators and visualizations.

@@ -152,7 +152,7 @@ multiple countries.)
     # select variables of interest from the metadata
     eb_protocol_metadata <- eb_climate_metadata %>%
       filter ( .data$label_orig %in% c("date of interview") |
-                 .data$var_name_orig: = "rowid")  %>%
+                 .data$var_name_orig:: "rowid")  %>%
       suggest_var_names( survey_program:  "eurobarometer" )
 
     # subset and harmonize these variables in all nested list items of 'waves' of surveys
@@ -238,7 +238,7 @@ carefully reading the original questionnaires and codebooks.
       filter ( grepl( "rowid|isocntry|^nuts$", .data$var_name_orig)) %>%
       suggest_var_names( survey_program:  "eurobarometer" ) %>%
       mutate ( var_name_suggested:  case_when ( 
-        var_name_suggested: = "region_nuts_codes"     ~ "geo",
+        var_name_suggested:: "region_nuts_codes"     ~ "geo",
         TRUE ~ var_name_suggested ))
 
 The `harmonize_var_names()` takes all variables in the subsetted,
@@ -436,9 +436,9 @@ purpose:
         mutate ( across (any_of(c("w1", "wex")), as_numeric) ) %>%
         mutate ( across (contains("age"), remove_years)) %>%
         mutate ( age_exact:  as.numeric (age_exact)) %>%
-        mutate ( is_student:  ifelse ( tolower(age_education): = "still studying", 
+        mutate ( is_student:  ifelse ( tolower(age_education):: "still studying", 
                                        1, 0), 
-                 no_education:  ifelse ( tolower(age_education): = "no full-time education", 1, 0)) %>%
+                 no_education:  ifelse ( tolower(age_education):: "no full-time education", 1, 0)) %>%
         mutate ( education:  case_when (
           grepl("studying", age_education) ~ age_exact, 
           grepl ("education", age_education)  ~ 14, 

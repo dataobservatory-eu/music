@@ -1,31 +1,31 @@
-+++
-title = "Our Datasets Should be Retrieved Cleaned and Assessed in Order to Deliver Efficient Relevant and Credible Information"
-subtitle = "Introducing Our Service Development Team"
-date = 2021-06-07T20:00:00
-lastmod = 2021-06-07T20:00:00
-draft = false
+---
+title: "Our Datasets Should be Retrieved Cleaned and Assessed in Order to Deliver Efficient Relevant and Credible Information"
+subtitle: "Introducing Our Service Development Team"
+date: 2021-06-07T20:00:00
+lastmod: 2021-06-07T20:00:00
+draft: false
 
-authors = ["suzan_sidal"]
+authors: ["suzan_sidal"]
 
-tags = ["Open data", "Open science", "reproducible research", "business case", "urban heat", "climate change mitigation"]
+tags: ["Open data", "Open science", "reproducible research", "business case", "urban heat", "climate change mitigation"]
 
-summary = "Facilitating private-public partnerships is one step to encourage the data community to work with valuable open data. However, transparency and a high level quality assurance step must be given. In a joint collaboration with data curators, developers, technical specialists and academics, the datasets should be retrieved, cleaned and assessed in order to deliver efficient, relevant and credible information. The constant monitoring and regulation as well as compliance with data security guidelines are indispensable."
+summary: "Facilitating private-public partnerships is one step to encourage the data community to work with valuable open data. However, transparency and a high level quality assurance step must be given. In a joint collaboration with data curators, developers, technical specialists and academics, the datasets should be retrieved, cleaned and assessed in order to deliver efficient, relevant and credible information. The constant monitoring and regulation as well as compliance with data security guidelines are indispensable."
 
-projects = ["eu-datathon_2021"]
+projects: ["eu-datathon_2021"]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Suzan Sidal"
+  caption: "Suzan Sidal"
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
-  # Show image only in page previews?
-  preview_only = false
 
-+++
+  preview_only: false
+
+---
 
 **As a consultant, what type of data do you usually use in your work at ECORYS?**
 

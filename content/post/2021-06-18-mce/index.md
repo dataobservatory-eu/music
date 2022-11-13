@@ -1,31 +1,40 @@
-+++
-title = "Music Creators’ Earnings in the Streaming Era"
-subtitle = "United Kingdom Research Cooperation With the Digital Music Observatory"
-date = 2021-06-18T08:00:00
-lastmod = 2021-06-18T18:00:00
-draft = false
+---
+title: "Music Creators’ Earnings in the Streaming Era"
+subtitle: "United Kingdom Research Cooperation With the Digital Music Observatory"
+date: 2021-06-18T08:00:00
+lastmod: 2021-06-18T18:00:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = ["Open data", "Open science", "regional data","valuation", "United Kingdom", "music supply", "music demand", "Music industry"]
+tags: ["Open data", "Open science", "Regional data","Valuation", "United Kingdom", "music supply", "music demand", "Music industry"]
 
-summary = "Our Digital Music Observatory contributes to the Music Creators’ Earnings in the Streaming Era project with understanding the level of justified and unjustified differences in rightsholder earnings, and putting them into a broader music economy context."
+summary: "Our Digital Music Observatory contributes to the Music Creators’ Earnings in the Streaming Era project with understanding the level of justified and unjustified differences in rightsholder earnings, and putting them into a broader music economy context."
 
-projects = [""]
+projects: [""]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
-
-  # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
+  preview_only: true
+  
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: linkedin
+  icon_pack: fab
+  name: Digital Music Observatory
+  url: https://www.linkedin.com/company/79286750/
+- icon: mastodon
+  icon_pack: fab
+  name: "@digitalmusicobs@eupolicy.social"
+  url: https://eupolicy.social/@digitalmusicobs/
 
-  # Show image only in page previews?
-  preview_only = true
-
-+++
+---
 
 {{< figure src="/blogposts_20121/dcms_economics_music_streaming.png" numbered="false">}}
 

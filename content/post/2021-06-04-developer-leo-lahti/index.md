@@ -1,31 +1,31 @@
-+++
-title = "Creating Algorithmic Tools to Interpret and Communicate Open Data Efficiently"
-subtitle = "Introducing Our Developers"
-date = 2021-06-04T10:00:00
-lastmod = 2021-06-04T10:00:00
-draft = false
+---
+title: "Creating Algorithmic Tools to Interpret and Communicate Open Data Efficiently"
+subtitle: "Introducing Our Developers"
+date: 2021-06-04T10:00:00
+lastmod: 2021-06-04T10:00:00
+draft: false
 
-authors = ["leo_lahti"]
+authors: ["leo_lahti"]
 
-tags = ["Open data", "Open science", "reproducible research", "open government"]
+tags: ["Open data", "Open science", "reproducible research", "open government"]
 
-summary = "Although there are a variety of open data sources available (and the numbers continue to increase), the availability of open algorithmic tools to interpret and communicate open data efficiently is lagging behind. One of the greatest challenges for open data in 2021 is to demonstrate how we can maximize the potential of open data by designing smart tools for open data analytics."
+summary: "Although there are a variety of open data sources available (and the numbers continue to increase), the availability of open algorithmic tools to interpret and communicate open data efficiently is lagging behind. One of the greatest challenges for open data in 2021 is to demonstrate how we can maximize the potential of open data by designing smart tools for open data analytics."
 
-projects = ["eu-datathon_2021"]
+projects: ["eu-datathon_2021"]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
-  # Show image only in page previews?
-  preview_only = true
 
-+++
+  preview_only: true
+
+---
 
 **As a developer at rOpenGov, what type of data do you usually use in your work?**
 

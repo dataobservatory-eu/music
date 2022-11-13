@@ -1,41 +1,41 @@
-+++
-title = "CEEMP Session: Licensing, How To Tackle The Value Gap And A Discussion on Licensing Initiatives"
-subtitle = "Create a beautifully simple website in under 10 minutes :rocket:"
+---
+title: "CEEMP Session: Licensing, How To Tackle The Value Gap And A Discussion on Licensing Initiatives"
+subtitle: "Create a beautifully simple website in under 10 minutes :rocket:"
 
-date = 2017-09-29T00:00:00
-lastmod = 2019-03-14T09:00:00
-draft = false
+date: 2017-09-29T00:00:00
+lastmod: 2019-03-14T09:00:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["Value gap", "Market report", "CEEMID", "Music publishing"]
+tags: ["Value gap", "Market report", "CEEMID", "Music publishing"]
 
-summary = "CEEMID had the honor to participate in the third panel of CEEMP in Warsaw together with Ben McEwen from ICE; Jules Parker from Spotify and Dominic Houston from Netflix, and Chris Butler from Music Sales, who is also the chairperson of ICMP. Our panel was moderated by Nigel Elderton from peermusic, who is also the new chairperson of PRS in the UK."
+summary: "CEEMID had the honor to participate in the third panel of CEEMP in Warsaw together with Ben McEwen from ICE; Jules Parker from Spotify and Dominic Houston from Netflix, and Chris Butler from Music Sales, who is also the chairperson of ICMP. Our panel was moderated by Nigel Elderton from peermusic, who is also the new chairperson of PRS in the UK."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects: ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-# projects = ["market-report"]
+#   Otherwise, set `projects: []`.
+# projects: ["market-report"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point: ""
 
-  # Show image only in page previews?
-  preview_only = false
+
+  preview_only: false
 
 # Set captions for image gallery.
 
-+++
+---
 
 CEEMID had the honor to participate in the third panel of CEEMP in Warsaw together with Ben McEwen from ICE; Jules Parker from Spotify and Dominic Houston from Netflix, and Chris Butler from Music Sales, who is also the chairperson of ICMP. Our panel was moderated by Nigel Elderton from peermusic, who is also the new chairperson of PRS in the UK.
 

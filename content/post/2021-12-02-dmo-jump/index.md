@@ -1,29 +1,29 @@
-+++
-title = "Jumping Ahead With the Digital Music Observatory"
-subtitle = "The Digital Music Observatory in the JUMP European Music Market Accelerator"
-date = 2021-12-02T13:00:00+01:00
-lastmod = 2021-12-02T13:00:00+01:00
-draft = false
+---
+title: "Jumping Ahead With the Digital Music Observatory"
+subtitle: "The Digital Music Observatory in the JUMP European Music Market Accelerator"
+date: 2021-12-02T13:00:00+01:00
+lastmod: 2021-12-02T13:00:00+01:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = ["JUMP", "Digital Music Observatory", "Music streaming", "Data visualization"]
+tags: ["JUMP", "Digital Music Observatory", "Music streaming", "Data visualization"]
 
-summary = "Our Digital Music Observatory project spent a year in the JUMP Music Market Accelerator's program. Over the course of 9 months, co-founder Daniel Antal could meet many stakeholders from almost all European countries, meet other new music technology startups and projects, and got mentoring and other professional help to further develop the project."
+summary: "Our Digital Music Observatory project spent a year in the JUMP Music Market Accelerator's program. Over the course of 9 months, co-founder Daniel Antal could meet many stakeholders from almost all European countries, meet other new music technology startups and projects, and got mentoring and other professional help to further develop the project."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
-  # Show image only in page previews?
-  preview_only = false
 
-+++
+  preview_only: false
+
+---
 {{% callout note %}}
 Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}{{% /callout %}}
 

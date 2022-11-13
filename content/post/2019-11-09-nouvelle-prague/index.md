@@ -1,40 +1,40 @@
-+++
-title = "Czech Music Development Program & Comparative Market Research"
+---
+title: "Czech Music Development Program & Comparative Market Research"
 
-date = 2019-11-09T11:00:00
-lastmod = 2019-11-09T11:00:00
-draft = false
+date: 2019-11-09T11:00:00
+lastmod: 2019-11-09T11:00:00
+draft: false
 
-authors = ["Daniel Antal, CFA"]
+authors: ["Daniel Antal, CFA"]
 
-tags = ["Music industry", "CEEMID", "Czechia", "CEE", "value gap", "market report", "Music export"]
+tags: ["Music industry", "CEEMID", "Czechia", "CEE", "value gap", "market report", "Music export"]
 
-projects = ["CEEMID"]
+projects: ["CEEMID"]
 
-summary = "A Progress Report on the Czech Music Development Program and problems in an international context. We would like to invite any Czech stakeholders, or even individuals to join our Research Consortium, because in the music sector, all organization are microenterprise or small enterprise sized, they usually have no significant market research, innovation and strategic HR management capacities. We hope to give them in each country useful tools."
+summary: "A Progress Report on the Czech Music Development Program and problems in an international context. We would like to invite any Czech stakeholders, or even individuals to join our Research Consortium, because in the music sector, all organization are microenterprise or small enterprise sized, they usually have no significant market research, innovation and strategic HR management capacities. We hope to give them in each country useful tools."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects: ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-# projects = ["market-report"]
+#   Otherwise, set `projects: []`.
+# projects: ["market-report"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Left"
+  focal_point: "Left"
 
-  # Show image only in page previews?
-  preview_only = false
 
-+++
+  preview_only: false
+
+---
 
 I was presenting some highlights from the work we started with in the organization of SoundCzech with 25 music professionals representing more than 20 stakeholders in the [How We Would Like To Work in the Czech Music Industry in 2020](https://danielantal.eu/talk/2019_10_09_praha/) _ex ante_ evaluation workshop in the context of the comparative [Central European Music Industry Report](https://danielantal.eu/post/2019-09-27_cee_report/).
 

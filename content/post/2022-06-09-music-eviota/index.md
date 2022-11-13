@@ -1,29 +1,37 @@
-+++
-title = "Developing a software-as-service solution for micro-, and small enterprises"
-subtitle = "Eviota, our sustainability assessment and reporting tool to be tested among music organizations in many jurisdictions"
-date = 2022-06-09T09:40:00+01:00
-lastmod = 2022-06-09T09:40:00+01:00
-draft = false
+---
+title: "Developing a software-as-service solution for micro-, and small enterprises"
+subtitle: "Eviota, our sustainability assessment and reporting tool to be tested among music organizations in many jurisdictions"
+date: 2022-06-09T09:40:00+01:00
+lastmod: 2022-06-09T09:40:00+01:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = ["Eviota", "European Green Deal", "MusicAIRE"]
+tags: ["Eviota", "European Green Deal", "MusicAIRE"]
 
-summary = "We are working on a simple interface that can connect the accounting system of micro and small enterprises with new methodologies, starting with greenhouse gas reporting with Reprex’s open source EEIO application [iotables](https://iotables.dataobservatory.eu/) after receiving a competitive grant from [MusicAIRE](https://musicaire.eu/)."
+summary: "We are working on a simple interface that can connect the accounting system of micro and small enterprises with new methodologies, starting with greenhouse gas reporting with Reprex’s open source EEIO application [iotables](https://iotables.dataobservatory.eu/) after receiving a competitive grant from [MusicAIRE](https://musicaire.eu/)."
 
 # Featured image
-[image]
-  # Caption (optional)
-  caption = "[Final List of Awareded Projects by MusicAIRE](https://musicaire.eu/2022/07/12/final-list-of-awarded-projects/)"
+image:
+  caption: "[Final List of Awareded Projects by MusicAIRE](https://musicaire.eu/2022/07/12/final-list-of-awarded-projects/)"
+  focal_point: "Center"
+  preview_only: false
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
-
-  # Show image only in page previews?
-  preview_only = false
-
-+++
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: linkedin
+  icon_pack: fab
+  name: Digital Music Observatory
+  url: https://www.linkedin.com/company/79286750/
+- icon: mastodon
+  icon_pack: fab
+  name: "@digitalmusicobs@eupolicy.social"
+  url: https://eupolicy.social/@digitalmusicobs/
+  
+---
 {{% callout note %}}
 Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}{{% /callout %}}
 

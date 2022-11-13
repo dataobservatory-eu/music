@@ -36,11 +36,11 @@ image:
   # Caption (optional)
   caption: "Photo: [Jack Sloop](https://unsplash.com/photos/eYwn81sPkJ8)"
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: "Center"
 
-  # Show image only in page previews?
+
   preview_only: false
 
 ---

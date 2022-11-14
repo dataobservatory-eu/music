@@ -38,10 +38,10 @@ url_custom: [{icon_pack: "fab", icon="twitter", name="Follow", url: "https://twi
 image:
   # Caption (optional)
   caption: ""
-  
-
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: "Smart"
+  
+  
+  
 ---
 
 The report was compiled with joining data and knowledge from collective management agencies for composer, producer and performer royalties, and market leading companies Sziget (organizer of Sziget festival and many more festivals), WMMD music distribution company, market-leading Schubert Music Publishing and A38, Hungary’s leading music club, together with producer and audience survey data, tax authority data and other government sources. 

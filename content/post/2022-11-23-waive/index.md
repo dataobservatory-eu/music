@@ -5,7 +5,7 @@ subtitle: Smart DJ system that uses samples and loops from ethnomusicological ar
 # Summary for listings and search engines
 summary: "Waive is a smart DJ system that uses AI to create unique music samples, beats and loops from the digitised audio archives of the Sound and Vision Institute in the Netherlands. You can create remixes of heritage value small samples and make electronic music with it."
 
-authors: ["daniel_antal"]
+authors: ["daniel_antal", "thunderboom_records"]
  
 # Link this post with a project
 projects: ''
@@ -38,9 +38,6 @@ image:
   focal_point: "bottom"
   placement: 2
   preview_only: true
-
-authors:
-  - admin
 
 tags:
   - Waive

@@ -29,6 +29,11 @@ links:
   icon_pack: fab
   name: Thunderboom Records
   url: https://www.instagram.com/thunderboomrecords/
+- icon: mastodon
+  icon_pack: fab
+  name: "@digitalmusicobs@eupolicy.social"
+  url: https://eupolicy.social/@digitalmusicobs/
+
 
 # Featured image
 image:
@@ -41,11 +46,15 @@ tags:
   - Waive
   - Reuse
   - Ethnomusicology
+  - Thunderboom
+  - "Sound & Vision"
+  - Trustworthy AI
   
 ---
 
+{{< figure src="/img/blogposts_2022/thunderboom-records.jpg" caption="" numbered="false" >}}
 
-{{< figure src="img/blogposts_2022/thunderboom-records.jpg" caption="" numbered="false" >}}
+*We met Max Tiel, the Founder and director of Thuderboom Records via our call for cooperation in the Dutch AI Coalition, and eventually caught up on the annual podiumkunst.net event in The Hague. Our conversation was sparked by a shared enthusiasm for trustworthy, human-centered AI, and opening and linking archives.*
 
 **So, what is the purpose of Waive?**
 
@@ -55,11 +64,15 @@ The system gives a new purpose to cultural heritage in the Dutch national archiv
 
 For the DJ system we have used two algorithms. The first one scans the audio archives of Sound & Vision on a frequency level. It matches frequency's of the sounds in the archive, or parts of sounds, with musical instruments in the system. So an high pitched soundbit can for instance become an hi-hat and a low pitched soundbit can become a kick. 
 
+{{< video library="true" src="video/waive-video-1.mp4" controls="yes" >}}
+
 The second algorithm is trained on EDM music and can recognise and suggest musical patters like a drum rhythm or a bass line. Combined, the 2 algorithms can create new electronic and dance music. 
 
-**Does Thunderbolt Records release the new creations of DJs?**
+**Does Thuderboom Records release the new creations of DJs?**
 
 So far, we have not created recorded performances, only live performances, for example, on the Amsterdam Museum Night or on the Amsterdam Dance Event.  We wanted to bring new audiences closer to the Sound and Vision archive. Of course, you are free to record your own performance, if you like!
+
+{{< figure src="/img/blogposts_2022/waive-1.jpg" caption="" numbered="false" >}}
 
 **Do you retain any rights on the creations created with WAIVE?**
 
@@ -69,9 +82,14 @@ No. The project is funded by the Mondriaan Foundation and we want to make sure t
 
 We are working on it. The VJ system will create a colourful show of AI-generated dance moves, trained on video archives that can be shown during the live shows. The VJ system is not yet freely accessible unfortunately. 
 
-**Can we remix new samples, like Bela Bartóks recently found collections from the 1910s?**
+
+**Can we remix new samples, like Bela Bartók's recently found collections from the 1910s?**
 
 Sure, we are currently actively looking for international partners to expand our collection and reach. We would also like to have more geographical balance within Europe, so adding new material from the East would be awesome! We can also figure out how to find better matching electronic base for newly imported sample libraries.
 
+{{< video library="true" src="video/waive-video-2.mp4" controls="yes" autoplay="false" >}}
+
+
 {{% callout note %}}
-Engage with Thunderboom Records and WAIVE on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="instagram" pack="fab" >}}"@hunderboomrecords"{{< /staticref >}} {{% /callout %}}
+Engage with Thunderboom Records and WAIVE on {{< staticref "https://www.linkedin.com/company/thunderboom-records/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://www.instagram.com/thunderboomrecords/" "newtab" >}}{{< icon name="instagram" pack="fab" >}}"@thunderboomrecords"{{< /staticref >}} and the Digital Music Observatory on 
+{{< staticref "https://eupolicy.social/@digitalmusicobs/" "newtab" >}}{{< icon name="mastodon" pack="fab" >}}@digitalmusicobs@eupolicy.social{{< /staticref >}} Mastodon.{{% /callout %}}

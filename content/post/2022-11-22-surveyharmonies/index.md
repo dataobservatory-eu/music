@@ -5,7 +5,7 @@ subtitle: Recycling existing surveys and comparing results across countries, occ
 # Summary for listings and search engines
 summary: "In this case study, we will collect responses in English and Italian among music professionals and fans on LineCheck, and compare their answers with 10,000s of answers from their countries, from other occupational groups, and other countries."
 
-authors: ["daniel_antal", "james_edwards", "gabija_liaugminaite"]
+authors: ["daniel_antal", "james_edwards", "gabija_liaugminaite", "admin"]
  
 # Link this post with a project
 projects: ''
@@ -41,9 +41,6 @@ image:
   focal_point: "bottom"
   placement: 2
   preview_only: true
-
-authors:
-  - admin
 
 tags:
   - KeyChange

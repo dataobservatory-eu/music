@@ -40,6 +40,7 @@ featured: false
 image:
   caption: ''
   focal_point: Right
+  preview_only: false
 
 url_code: ''
 url_pdf: ''
@@ -67,13 +68,13 @@ links:
   icon_pack: fab
   name: Edibles
   url: https://www.linkedin.com/company/edibles-sustainable-tasty-tableware/  
-- icon: person-booth
+- icon: download
   icon_pack: fas
-  name: Vote
-  url: ../post/2022-10-29_reprex-talk-to-all/
+  name: Download Our Poster Presentation
+  url: ..//documents/Reprex-Linecheck-2022-poster.png
 
 # Markdown Slides (optional).
-slides:
+slides: reprex-linecheck-2022
 
 # Projects (optional).
 projects: ""
@@ -101,8 +102,8 @@ Our solution benefits the music MSMEs and CSOs in several ways:
 - [x] It provides them with a size adequate sustainability management and reporting tool that helps first the management of greenhouse gas emissions, and later sustainable water use, pollutions, biodiversity, and recycling in their entire value chain (for example, it flags environmental risks in the supply base of a festival including equipment rentals, transport, security firms, catering facilities, etc.) by connecting standard accounting documents of the MSME with SNA and EEA science based benchmarks.
 - [x] Our system will be extendible to management of social sustainability. We are also showcasing harmonized gender inequality data collection with our other project (see below.)
 
-
-<td style="text-align: center;">{{< figure src="/img/blogposts_2022/reprex_linecheck_2022.jpg" caption="" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/posters/Reprex-Linecheck-2022-poster.png" caption="We are looking for beta testers for our simplified sustainability report that is made from your `trial balance`. We sign and NDA about your accounting data if you test with us, and you can test with older data, too. Beta testing is free." numbered="false" >}}</td>
+{{< icon name="download" pack="fas" >}} Download our {{< staticref "/documents/Reprex-Linecheck-2022-poster.png" "newtab" >}}poster presentation{{< /staticref >}}.
 
 ## Digital Music Observatory: survive in the music business without a data engineer
 

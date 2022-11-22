@@ -120,3 +120,7 @@ Eurobarometer 72.2: Nuclear Energy, Corruption, Gender Equality, Healthcare, and
 {{< /spoiler >}}
 
 This means that we can compare what different occupational groups, men and women, different age groups answered to this question. In 2009, 2030 was a long way many years ahead, but not any more. We could ask this question in two different ways again.  We could ask what people think about 2040 to have a similar perspective, or re-ask how they think about 2030 which is only 8 years away by now. 
+
+See our earlier blogposts: 
+- [What is survey harmonization?](https://music.dataobservatory.eu/post/2022-02-16-survey-harmonization/)
+- [Climate awareness use case](https://music.dataobservatory.eu/post/2021-03-05-retroharmonize-climate/)

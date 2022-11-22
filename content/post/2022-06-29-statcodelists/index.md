@@ -26,11 +26,7 @@ links:
   icon_pack: fab
   name: "@digitalmusicobs@eupolicy.social"
   url: https://eupolicy.social/@digitalmusicobs/
-- icon: person-booth
-  icon_pack: fas
-  name: Vote for The Hague Innovators Award Audience Prize
-  url: ../post/2022-10-29_reprex-talk-to-all/
-
+  
 tags:  
  - R
  - Metadata

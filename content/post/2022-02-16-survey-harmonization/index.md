@@ -59,6 +59,6 @@ The *Digital Music Observatory* and its predecessor, [CEEMID](https://reprex.nl/
 - [x]  Often you do not even have to pay for the survey, because somebody else has already made a similar taxpayer funded research and we can just get the data for you.
 Harmonizing surveys requires advanced data science and statistics knowledge, which is what we provide with the scientific partners of the Digital Music Observatory.  We have developed an open-source software, free to use, for this purpose.  It is not for the faint heart – but users of our observatory can just leave their data for us and let us run the code. 
 
-{{% callout note %}} Before you start a new questionnaire-based research, get in touch with us!  Maybe we have history for your questionnaires.  We can make your survey cheaper, better, and more informative. 
+{{% callout note %}} Before you start a new questionnaire-based research, get in touch with us!  Maybe we have history for your questionnaires.  We can make your survey cheaper, better, and more informative. See our [use case for gender diversity](https://music.dataobservatory.eu/post/2022-11-22-surveyharmonies/) in music.
 {{% /callout %}}
 

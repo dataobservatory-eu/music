@@ -20,9 +20,6 @@ summary: Reprex, Edibles, Thermowatt at the Digital Music Observatory and the Gr
 
 abstract: 'Reprex, Edibles, Thermowatt at the Digital Music Observatory and the Green Deal Data Observatory in Linecheck X.'
 
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-11-24T15:15:00Z'
 date_end: '2022-11-24T16:15:00Z'
 all_day: false
@@ -73,7 +70,6 @@ links:
   name: Download Our Poster Presentation
   url: ..//documents/Reprex-Linecheck-2022-poster.png
 
-# Markdown Slides (optional).
 slides: reprex-linecheck-2022
 
 # Projects (optional).
@@ -89,7 +85,8 @@ Daniel Antal, co-founder of Reprex will participate in the panel about on **Thur
 
 {{% callout note %}}
 At LineCheck X, you can find out more about our projects
-- You can get a free, total value chain based sustainability report. (Get in touch with us before 18 November)
+- You can get a free, total value chain based sustainability report. 
+- Find out how want to [measure better with surveys](https://music.dataobservatory.eu/post/2022-11-22-surveyharmonies/) gender diversity across Europe. And try our test surveys in English or Italian. (Links will go live on 24 November.)
 - We will demonstrate how you can eradicate packaging waste from your music events by making the packaging **edible**.
 - And you can find out how we are trying to find where energy is [going down the sewage](https://greendeal.dataobservatory.eu/post/2022-10-24_thermowatt/), literally, with Thermowatt and the [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/). 
 {{% /callout %}}
@@ -125,6 +122,6 @@ Our solution benefits the music MSMEs and CSOs in several ways:
 
 - [x] Often you do not even have to pay for the survey, because somebody else has already made a similar taxpayer funded research and we can just get the data for you. 
 
-<td style="text-align: center;">{{< figure src="/img/blogposts_2021/difficulty_bills_levels.jpg" caption="Survey harmonization is a powerful research tool to increase the usability of questionnaire-based empirical research. Read more on [our blog](https://music.dataobservatory.eu/post/2022-02-16-survey-harmonization/)." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/blogposts_2021/difficulty_bills_levels.jpg" caption="Survey harmonization is a powerful research tool to increase the usability of questionnaire-based empirical research. Read more on [our blog](https://music.dataobservatory.eu/post/2022-11-22-surveyharmonies/)." numbered="false" >}}</td>
 
 

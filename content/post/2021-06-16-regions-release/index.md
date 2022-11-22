@@ -31,10 +31,6 @@ links:
   icon_pack: fab
   name: "@digitalmusicobs@eupolicy.social"
   url: https://eupolicy.social/@digitalmusicobs/
-- icon: person-booth
-  icon_pack: fas
-  name: Vote for The Hague Innovators Award Audience Prize
-  url: ../post/2022-10-29_reprex-talk-to-all/
  
 summary:  "Live music is the breadwinner of most music professionals, artists, technicians, and managers alike, and it is a very local business. To analyze the live music economy, and its connection with the recorded music business, we need to create indicators on regional, provincial, or metropolitan area level.  We just made another step to localize our Digital Music Observatory."
 

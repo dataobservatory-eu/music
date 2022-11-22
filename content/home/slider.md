@@ -15,19 +15,6 @@ design:
 
 content:
   slides:
-    - title: <span style="color:#00348A">The Hague Innovators Challenge Finals 2022</span>
-      content: '</br></br></br></br>'
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 1
-        media: slides/slider/reprex-big-data-for-all-right_aligned_white_slide.webp
-      link:
-        icon: fa-solid fa-right-to-bracket
-        icon_pack: fas
-        text: "Thank you :)"
-        url: ../post/2022-11-15-reprex-hague-innovators-award
     - title: ""
       content: '</br></br></br></br>'
       align: left
@@ -41,6 +28,37 @@ content:
         icon_pack: fas
         text: "See you in Milano"
         url: ../talk/linecheck-milano-it/
+    - title: "Open Data: Gold Without Rush"
+      content: 'When you need data from the past, it is too late to start 
+      collecting it. If you need satellite data, it is unlikely that you
+      can have your own sensors in the space. Working with open data is 
+      sometimes cheaper than with market vendor data. But most open data is 
+      not processed. We made the investment to clean it for you.'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.5
+        media: img/blogposts_2021/Gold_panning_at_Bonanza_Creek_4x6.webp
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: "Blog: Why is it so hard to work with it?"
+        url: ../post/2021-06-18-gold-without-rush/
+        url:
+    - title: <span style="color:#00348A">The Hague Innovators Challenge Finals 2022</span>
+      content: '</br></br></br></br>'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 1
+        media: slides/slider/reprex-big-data-for-all-right_aligned_white_slide.webp
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: "Thank you :)"
+        url: ../post/2022-11-15-reprex-hague-innovators-award
     - title: Daniel in the EHV Innovation Café
       content: '</br></br></br></br></br></br></br>'
       align: left
@@ -54,19 +72,6 @@ content:
         icon_pack: fas
         text: Watch the livestream
         url: ../post/2022-11-03_ehv_innovation_cafe/
-    - title: Vote in The Hague Innovators Challenge!
-      content: '</br></br></br></br>'
-      align: left
-      background:
-        position: top
-        color: '#555'
-        brightness: 0.3
-        media: slides/slider/cast_your_vote.webp
-      link:
-        icon: fa-solid fa-right-to-bracket
-        icon_pack: fas
-        text: "Vote REPREX :)"
-        url: ../post/2022-10-29_reprex-talk-to-all/
     - title: 
       content:  </br></br></br></br></br></br></br></br></br></br></br></br>
       align: left
@@ -93,24 +98,6 @@ content:
         icon_pack: fas
         text: Releases
         url: ../#releases
-    - title: "Open Data: Gold Without Rush"
-      content: 'When you need data from the past, it is too late to start 
-      collecting it. If you need satellite data, it is unlikely that you
-      can have your own sensors in the space. Working with open data is 
-      sometimes cheaper than with market vendor data. But most open data is 
-      not processed. We made the investment to clean it for you.'
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 0.5
-        media: img/blogposts_2021/Gold_panning_at_Bonanza_Creek_4x6.webp
-      link:
-        icon: fa-solid fa-right-to-bracket
-        icon_pack: fas
-        text: "Blog: Why is it so hard to work with it?"
-        url: ../post/2021-06-18-gold-without-rush/
-        url:
     - title: ""
       content: '</br></br></br></br></br></br></br></br></br></br>'
       align: left

@@ -21,18 +21,10 @@ draft: false
 featured: false
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: "@DigitalMusicObs"
-  url: https://twitter.com/DigitalMusicObs
 - icon: linkedin
   icon_pack: fab
   name: Digital Music Observatory
   url: https://www.linkedin.com/company/79286750/
-- icon: mastodon
-  icon_pack: fab
-  name: "@digitalmusicobs@eupolicy.social"
-  url: https://eupolicy.social/@digitalmusicobs/
 - icon: square-check
   icon_pack: fas
   name: "EN Google Form"
@@ -81,12 +73,18 @@ How to fill out this survey?
 
 ## Who we are asking?
 
-We are asking music professionals in almost 100 artistic, technical or managerial roles.  The way we form the questions make your answers comparable to the worlds largest database of musicians' (anonymous) income and working condition database, and many non-music specific survey programs, such as Eurobaromter or the European Values Survey.
-
+We are asking music professionals in almost 100 artistic, technical or managerial roles.  The way we form the questions make your answers comparable to the worlds largest database of musicians' (anonymous) income and working condition database, and many non-music specific survey programs, such as Eurobarometer or the European Values Survey.
 
 ## What are we asking?
 
-We are asking questions that have been asked before.  
+We are asking questions that have been asked before.  We created a small demonstration survey to show how we can better understand gender diversity in the music sector.  We will anonymously record your answers, and connect them to the answers of more than 28,000 people who answered these questions earlier.  
+
+{{% callout note %}}
+How to fill out this survey?
+- EN on Google Forms (will be our free tool) 
+- IT su Google Forms (sarà il nostro strumento gratuito)
+- Both lanugages on SurveyMonkey (free for now)
+{{% /callout %}}
 
 #### In your opinion, are inequalities between women and men nowadays very widespread, fairly widespread, fairly rare or very rare in the country where you live?
 
@@ -114,7 +112,6 @@ Works best if you use this from music professionals and non-music professionals 
 - [ ] Women will be more present in traditionally masculine professions ([compare](https://www.icpsr.umich.edu/web/ICPSR/studies/28186/datasets/0001/variables/QC16_5?archive=ICPSR)
 - [ ] Acts of violence against women will have decreased ([compare](https://www.icpsr.umich.edu/web/ICPSR/studies/28186/datasets/0001/variables/QC16_6?archive=ICPSR))
 - [ ] Women’s rights in developing countries will be better recognised ([compare](https://www.icpsr.umich.edu/web/ICPSR/studies/28186/datasets/0001/variables/QC16_7?archive=ICPSR))
-
 
 This question was asked in the {{< spoiler text="Eurobarometer 72.2 survey in 2009." >}}
 Eurobarometer 72.2: Nuclear Energy, Corruption, Gender Equality, Healthcare, and Civil Protection, September-October 2009.

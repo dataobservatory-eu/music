@@ -6,7 +6,7 @@ title: Digital Music Observatory
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: An inclusive, bottom-up, open, collaborative observatory for the European music industry, sector and heritage organizations.
 
 # Organizations/Affiliations to show in About widget
 organizations:

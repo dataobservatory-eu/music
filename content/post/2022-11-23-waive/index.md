@@ -11,8 +11,8 @@ authors: ["daniel_antal", "thunderboom_records"]
 projects: ''
 
 # Date published
-date: "2022-11-22T09:09:00+01:00"
-lastmod: "2022-11-22T09:09:00+01:00"
+date: "2022-11-22T15:55:00+01:00"
+lastmod: "2022-11-22T15:55:00+01:00"
 
 # Is this an unpublished draft?
 draft: false
@@ -30,8 +30,6 @@ links:
   name: Thunderboom Records
   url: https://www.instagram.com/thunderboomrecords/
 
-
-  
 # Featured image
 image:
   caption: ''
@@ -75,4 +73,5 @@ We are working on it. The VJ system will create a colourful show of AI-generated
 
 Sure, we are currently actively looking for international partners to expand our collection and reach. We would also like to have more geographical balance within Europe, so adding new material from the East would be awesome! We can also figure out how to find better matching electronic base for newly imported sample libraries.
 
-
+{{% callout note %}}
+Engage with Thunderboom Records and WAIVE on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="instagram" pack="fab" >}}"@hunderboomrecords"{{< /staticref >}} {{% /callout %}}

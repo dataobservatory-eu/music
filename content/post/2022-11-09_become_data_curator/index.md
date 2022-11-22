@@ -144,8 +144,4 @@ here](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
 
 ⚙️/ Subtitles/ 🇳🇱 🇬🇧 🇧🇦 🇨🇿 🇭🇺 🇩🇪 🇱🇹 🇫🇷 🇸🇰 🇪🇸 🇹🇷 + Catalan. 
 
-## Vote Reprex :)
-
-Go to [Cast your vote for The Hague Innovators challenge 2022!](/post/2022-11-07_vote_reprex/) and choose Reprex :)
-
 Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}}open repositories, code, tutorials{{< /staticref >}}!

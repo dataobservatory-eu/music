@@ -28,12 +28,15 @@ links:
 - icon: square-check
   icon_pack: fas
   name: "EN Google Form"
+  url: https://docs.google.com/forms/d/e/1FAIpQLSet43sYVvK1HHzabxuO3NRpdzKd2kLL4xwhaiiuwGmhJVqOVg/viewform?usp=sf_link
 - icon: square-check
   icon_pack: fas
+  url: https://docs.google.com/forms/d/e/1FAIpQLSeI7GJ0JDi7dNr-sL4JEsQ86ksNH00tqNSwmB4fEwBOBqseBA/viewform?usp=sf_link
   name: "IT Google Form"  
-- icon: square-check
-  icon_pack: fas
-  name: "SurveyMonkey"
+#- icon: square-check
+#  icon_pack: fas
+#  name: "SurveyMonkey"
+  
   
 # Featured image
 image:
@@ -50,14 +53,12 @@ tags:
   
 ---
 
-
-
 **In this case study, we will collect responses in English and Italian among music professionals and fans on LineCheck, and compare their answers with 10,000s of answers from their countries, from other occupational groups, and other countries.**
 
 {{% callout note %}}
 How to fill out this survey?
-- EN on Google Forms (will be our free tool) 
-- IT su Google Forms (sarà il nostro strumento gratuito)
+- EN on [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSet43sYVvK1HHzabxuO3NRpdzKd2kLL4xwhaiiuwGmhJVqOVg/viewform?usp=sf_link) (will be our free tool) 
+- IT su [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSeI7GJ0JDi7dNr-sL4JEsQ86ksNH00tqNSwmB4fEwBOBqseBA/viewform?usp=sf_link) (sarà il nostro strumento gratuito)
 - Both lanugages on SurveyMonkey (free for now)
 {{% /callout %}}
 

@@ -26,8 +26,8 @@ content:
       link:
         icon: fa-solid fa-right-to-bracket
         icon_pack: fas
-        text: "See you in Milano"
-        url: ../talk/linecheck-milano-it/
+        text: "Fill out our 3-minute gender diversity survey EN/IT"
+        url: ../post/2022-11-22-surveyharmonies/
     - title: "Open Data: Gold Without Rush"
       content: 'When you need data from the past, it is too late to start 
       collecting it. If you need satellite data, it is unlikely that you

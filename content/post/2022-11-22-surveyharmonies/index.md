@@ -32,12 +32,12 @@ links:
 - icon: square-check
   icon_pack: fas
   url: https://docs.google.com/forms/d/e/1FAIpQLSeI7GJ0JDi7dNr-sL4JEsQ86ksNH00tqNSwmB4fEwBOBqseBA/viewform?usp=sf_link
-  name: "IT Google Form"  
-#- icon: square-check
-#  icon_pack: fas
-#  name: "SurveyMonkey"
-  
-  
+  name: "IT Google Form"
+- icon: square-check
+  icon_pack: fas
+  url: https://www.surveymonkey.com/r/surveyharmonies_linecheck_demo
+  name: "SurveyMonkey (can be many langauges)"
+
 # Featured image
 image:
   caption: ''
@@ -59,7 +59,7 @@ tags:
 How to fill out this survey?
 - EN on [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSet43sYVvK1HHzabxuO3NRpdzKd2kLL4xwhaiiuwGmhJVqOVg/viewform?usp=sf_link) (will be our free tool) 
 - IT su [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSeI7GJ0JDi7dNr-sL4JEsQ86ksNH00tqNSwmB4fEwBOBqseBA/viewform?usp=sf_link) (sarà il nostro strumento gratuito)
-- Both lanugages on SurveyMonkey (free for now)
+- [SurveyMonkey](https://www.surveymonkey.com/r/surveyharmonies_linecheck_demo) can be more suitable for more languages.
 {{% /callout %}}
 
 {{<toc>}}

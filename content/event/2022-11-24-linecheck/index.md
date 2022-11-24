@@ -124,6 +124,9 @@ Our solution benefits the music MSMEs and CSOs in several ways:
 
 ### Harmonizing surveys on gender (in)equaliaty
 
+
+Our [Surveymonkey](https://www.surveymonkey.com/r/surveyharmonies_linecheck_demo) solution is better when you have many languages, or more complex questions, including watching a diagram, or showing a small video clip. It comes with a small fee.  The Google Docs solutions (see or [English](https://docs.google.com/forms/d/e/1FAIpQLSet43sYVvK1HHzabxuO3NRpdzKd2kLL4xwhaiiuwGmhJVqOVg/viewform?usp=sf_link) or [Italian](https://docs.google.com/forms/d/e/1FAIpQLSeI7GJ0JDi7dNr-sL4JEsQ86ksNH00tqNSwmB4fEwBOBqseBA/viewform?usp=sf_link) demo will be offered for free.)
+
 - [x] You can create better surveys with less cost: you only need to ask the information, or change of information, that is not included in our harmonized datasets. Shorter, better questionnaires, smaller samples sizes, huge cost savings.
 
 - [x] When you make questionnaire-based research, you immediately get a history (the same question asked years ago) and an international comparison (the same question asked in other countries.)

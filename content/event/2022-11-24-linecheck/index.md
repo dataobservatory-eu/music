@@ -69,6 +69,14 @@ links:
   icon_pack: fas
   name: Download Our Poster Presentation
   url: ..//documents/Reprex-Linecheck-2022-poster.png
+- icon: square-check
+  icon_pack: fas
+  name: "EN Google Form"
+  url: https://docs.google.com/forms/d/e/1FAIpQLSet43sYVvK1HHzabxuO3NRpdzKd2kLL4xwhaiiuwGmhJVqOVg/viewform?usp=sf_link
+- icon: square-check
+  icon_pack: fas
+  url: https://docs.google.com/forms/d/e/1FAIpQLSeI7GJ0JDi7dNr-sL4JEsQ86ksNH00tqNSwmB4fEwBOBqseBA/viewform?usp=sf_link
+  name: "IT Google Form"  
 
 slides: reprex-linecheck-2022
 
@@ -86,7 +94,7 @@ Daniel Antal, co-founder of Reprex will participate in the panel about on **Thur
 {{% callout note %}}
 At LineCheck X, you can find out more about our projects
 - You can get a free, total value chain based sustainability report. 
-- Find out how want to [measure better with surveys](https://music.dataobservatory.eu/post/2022-11-22-surveyharmonies/) gender diversity across Europe. And try our test surveys in English or Italian. (Links will go live on 24 November.)
+- Find out how want to [measure better with surveys](https://music.dataobservatory.eu/post/2022-11-22-surveyharmonies/) gender diversity across Europe. And try our test surveys in [English](https://docs.google.com/forms/d/e/1FAIpQLSet43sYVvK1HHzabxuO3NRpdzKd2kLL4xwhaiiuwGmhJVqOVg/viewform?usp=sf_link) or [Italian](https://docs.google.com/forms/d/e/1FAIpQLSeI7GJ0JDi7dNr-sL4JEsQ86ksNH00tqNSwmB4fEwBOBqseBA/viewform?usp=sf_link).
 - We will demonstrate how you can eradicate packaging waste from your music events by making the packaging **edible**.
 - And you can find out how we are trying to find where energy is [going down the sewage](https://greendeal.dataobservatory.eu/post/2022-10-24_thermowatt/), literally, with Thermowatt and the [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/). 
 {{% /callout %}}
@@ -96,8 +104,8 @@ At LineCheck X, you can find out more about our projects
 
 Our solution benefits the music MSMEs and CSOs in several ways:
 - [x] The European Commission estimates that the cost of connecting sustainability and finanical reporting will cost on average €10,000 for corporations. We want to bring down the voluntary reporting costs for MSMEs below €500 euro to benefit from `green loans`, `green insurance` and other `green financing`. 
-- [x] It provides them with a size adequate sustainability management and reporting tool that helps first the management of greenhouse gas emissions, and later sustainable water use, pollutions, biodiversity, and recycling in their entire value chain (for example, it flags environmental risks in the supply base of a festival including equipment rentals, transport, security firms, catering facilities, etc.) by connecting standard accounting documents of the MSME with SNA and EEA science based benchmarks.
-- [x] Our system will be extendible to management of social sustainability. We are also showcasing harmonized gender inequality data collection with our other project (see below.)
+- [x] It provides them with a size adequate sustainability management and reporting tool that helps first the management of greenhouse gas emissions, and later sustainable water use, pollution, biodiversity, and recycling in their entire value chain (for example, it flags environmental risks in the supply base of a festival including equipment rentals, transport, security firms, catering facilities, etc.) by connecting standard accounting documents of the MSME with SNA and EEA science based benchmarks.
+- [x] Our system will be extended to the management of social sustainability. We are also showcasing harmonized gender inequality data collection with our other project (see below.)
 
 <td style="text-align: center;">{{< figure src="/posters/Reprex-Linecheck-2022-poster.png" caption="We are looking for beta testers for our simplified sustainability report that is made from your `trial balance`. We sign and NDA about your accounting data if you test with us, and you can test with older data, too. Beta testing is free." numbered="false" >}}</td>
 {{< icon name="download" pack="fas" >}} Download our {{< staticref "/documents/Reprex-Linecheck-2022-poster.png" "newtab" >}}poster presentation{{< /staticref >}}.

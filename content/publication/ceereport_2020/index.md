@@ -31,20 +31,22 @@ tags: ["market-report", "Music industry", "Armenia", "Austria", "Bulgaria", "Cze
 #   Otherwise, set `slides: ""`.
 slides: ""
 
+links:
+- name: Report Website
+  icon: laptop
+  icon_pack: fas
+  url: https://ceereport2020.ceemid.eu/
+  
 # Links (optional).
 url_pdf: "http://ceereport2020.ceemid.eu/CEE_Report.pdf"
 url_preprint: ""
 url_code: ""
 url_dataset: ""
-url_project: ""
+url_project: "https://music.dataobservatory.eu/project/ceemid/"
 url_slides: ""
 url_video: ""
 url_poster: ""
 url_source: ""
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom: [{name: "Hypertext Version & Downloads Webiste", url: "http://ceereport2020.ceemid.eu/"}]
 
 # Digital Object Identifier (DOI)
 doi: "10.13140/RG.2.2.21450.31686"
@@ -54,27 +56,21 @@ math: false
 
 # Featured image
 image:
-  # Caption (optional)
   caption: ""
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: "Center"
 ---
 
-The predecessor of Reprex's Demo Music Observatory, CEEMID together with the independent music distributor Consolidated Independent presented and discussed with stakeholders the  [Central & Eastern European Music Industry Report 2020](https://danielantal.eu/publication/ceereport_2020/) as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the [CCS Ecosystems: FLIPPING THE ODDS Conference](http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/) – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.
+The predecessor of Reprex's Demo Music Observatory, CEEMID together with the independent music distributor Consolidated Independent presented and discussed with stakeholders the  [Central & Eastern European Music Industry Report 2020](https://ceereport2020.ceemid.eu/) as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the [CCS Ecosystems: FLIPPING THE ODDS Conference](http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/) – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.
 
 The CEE Report builds on the results of the first [Hungarian](https://danielantal.eu/publication/hungary_music_industry_2014/), [Slovak](https://danielantal.eu/publication/slovak_music_industry_2019/), [Croatian](https://danielantal.eu/publication/private_copying_croatia_2019/) and [Czech](http://czdev.ceemid.eu/) music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings. 
 
 Our research findings were earlier presented and discussed in Vienna, Prague, Budapest and Bratislava with stakeholders. 
 
-You can find the earlier presentations in the [blog](https://dataandlyrics.com/post/) section of the website.
-
 ## Executive Summary
 
-The first Central European Music Industry Report is the result of a co-operation that started among stakeholders in three EU countries five years ago to measure the economic value added of music – the basis of a modern royalty pricing system. This gave birth to CEEMID, originally the Central & Eastern European Music Industry Databases, a data integration programme that now in 2020, covers all of Europe. CEEMID fulfils similar roles to the planned European Music Observatory and supports all pillars of the future pan-European system.
+The first Central European Music Industry Report is the result of a co-operation that started among stakeholders in three EU countries five years ago to measure the economic value added of music – the basis of a modern royalty pricing system. This gave birth to CEEMID, originally the Central & Eastern European Music Industry Databases, a data integration programme that now in 2020, covers all of Europe. CEEMID fulfills similar roles to the planned European Music Observatory and supports all pillars of the future pan-European system.
 
-The comparison of Western and Eastern music audiences reveals key demographic differences that make the unchanged adoption of business practices from mature markets in the region questionable. [Chapter 2](http://ceereport2020.ceemid.eu/audience.html) of this report will show these differences and their consequences on music markets, in terms of visiting and acquisition likelihood, frequency, seasonality and purchasing capacity. This is an example of how CEEMID fulfils the role of Pillar 3 (music, society and citizenship) in the planned European Music Observatory.
+The comparison of Western and Eastern music audiences reveals key demographic differences that make the unchanged adoption of business practices from mature markets in the region questionable. [Chapter 2](http://ceereport2020.ceemid.eu/audience.html) of this report will show these differences and their consequences on music markets, in terms of visiting and acquisition likelihood, frequency, seasonality and purchasing capacity. This is an example of how CEEMID fulfills the role of Pillar 3 (music, society and citizenship) in the planned `European Music Observatory`. (See [Feasibility Study For The Establishment Of A European Music Observatory & The Demo Observatory](https://dataandlyrics.com/post/2020-11-16-european-music-observatory-feasibility/))
 
 [Chapter 3](http://ceereport2020.ceemid.eu/supply.html) contrasts market demand with the supply strategies of musicians. CEEMID has been surveying music professionals, including artists, technicians and managers about their working conditions, market conditions and plans for five years across a growing number of countries. In 2019 we invited 100 national and regional stakeholders to distribute our surveys. In some countries, our surveys already have several years of historic data, making the resulting musician database probably the largest ever source of data about how music is produced and how musicians live. We are constantly looking for partners to roll out this survey to new countries in new languages.
 

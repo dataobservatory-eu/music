@@ -5,7 +5,7 @@ subtitle: Unleash the power of survey harmonization, open data, and open-source 
 # Summary for listings and search engines
 summary: "By combining existing survey elements with building new music-related surveys, we not only collect original data but can immediately compare them with data from the source surveys."
 
-authors: ["daniel_antal", "james_edwards"]
+authors: ["daniel_antal", "james_edwards", "Sinus-Institut"]
  
 # Link this post with a project
 projects: ""
@@ -25,10 +25,14 @@ links:
   icon_pack: fab
   name: Digital Music Observatory
   url: https://www.linkedin.com/company/79286750/
-- icon: instagram
+- icon: xing
   icon_pack: fab
-  name: Thunderboom Records
-  url: https://www.instagram.com/thunderboomrecords/
+  name: Sinus on Xing
+  link: https://www.xing.com/pages/sinusmarkt-undsozialforschunggmbh
+- icon: linkedin
+  icon_pack: fab
+  name: Sinus on LinkedIn
+  link: https://www.linkedin.com/company/sinusinstitut/
 - icon: mastodon
   icon_pack: fab
   name: "@digitalmusicobs@eupolicy.social"

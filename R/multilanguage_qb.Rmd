@@ -1,0 +1,26 @@
+---
+title: "SurveyHarmonies Question Bank Demonstration"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(here)
+library(DT)
+example <- read.csv(here("R", "blogpost_example.csv"))
+
+```
+
+```{r, echo=FALSE}
+datatable(example, 
+          rownames = FALSE,
+          filter = "top",
+          clas='hover cell-border stripe', extensions = 'Buttons',
+options = list(dom='Bfrtip',pageLength=5,
+buttons=c('copy', 'csv', 'excel', 'print', 'pdf')))
+```
+
+```{r, echo=FALSE}
+file.copy(here("R", "multilanguage_qb.html"), here("static", "documents", "multilanguage_qb.html"), overwrite=TRUE)
+```
+

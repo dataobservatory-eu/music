@@ -1,0 +1,26 @@
+item,language,question,answers
+1,LT,"Per paskutinius 12 mėnesių ar jūs teikėte paraišką subsidijai, siūlomai ministerijos, kultūros ar muzikos fondo, Europos Sąjungos ar panašios organizacijos muzikantams ar panašioms su muzika susijusioms profesijoms?",1 - taip
+1,LT,"Per paskutinius 12 mėnesių ar jūs teikėte paraišką subsidijai, siūlomai ministerijos, kultūros ar muzikos fondo, Europos Sąjungos ar panašios organizacijos muzikantams ar panašioms su muzika susijusioms profesijoms?",0 - ne
+2,LT,"Prašome pasirinkite priežastis, kodėl neteikėte paraiškos su muzika susijusioms subsidijoms Lietuvoje?",A - man nereikėjo paramos
+2,LT,"Prašome pasirinkite priežastis, kodėl neteikėte paraiškos su muzika susijusioms subsidijoms Lietuvoje?",B - nebuvo mano poreikius atitinkančios subsidijos
+2,LT,"Prašome pasirinkite priežastis, kodėl neteikėte paraiškos su muzika susijusioms subsidijoms Lietuvoje?",C - nesijaučiau pakankamai pasiruošęs subsidijos aplikacijai
+1,BG,"През последните 12 месеца подавали ли сте заявления за кандидатстване по грантове, предлагани от министерства, фондации, европейски програми или други подобни организации, които са били предназначени за финансиране на музиканти или свързани с музиката професии?",1 - да
+1,BG,"През последните 12 месеца подавали ли сте заявления за кандидатстване по грантове, предлагани от министерства, фондации, европейски програми или други подобни организации, които са били предназначени за финансиране на музиканти или свързани с музиката професии?",0 - не
+2,BG,"Моля да посочите причините, поради които не сте кандидатствали по грантове, финансиращи музикални проекти?",A - Нямах нужда от подкрепа
+2,BG,"Моля да посочите причините, поради които не сте кандидатствали по грантове, финансиращи музикални проекти?","B - не е имало финансово подпомагане, което да отговаря на нуждите ми"
+2,BG,"Моля да посочите причините, поради които не сте кандидатствали по грантове, финансиращи музикални проекти?",C - (все още) не бях подготвен/а да кандидатствам за финансово подпомагане
+1,SK,"Žiadali ste v uplynulých 12 mesiacoch o grant, ktorý poskytlo ministerstvo, kultúrny alebo hudobný fond, nadácia, EÚ alebo podobná organizácia hudobníkom alebo blízkym hudobným profesiám?",1 - áno
+1,SK,"Žiadali ste v uplynulých 12 mesiacoch o grant, ktorý poskytlo ministerstvo, kultúrny alebo hudobný fond, nadácia, EÚ alebo podobná organizácia hudobníkom alebo blízkym hudobným profesiám?",0 - nie
+2,SK,"Vyberte dôvody, prečo ste vo svojej krajine nepožiadali o granty súvisiace s hudbou",A - Nepotreboval som podporu
+2,SK,"Vyberte dôvody, prečo ste vo svojej krajine nepožiadali o granty súvisiace s hudbou","B - nebol k dispozícii žiadny grant, ktorý by vyhovoval mojím potrebám"
+2,SK,"Vyberte dôvody, prečo ste vo svojej krajine nepožiadali o granty súvisiace s hudbou",C - Necítil som sa pripravený (zatiaľ) na podanie žiadosti o grant
+1,HU,"Az elmúlt 12 hónapban Ön indult-e valaha olyan pályázaton, amit minisztérium, kulturális vagy zenei alap, a közös jogkezelő alapítványa vagy más hasonló szervezet írt ki zenével kapcsolatos támogatásokra?",1 - igen
+1,HU,"Az elmúlt 12 hónapban Ön indult-e valaha olyan pályázaton, amit minisztérium, kulturális vagy zenei alap, a közös jogkezelő alapítványa vagy más hasonló szervezet írt ki zenével kapcsolatos támogatásokra?",0 - nem
+2,HU,"Kérem, válassza ki azokat az okokat, amelyek jól indokolják, hogy miért nem indult ilyen pályázatokon?",A - Nem volt szükségem támogatásra
+2,HU,"Kérem, válassza ki azokat az okokat, amelyek jól indokolják, hogy miért nem indult ilyen pályázatokon?","B - nem volt olyan pályázati felhívás, amely megfelelt volna az igényeimnek"
+2,HU,"Kérem, válassza ki azokat az okokat, amelyek jól indokolják, hogy miért nem indult ilyen pályázatokon?",C - nem &eacute;reztem magam (m&eacute;g) el&eacute;g felk&eacute;sz&uuml;ltnek az indul&aacute;sra
+1,DE,"Haben Sie sich in den letzten 12 Monaten um eine Förderung angesucht, die von einem Ministerium, einem Kultur- oder Musikfonds, einer Stiftung, der EU oder einer ähnlichen Organisation für Musiker oder musikbezogene Berufe angeboten wurde?",1 - Ja
+1,DE,"Haben Sie sich in den letzten 12 Monaten um eine Förderung angesucht, die von einem Ministerium, einem Kultur- oder Musikfonds, einer Stiftung, der EU oder einer ähnlichen Organisation für Musiker oder musikbezogene Berufe angeboten wurde?",0 - Nein
+2,DE,"Bitte wählen Sie die Gründe aus, warum Sie in Ihrem Land nicht um eine Musikförderung angesucht haben?",A - Ich benötigte keine Unterstützung
+2,DE,"Bitte wählen Sie die Gründe aus, warum Sie in Ihrem Land nicht um eine Musikförderung angesucht haben?","B - es wurde keine Förderung angeboten, die zu meinen Bedürfnissen passte"
+2,DE,"Bitte wählen Sie die Gründe aus, warum Sie in Ihrem Land nicht um eine Musikförderung angesucht haben?",C - ich habe mich (noch) nicht bereit für ein Förderansuchen gefühlt

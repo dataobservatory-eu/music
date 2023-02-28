@@ -86,14 +86,15 @@ main:
     url: '/project/listen-local/'
     weight: 52
     parent: Projects
-  - name: 🇪🇺 Opem Music Observatory - OpenMuse
+  - name: 🇪🇺 Open Music Europe
     url: '/project/openmuse/'
     weight: 53
     parent: Projects
-  - name: MusicAIRE
+  - name: 🇪🇺 Music Eviota
     url: '#projects'
     weight: 54
     parent: Projects
+    url: ../project/musiceviota/
   - name: Publications
     url: '#featured'
     weight: 60

@@ -5,7 +5,7 @@ subtitle: "Sustainability reporting for music organizations"
 
 # Date this page was created.
 date: 2022-06-09T09:40:00+01:00
-lastmod: 2022-12-19T09:40:00+01:00
+lastmod: 2022-11-20T09:40:00+01:00
 
 # Project summary to display on homepage.
 summary: "We will help small music organizations in their sustainability reporting, where detail data and reporting standards are only available for greenhouse gas emissions."
@@ -21,7 +21,7 @@ external_link: ""
 #   Otherwise, set `slides: ""`.
 slides: ""
 
-authors: ["admin", "musicaire", "greendeal", "music"]
+authors: ["admin", "musicaire"]
 
 links:
 - icon: mastodon
@@ -45,6 +45,8 @@ image:
   caption: ""
   focal_point: "Center"
   preview_only: true
+  
+slides: music-eviota
   
 ---
 <td style="text-align: center;">{{< figure src="/img/eviota/Scope3_chart_16x9.jpg" caption="Reporting the impacts of the entire value chain." numbered="false" >}}</td>
@@ -72,13 +74,18 @@ Most sustainability calculators are very complex because they use many data inpu
 
 <td style="text-align: center;">{{< figure src="/img/eviota/supply_chain_comparison_barplot_roboto_16x9.png" caption="To reduce the data need, we only take into consideration cost/income groups that meet the _financial_ materiality treshold, i.e. 3% of your total costs or total business-to-business sales." numbered="false" >}}</td>
 
-We offer free, manual calculation in the first phase to ensure we define these simplifications well. To reduce the time needed to collect data about your purchases and sales, we will rely on the "trial balance", because this is available in your accounting system (and can be exported by your accounting software.)
+We offer free, manual calculation in the first phase to ensure we define these simplifications well. To reduce the time needed to collect data about your purchases and sales, we will rely on a part of the "trial balance", because this is available in your accounting system (and can be exported by your accounting software.) The trial balance is an annual summary of the general ledger accounts. We need only the expenses and revenues accounts, and do not need assets, liabilities, gains and losses.
+
+<td style="text-align: center;">{{< figure src="/img/eviota/trial_balance_example_it_en_16x9_blurred.jpg" caption="A part of a fictitious Italian trial balance with Italian and English language labels. The blurred numbers are randomized from an actual trial balance and presented in a different currency than the original." numbered="false" >}}</td>
 
 {{< spoiler text="Why the trial balance?" >}}
 
-We start from a document that every company has, and does not require extra management time to prepare, the so-called `trial balance`. This is an accounting document that can be obtained from the company’s accountant.
+We start from a document that every company has, and does not require extra management time to prepare, the so-called [trial balance](https://corporatefinanceinstitute.com/resources/accounting/trial-balance/). This is an accounting document that can be obtained from the company’s accountant.
 
-- [x] No extra management time is needed: it is already recorded by every company's accountant. You or your accountant can export it and send it to us (or later upload it.)
+A trial balance is a report that lists the balances of all general ledger accounts of a company at a certain point in time. The accounts reflected on a trial balance are related to all major accounting items, including assets, liabilities, equity, revenues, expenses, gains, and losses. It is primarily used to identify the balance of debits and credits entries from the transactions recorded in the general ledger at a certain point in time.
+
+
+- [x] No extra management time is needed: it is already recorded by every company's accountant. The general ledger is recorded by your accountant. We do not need the ledger, only the annual account summaries of revenues and expenses.
 - [x] It is not subjective.  It states exactly what you were spending on.
 - [x] It is more or less standardized across Europe—and almost all countries of the world, with the exception of the U.S. and some other countries.
 - [x] We need to use the same working document that your accountant uses to maintain an important objectivity criterion: connectivity. This way your annual report will be consistent, if you say in the financial part that you spend 1000 euro on energy, then we will calculate the greenhouse gas emissions based on KWh volume of the the energy that cost you 1000 euros.

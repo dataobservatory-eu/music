@@ -1,7 +1,7 @@
 ---
 widget: slider
 weight: 1
-active: true
+active: false
 headless: true
 
 design:
@@ -15,19 +15,6 @@ design:
 
 content:
   slides:
-    - title: ""
-      content: '</br></br></br></br>'
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 1
-        media: slides/slider/Reprex_Linecheck_2022-centered-broader.webp
-      link:
-        icon: fa-solid fa-right-to-bracket
-        icon_pack: fas
-        text: "Fill out our 3-minute gender diversity survey EN/IT"
-        url: ../post/2022-11-22-surveyharmonies/
     - title: "Open Data: Gold Without Rush"
       content: 'When you need data from the past, it is too late to start 
       collecting it. If you need satellite data, it is unlikely that you

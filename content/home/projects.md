@@ -31,10 +31,10 @@ content:
       tag: CEEMID
     - name: Listen Local
       tag: Listen Local
-    - name: OpenMuse
+    - name: Open Music Europe
       tag: OpenMuse
-    - name: MusicAIRE
-      tag: MusicAIRE
+    - name: Music Eviota
+      tag: Music Eviota
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

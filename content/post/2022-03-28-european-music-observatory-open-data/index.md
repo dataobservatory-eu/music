@@ -1,32 +1,33 @@
-+++
-title = "Open Data for a future European Music Observatory"
-subtitle = ""
-date = 2022-03-28T12:00:00
-lastmod = 2022-03-28T12:00:00
-draft = true
+---
+title: "Open Data for a future European Music Observatory"
+subtitle: ""
+date: 2022-03-28T12:00:00
+lastmod: 2022-03-28T12:00:00
+draft: true
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-project = ["listen-local"]
+project: ["listen-local"]
 
-tags = ["Ukraine"]
+tags: ["Ukraine"]
 
-summary = ""
+summary: ""
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Marie de la Montagne"
+  caption: "Marie de la Montagne"
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Top"
+  focal_point: "Top"
 
-  # Show image only in page previews?
-  preview_only = false
 
-+++
+  preview_only: false
 
+---
+{{% callout note %}}
+Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}{{% /callout %}}
 <!-- HERE I WOULD INCLUDE A BREIF INTRODUCTION ABOUT WHO MARIE IS AND WHY WE'RE INTERVIEWING HER
 Please go ahead and extend it
 

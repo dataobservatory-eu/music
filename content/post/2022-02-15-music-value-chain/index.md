@@ -1,29 +1,29 @@
-+++
-title = "The Music Value Chain"
-subtitle = "A map of the music ecosystem"
-date = 2022-02-15T17:00:00+01:00
-lastmod = 2022-02-16T08:15:00+01:00
-draft = false
+---
+title: "The Music Value Chain"
+subtitle: "A map of the music ecosystem"
+date: 2022-02-15T17:00:00+01:00
+lastmod: 2022-02-16T08:15:00+01:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = [ "Digital Music Observatory", "value chain", "music ecosystem"]
+tags: [ "Digital Music Observatory", "value chain", "music ecosystem"]
 
-summary = "Our ambition is to build a comprehensive data source and online data analysis tools for the European music industry. This requires a map of the music ecosystem — we need to understand where value is created and money is exchanged, and we need to observe how much is this value and how much is being paid for it."
+summary: "Our ambition is to build a comprehensive data source and online data analysis tools for the European music industry. This requires a map of the music ecosystem — we need to understand where value is created and money is exchanged, and we need to observe how much is this value and how much is being paid for it."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "The Music Industry Value Chain [reuse>](https://figshare.com/articles/figure/The_Music_Industry_Value_Chain/19174310)"
+  caption: "The Music Industry Value Chain [reuse>](https://figshare.com/articles/figure/The_Music_Industry_Value_Chain/19174310)"
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
-  # Show image only in page previews?
-  preview_only = true
 
-+++
+  preview_only: true
+
+---
 
 **Our ambition is to build a comprehensive data source and online data
 analysis tools for the European music industry. This requires a map of

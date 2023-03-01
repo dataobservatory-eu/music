@@ -1,31 +1,31 @@
-+++
-title = "KharkivMusicFest in 2022: Concert Between Explosions"
-subtitle = "The Russian military invasion and the siege changed the program of the KharkivMusicFest in 2022 but did not cancel the festival."
-date = 2022-03-28T11:00:00
-lastmod = 2022-03-28T11:00:00
-draft = false
+---
+title: "KharkivMusicFest in 2022: Concert Between Explosions"
+subtitle: "The Russian military invasion and the siege changed the program of the KharkivMusicFest in 2022 but did not cancel the festival."
+date: 2022-03-28T11:00:00
+lastmod: 2022-03-28T11:00:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-project = ["Listen Local"]
+project: ["Listen Local"]
 
-tags = ["Ukraine"]
+tags: ["Ukraine"]
 
-summary = "The Russian military invasion and the siege changed the program of the KharkivMusicFest in 2022 but did not cancel the festival. The KharkivMusicFest in 2022 takes place on the metro station Historical Museum, currently a shelter from bombs for many Ukrainian children, women, and elderly."
+summary: "The Russian military invasion and the siege changed the program of the KharkivMusicFest in 2022 but did not cancel the festival. The KharkivMusicFest in 2022 takes place on the metro station Historical Museum, currently a shelter from bombs for many Ukrainian children, women, and elderly."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Marie de la Montagne"
+  caption: "Marie de la Montagne"
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Top"
+  focal_point: "Top"
 
-  # Show image only in page previews?
-  preview_only = false
 
-+++
+  preview_only: false
+
+---
 
 <!-- HERE I WOULD INCLUDE A BREIF INTRODUCTION ABOUT WHO MARIE IS AND WHY WE'RE INTERVIEWING HER
 Please go ahead and extend it

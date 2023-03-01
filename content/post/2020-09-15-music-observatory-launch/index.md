@@ -1,29 +1,38 @@
-+++
-title = "Launching Our Demo Music Observatory"
+---
+title: "Launching Our Demo Music Observatory"
 
-date = 2020-09-15T08:00:39
-lastmod = 2020-09-15T08:00:39
-draft = false
+date: 2020-09-15T08:00:39
+lastmod: 2020-09-15T08:00:39
+draft: false
 
-authors = ["Daniel Antal", "Réka Szentirmay"]
+authors: ["Daniel Antal", "Réka Szentirmay"]
 
-tags = ["R", "Open data", "reproducible research", "music", "Digital Music Observatory"]
+tags: ["R", "Open data", "Reproducible research", "music", "Digital Music Observatory"]
 
-summary = "We would like to validate our open source, open data, open collaboration based reproducible observatory concept with the Demo Music Observatory. All feedback is welcome."
+summary: "We would like to validate our open source, open data, open collaboration based reproducible observatory concept with the Demo Music Observatory. All feedback is welcome."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
+  focal_point: "Center"
+  preview_only: false
+  
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: linkedin
+  icon_pack: fab
+  name: Digital Music Observatory
+  url: https://www.linkedin.com/company/79286750/
+- icon: mastodon
+  icon_pack: fab
+  name: "@digitalmusicobs@eupolicy.social"
+  url: https://eupolicy.social/@digitalmusicobs/
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
-
-  # Show image only in page previews?
-  preview_only = false
-
-+++
+---
 
 Today, on 15 September 2020, we officially launched our `minimal viable product` as we promised to partners back in February. This was a particularly difficult period for everybody. We aspired to deliver by September in a very different environment, our hopes for commissioned work went up in flames with the pandemic, and our targeted users, musicians and music entrepreneurs, talent managers, music venues lost most of their income. The organizations helping them, granting authorities, export offices and collective management societies are overwhelmed with the problem. During these troublesome times, our team expanded, attracted great new talent, and kept working.
 

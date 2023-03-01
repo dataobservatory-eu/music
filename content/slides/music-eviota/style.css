@@ -1,0 +1,13 @@
+.reveal section p {
+    display: inline-block;
+    font-size: 2.2em;
+    line-height: 5.1em;
+    vertical-align: top;
+    text-align: left;
+  }
+
+.reveal li {
+    text-align: left;
+    font-size: 2.2em;
+    line-height: 3.1em;
+  }

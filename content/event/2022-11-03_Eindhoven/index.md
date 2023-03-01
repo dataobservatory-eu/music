@@ -1,9 +1,6 @@
 ---
-title: Big Data for All - Building Collaborative Data Observatories 
-subtitle: The case of the music industry
-
-categories:
-- Meetup
+title: "Big Data for All: Building Collaborative Data Observatories" 
+subtitle: From the music ecosystem to further use cases
 
 event: Eindhoven Innovation Café Breakout Talks
 event_url: https://www.ehvinnovationcafe.org/program/
@@ -24,15 +21,14 @@ abstract: 'Big data creates injustices, because only the biggest corporations, u
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-11-03T17:30:00Z'
-date_end: '2022-11-03T19:30:00Z'
+date_end: '2022-11-03T18:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-08-10T12:20:00+02:00'
-lastUpdate:  '2022-10-12T09:34:00+02:00'
 
 authors: []
-tags: [Listen Local, OpenMusE]
+tags: [Eindhoven, ImpactCity, Reprex, Digital Music Observatory, Open Data]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -46,37 +42,66 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 
-# Markdown Slides (optional).
 slides:
 
 # Projects (optional).
+#   Otherwise, set `projects = []`.
 projects:
  - Listen Local
- - OpenMuse
+ - OpenMusE
+ 
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: twitter
+  icon_pack: fab
+  name: "@CultDataObs"
+  url: https://twitter.com/CultDataObs
+- icon: linkedin
+  icon_pack: fab
+  name: Join us on LinkedIn
+  link: https://www.linkedin.com/company/79286750/
+- icon: youtube
+  icon_pack: fab
+  name: Recorded Livestream
+  url: https://youtu.be/kM54gAAbHY0?t=05m22s
+- icon: laptop
+  icon_pack: fas
+  name: Slides
+  url: ../slides/ehv-reprex
 ---
 
-{{% callout note %}}
-Daniel Antal, Reprex’s founder will talk in the [Eindhoven Innovation Café](https://www.ehvinnovationcafe.org/past-events/). You can re-watch some former talks on their website.
-{{% /callout %}}
+Reprex's co-founder, [Daniel Antal](/authors/daniel_antal) talked in the [Eindhoven Innovation Café](https://www.ehvinnovationcafe.org/past-events/) about these issues. You can watch the recorded version of the the livestream that starts at 5 minutes and 22 seconds:
 
-Big data and AI creates inequalities. It puts historically marginalized people, like ethnic minorities, and womxn, at a disadvantage. Because AI and checking on AI require plenty of data, usually only giant corporations, the wealthiest governments, and university entities can make it work for them. Reprex is a Hague-based, international startup that wants to impact various sustainable development goals by enabling smaller organizations to join their smaller datasets, use open data, create linked available data, and collaboratively make a change. 
 
-Reprex is a finalist for the [Hague Innovation Award](https://reprex.nl/post/2022-09-13-the-hague-innovators-award/) for impact startup. Daniel Antal, one of the co-founders, will talk about their approach to building an international coalition of music organizations to pool data and challenge data monopolies using organizational techniques, a collaboration ethos, and data from the open-source developer world.  
+{{< youtube kM54gAAbHY0 >}}
 
-Using the example of independent music creators, who often find themselves in a position where it is more expensive to claim their money from global platforms, he will talk about how to reduce inequalities in the world of big data and AI with collaboration on web 3.0. In the Q&A he will take questions on how to apply their know-how, and generally linked open data to other art+tech or creative segments or problems for which everybody is too small, like meeting the Paris Accord greenhouse gas targets bit by bit, small company by small company. 
 
-In the `Q&A`, we can discuss many things
+*This is a past event*. Check out our forthcoming [events](/#talks) or write to [{{< icon name="linkedin" pack="fab" >}} Daniel Antal](https://www.linkedin.com/in/antaldaniel/)  or to [{{< icon name="keybase" pack="fab" >}} antaldaniel](https://keybase.io/antaldaniel). Or send an [{{< icon name="envelope" pack="fas" >}} email](/contact/).
+
+## The event invitation text and links
+
+`Big data and AI creates inequalities`. It puts historically marginalized people, like ethnic minorities, and womxn, at a disadvantage. Because AI and checking on AI require plenty of data, usually only giant corporations, the wealthiest governments, and university entities can make it work for them. Reprex is a Hague-based, international startup that wants to impact various sustainable development goals by enabling smaller organizations to join their smaller datasets, use open data, create linked available data, and collaboratively make a change.
+
+
+Reprex is a finalist for the `Hague Innovation Award` for impact startup (please 🙏, [vote for us](https://reprex.nl/post/2022-10-29_reprex-talk-to-all/)!). Daniel Antal, one of the co-founders, will talk about their approach to building an international coalition of music organizations to pool data and challenge data monopolies using organizational techniques, a collaboration ethos, and data from the open-source developer world.
+
+Using the example of independent music creators, who often find themselves in a position where it is more expensive to claim their money from global platforms, he will talk about how to reduce inequalities in the world of big data and AI with collaboration on web 3.0. In the Q&A he will take questions on how to apply their know-how, and generally linked open data to other art+tech or creative segments or problems for which everybody is too small, like meeting the Paris Accord greenhouse gas targets bit by bit, small company by small company.
+
+## In the Q&A, we can discuss many things
 
 - [x] How can Reprex help an individual creator in music, or in fashion and design, or any other area?
 - [x] What sort of help it can give to researchers, research institutes, specialist consultancies, law firms, and other knowledge-based actors?
-- [x] What sort of partners is Reprex looking for in Eindhoven?
+
+What sort of partners is [Reprex](https://reprex.nl/) looking for in `Eindhoven`?
 
 ## Check out our projects
-- [Digital Music Observatory](https://music.dataobservatory.eu/) and [Listen Local](https://music.dataobservatory.eu/project/listen-local/)
-- [Cultural & Creative Sectors and Industries Observatory](https://ccsi.dataobservatory.eu/) and short [call](https://ccsi.dataobservatory.eu/documents/Reprex-CCSI-2022.pdf) for potential partners.
-- [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/) and simple, connected, financial and sustainability [reporting](https://music.dataobservatory.eu/post/2022-06-09-music-eviota/) for creative enterprises and others
+
+- [x] [Digital Music Observatory](https://music.dataobservatory.eu/) and [Listen Local](https://music.dataobservatory.eu/project/listen-local/)
+- [x] [Cultural & Creative Sectors and Industries Observatory](https://ccsi.dataobservatory.eu/) and short call for potential partners.
+- [x] G[reen Deal Data Observatory](https://greendeal.dataobservatory.eu/) and simple, connected, financial and sustainability reporting for creative enterprises and others
 
 ## Reprex: the impact startup
-
-- [x] Check out our [accomplishments](https://reprex.nl/#accomplishments) since the foundation in 2020
-- [x] Get in [touch](https://reprex.nl/#contact)!
+- [x] Check out our accomplishments since the foundation in 2020

@@ -1,30 +1,30 @@
-+++
-title = "Upgrading the Slovak Music Database: New Data API, New Features"
-date = 2021-04-27T19:00:00
-lastmod = 2021-04-28T07:10:00
-draft = false
+---
+title: "Upgrading the Slovak Music Database: New Data API, New Features"
+date: 2021-04-27T19:00:00
+lastmod: 2021-04-28T07:10:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-project = ["Listen Local"]
+project: ["Listen Local"]
 
-tags = ["YouTube", "Slovakia", "mapping", "database"]
+tags: ["YouTube", "Slovakia", "mapping", "database"]
 
-summary = "We use the database to monitor market developments in streaming and radio services, and to detect any problems that may lead to a disadvantageous position for Slovak artists.  We are constantly monitoring if Slovak artists, regardless of their age, genre, gender, or ethnicity enjoy equal opportunity on streaming and radio platforms, and we are devising ways to increase their visibility and earnings."
+summary: "We use the database to monitor market developments in streaming and radio services, and to detect any problems that may lead to a disadvantageous position for Slovak artists.  We are constantly monitoring if Slovak artists, regardless of their age, genre, gender, or ethnicity enjoy equal opportunity on streaming and radio platforms, and we are devising ways to increase their visibility and earnings."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Find the songs of The Youniverse in the database"
+  caption: "Find the songs of The Youniverse in the database"
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Top"
+  focal_point: "Top"
 
-  # Show image only in page previews?
-  preview_only = false
 
-+++
+  preview_only: false
+
+---
 
 We use the database to monitor market developments in streaming and radio services, and to detect any problems that may lead to a disadvantageous position for Slovak artists.  We are constantly monitoring if Slovak artists, regardless of their age, genre, gender, or ethnicity enjoy equal opportunity on streaming and radio platforms, and we are devising ways to increase their visibility and earnings.
 

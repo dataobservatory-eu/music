@@ -56,3 +56,9 @@ Reprex is presenting its [Digital Music Observatory](https://music.dataobservato
 Learn more about the Dutch AI Coalition's Cultur and Media Working Group (in Dutch:)
 
 {{< vimeo 649975584 >}}
+
+___
+
+*This is a past event*. Check out our forthcoming [events](/#talks) or write to [{{< icon name="linkedin" pack="fab" >}} Daniel Antal](https://www.linkedin.com/in/antaldaniel/)  or to [{{< icon name="keybase" pack="fab" >}} antaldaniel](https://keybase.io/antaldaniel). Or send an [{{< icon name="envelope" pack="fas" >}} email](/contact/).
+
+

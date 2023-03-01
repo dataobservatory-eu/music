@@ -1,29 +1,42 @@
-+++
-title = "Looking for Horizon Europe Consortium Partners"
-subtitle = "Towards a competitive, fair and sustainable European music ecosystem"
-date = 2021-12-08T11:00:00+01:00
-lastmod = 2021-12-08T11:00:00+01:00
-draft = false
+---
+title: "Looking for Horizon Europe Consortium Partners"
+subtitle: "Towards a competitive, fair and sustainable European music ecosystem"
+date: 2021-12-08T11:00:00+01:00
+lastmod: 2021-12-08T11:00:00+01:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = [ "Digital Music Observatory", "Horizon Europe", "music ecosystem"]
+tags: [ "Digital Music Observatory", "Horizon Europe", "music ecosystem"]
 
-summary = "Our open collaboration platform is looking for partners for the Horizon Europe call Towards a competitive, fair and sustainable European music ecosystem."
+summary: "Our open collaboration platform is looking for partners for the Horizon Europe call Towards a competitive, fair and sustainable European music ecosystem."
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: linkedin
+  icon_pack: fab
+  name: Digital Music Observatory
+  url: https://www.linkedin.com/company/79286750/
+- icon: mastodon
+  icon_pack: fab
+  name: "@digitalmusicobs@eupolicy.social"
+  url: https://eupolicy.social/@digitalmusicobs/
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
+  focal_point: "Center"
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
 
-  # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
+{{% callout note %}}
+Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}{{% /callout %}}
 
 We are looking for partners for the Horizon Europe call *Towards a competitive, fair and sustainable European music ecosystem*.
 

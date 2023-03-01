@@ -1,28 +1,40 @@
-+++
-title = "Feasibility Study On Promoting Slovak Music In Slovakia & Abroad"
-date = 2021-03-25T11:00:00
-lastmod = 2021-03-25T11:00:00
-draft = false
+---
+title: "Feasibility Study On Promoting Slovak Music In Slovakia & Abroad"
+date: 2021-03-25T11:00:00
+lastmod: 2021-03-25T11:00:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["daniel_antal"]
 
-tags = ["Slovakia", "trustworthy-AI", "recommendations", "music-distribution", "local-content-regulation"]
+tags: ["Slovakia", "Trustworthy AI", "Recommendations", "Music distribution", "Local Content Regulation"]
 
-summary = "Our new study opens the question of the local music promotion within the digital environment. The Slovak Performing and Mechanical Rights Society (SOZA), the State51 music group in the United Kingdom, and the Slovak Arts Council commissioned Reprex to created a feasibility study which provides recommendations for better use of quotas for Slovak radio stations and which also maps the share and promotion of Slovak music within large streaming and media platforms such as Spotify."
+summary: "Our new study opens the question of the local music promotion within the digital environment. The Slovak Performing and Mechanical Rights Society (SOZA), the State51 music group in the United Kingdom, and the Slovak Arts Council commissioned Reprex to created a feasibility study which provides recommendations for better use of quotas for Slovak radio stations and which also maps the share and promotion of Slovak music within large streaming and media platforms such as Spotify."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Top"
+  focal_point: "Top"
+  preview_only: false
 
-  # Show image only in page previews?
-  preview_only = false
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: linkedin
+  icon_pack: fab
+  name: Digital Music Observatory
+  url: https://www.linkedin.com/company/79286750/
+- icon: mastodon
+  icon_pack: fab
+  name: "@digitalmusicobs@eupolicy.social"
+  url: https://eupolicy.social/@digitalmusicobs/
 
-+++
+---
 
 ## How to help promote local music?
 The new study opens the question of the local music promotion within the digital environment.

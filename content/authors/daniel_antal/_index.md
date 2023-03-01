@@ -23,7 +23,7 @@ organizations:
   url: "https://www.ivir.nl/employee/antaldaniel/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include reproducible social science, economics and finance.
+bio: Founder of the Digital Music Observatory and co-founder of [Reprex](https://reprex.nl/).
 
 topics:
 - Intangible Assets / Royalty Valuation
@@ -50,9 +50,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/antaldaniel
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/antaldaniel
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-7513-6760
@@ -62,9 +62,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/antaldaniel/
-- icon: ssrn
-  icon_pack: ai
-  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2472686
+#- icon: ssrn
+#  icon_pack: ai
+#  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2472686
 - icon: keybase
   icon_pack: fab
   link: https://keybase.io/antaldaniel

@@ -27,6 +27,29 @@ image:
   focal_point:  "Center"
   preview_only:  true
 
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: code
+  icon_pack: fas
+  name: Code & Tutorials
+  url: https://iotables.dataobservatory.eu/
+- icon: linkedin
+  icon_pack: fab
+  name: Digital Music Observatory
+  url: https://www.linkedin.com/company/79286750/
+- icon: mastodon
+  icon_pack: fab
+  name: "@digitalmusicobs@eupolicy.social"
+  url: https://eupolicy.social/@digitalmusicobs/
+
+links:
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/company/79286750/
+    
 categories:
 - R-bloggers
 ---
@@ -231,7 +254,7 @@ Then solve for the multipliers:
 
     multipliers_sk <- input_multipliers_create( 
       primary_inputs_sk %>%
-        filter (.data$iotables_row: = "gva"), I_sk ) 
+        filter (.data$iotables_row:: "gva"), I_sk ) 
 
 And select a few industries:
 

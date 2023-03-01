@@ -1,37 +1,49 @@
-+++
-title = "Music Creators’ Earnings in the Streaming Era"
-subtitle = "United Kingdom Research Cooperation With the Digital Music Observatory"
-date = 2021-06-18T08:00:00
-lastmod = 2021-06-18T18:00:00
-draft = false
+---
+title: "Music Creators’ Earnings in the Streaming Era"
+subtitle: "United Kingdom Research Cooperation With the Digital Music Observatory"
+date: 2021-06-18T08:00:00
+lastmod: 2021-06-18T18:00:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = ["Open data", "Open science", "regional data","valuation", "United Kingdom", "music supply", "music demand", "Music industry"]
+tags: ["Open data", "Open science", "Regional data","Valuation", "United Kingdom", "music supply", "music demand", "Music industry"]
 
-summary = "Our Digital Music Observatory contributes to the Music Creators’ Earnings in the Streaming Era project with understanding the level of justified and unjustified differences in rightsholder earnings, and putting them into a broader music economy context."
+summary: "Our Digital Music Observatory contributes to the Music Creators’ Earnings in the Streaming Era project with understanding the level of justified and unjustified differences in rightsholder earnings, and putting them into a broader music economy context."
 
-projects = [""]
+projects: [""]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
-
-  # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
+  preview_only: true
+  
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: linkedin
+  icon_pack: fab
+  name: Digital Music Observatory
+  url: https://www.linkedin.com/company/79286750/
+- icon: mastodon
+  icon_pack: fab
+  name: "@digitalmusicobs@eupolicy.social"
+  url: https://eupolicy.social/@digitalmusicobs/
 
-  # Show image only in page previews?
-  preview_only = true
-
-+++
+---
 
 {{< figure src="/blogposts_20121/dcms_economics_music_streaming.png" numbered="false">}}
 
 The idea of our Digital Music Observatory was brought to the UK policy debate on music streaming by the _Written evidence submitted by The state51 Music Group_ to the _Economics of music streaming review_ of the UK Parliaments' DCMS Committee[^1].
 
 [^1]: state51 Music Group. 2020. “Written Evidence Submitted by The state51 Music Group. Economics of Music Streaming Review. Response to Call for Evidence.” UK Parliament website. [https://committees.parliament.uk/writtenevidence/15422/html/](https://committees.parliament.uk/writtenevidence/15422/html/).
+
+{{% callout note %}}
+Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}{{% /callout %}}
 
 The music industry requires a permanent market monitoring facility to win fights in competition tribunals, because it is increasingly disputing revenues with the world’s biggest data owners. This was precisely the role of the former CEEMID[^2] program, which was initiated by a group of collective management societies. Starting with three relatively data-poor countries, where data pooling allowed rightsholders to increase revenues, the CEEMID data collection program was extended in 2019 to 12 countries.The [final regional report](https://ceereport2020.ceemid.eu/), after the release of the detailed [Hungarian](https://music.dataobservatory.eu/publication/hungary_music_industry_2014/), [Slovak](https://music.dataobservatory.eu/publication/slovak_music_industry_2019/) and [Croatian reports](https://music.dataobservatory.eu/publication/private_copying_croatia_2019/) of CEEMID was sponsored by Consolidated Independent (of the *state51 music group*.)
 

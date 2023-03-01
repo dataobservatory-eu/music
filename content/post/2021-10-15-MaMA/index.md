@@ -1,31 +1,47 @@
-+++
-title = "Reprex on MaMA"
-subtitle = "Open call for French partners to try out and join the Digital Music Observatory"
-date = 2021-10-15T19:00:00
-lastmod = 2021-10-15T19:00:00
-draft = false
+---
+title: "Reprex on MaMA"
+subtitle: "Open call for French partners to try out and join the Digital Music Observatory"
+date: 2021-10-15T19:00:00
+lastmod: 2021-10-15T19:00:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = ["Music industry","data-as-service", "innovation", "France"]
+tags: ["Music industry", "Paris", "Innovation", "France"]
 
-summary = "Reprex’s co-founder, Daniel Antal and our Listen Local curator, Marie Zhorová participated in the MaMA Festival & Convention in Paris on 13-15 October within the JUMP Music Market Accelerator Program. We introduced our Digital Music Observatory to national music organizations and encouraged them to try out a cooperation with us."
+summary: "Reprex’s co-founder, Daniel Antal and our Listen Local curator, Marie Zhorová participated in the MaMA Festival & Convention in Paris on 13-15 October within the JUMP Music Market Accelerator Program. We introduced our Digital Music Observatory to national music organizations and encouraged them to try out a cooperation with us."
 
-projects = ""
+projects: ""
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: linkedin
+  icon_pack: fab
+  name: Digital Music Observatory
+  url: https://www.linkedin.com/company/79286750/
+- icon: mastodon
+  icon_pack: fab
+  name: "@digitalmusicobs@eupolicy.social"
+  url: https://eupolicy.social/@digitalmusicobs/
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Photo by [Martin Zenzerovich](https://www.jumpmusic.eu/fellow2021/groovly/)"
+  caption: "Photo by [Martin Zenzerovich](https://www.jumpmusic.eu/fellow2021/groovly/)"
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
-  # Show image only in page previews?
-  preview_only = false
 
-+++
+  preview_only: false
+
+---
+{{% callout note %}}
+Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}{{% /callout %}}
 
 Reprex’s co-founder, the main developer of the Digital Music Observatory, [Daniel Antal](https://reprex.nl/authors/daniel_antal/) and Digital Music Observatory curator, [Marie Zhorová](https://music.dataobservatory.eu/author/marie-zhorova/) participated in the MaMA Festival & Convention in Paris on 13-15 October within the [JUMP Music Market Accelerator Program](https://www.jumpmusic.eu/fellows/) Program. We introduced our Digital Music Observatory to national music organizations and encouraged them to try out a cooperation with us. (See Use Cases below)
 

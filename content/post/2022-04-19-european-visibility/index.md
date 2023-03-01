@@ -27,11 +27,25 @@ image:
   focal_point: ''
   placement: 2
   preview_only: false
+  
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: linkedin
+  icon_pack: fab
+  name: Digital Music Observatory
+  url: https://www.linkedin.com/company/79286750/
+- icon: mastodon
+  icon_pack: fab
+  name: "@digitalmusicobs@eupolicy.social"
+  url: https://eupolicy.social/@digitalmusicobs/
 
 authors:
   - Martin Senfleben
   - Thomas Margoni 
-  - Daniel Antal 
+  - daniel_antal
   - Balazs Bodó 
   - Stef van Gompel 
   - Christian Handke 
@@ -47,6 +61,9 @@ tags:
 categories:
   - Publications
 ---
+{{% callout note %}}
+Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}{{% /callout %}}
+
 
 Our article on the trade-offs between data harmonisation and interoperability on the one hand, and transparency and accountability of content recommender systems, and the necessity to take metadata problems in Europe more seriously has been published in the Journal of Intellectual Property, Information Technology and Electronic Commerce Law. The problems we see in this area threaten the market position and visibility of European music, books, films in autonomous, AI-driven platfomrs like YouTube, Apple, Amazon.  
 

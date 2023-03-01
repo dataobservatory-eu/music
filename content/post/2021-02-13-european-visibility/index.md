@@ -1,32 +1,32 @@
-+++
-title = "Ensuring the Visibility and Accessibility of European Creative Content on the World Market: The Need for Copyright Data Improvement in the Light of New Technologies"
+---
+title: "Ensuring the Visibility and Accessibility of European Creative Content on the World Market: The Need for Copyright Data Improvement in the Light of New Technologies"
 
-date = 2021-02-13T18:10:00+02:00
-lastmod = 2021-02-17T18:10:00+02:00
-draft = false
+date: 2021-02-13T18:10:00+02:00
+lastmod: 2021-02-17T18:10:00+02:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["listen local", "trustworthy AI", "Digital Music Observatory", "metadata", "copyright", "music discovery"]
+tags: ["listen local", "trustworthy AI", "Digital Music Observatory", "metadata", "copyright", "music discovery"]
 
-projects = ["Digital Music Observatory", "Listen Local"]
+projects: ["Digital Music Observatory", "Listen Local"]
 
-summary = "While the US have already taken steps to provide an integrated data space for music as of 1 January 2021, the EU is facing major obstacles not only in the field of music but also in other creative industry sectors. Weighing costs and benefits, there can be little doubt that new data improvement initiatives and sufficient investment in a better copyright data infrastructure should play a central role in EU copyright policy. Preprint of our article with copyright researchers."
+summary: "While the US have already taken steps to provide an integrated data space for music as of 1 January 2021, the EU is facing major obstacles not only in the field of music but also in other creative industry sectors. Weighing costs and benefits, there can be little doubt that new data improvement initiatives and sufficient investment in a better copyright data infrastructure should play a central role in EU copyright policy. Preprint of our article with copyright researchers."
 
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
-  # Show image only in page previews?
-  preview_only = false
 
-+++
+  preview_only: false
+
+---
 
 The majority of music sales in the world is driven by AI-algorithm powered robots that create personalized playlists, recommendations and help programming radio music streams or festival lineups. It is critically important that an artist’s work is documented, described in a way that the algorithm can work with it.  
 

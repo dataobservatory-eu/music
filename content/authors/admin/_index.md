@@ -6,7 +6,7 @@ title: Digital Music Observatory
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: An inclusive, bottom-up, open, collaborative observatory for the European music industry, sector and heritage organizations.
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -43,9 +43,17 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/DigitalMusicObs/
+  - icon: mastodon
+    icon_pack: fab
+    url: https://eupolicy.social/@digitalmusicobs/
   - icon: fingerprint
     icon_pack: fas
     link: https://zenodo.org/communities/music_observatory/
+  - icon: person-booth
+    icon_pack: fas
+    name: Vote for The Hague Innovators Award Audience Prize
+    url: ../post/2022-10-29_reprex-talk-to-all/
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,

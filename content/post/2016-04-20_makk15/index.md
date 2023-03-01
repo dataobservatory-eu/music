@@ -1,34 +1,34 @@
-+++
-title = "Mapping the Croatian Music Industry"
+---
+title: "Mapping the Croatian Music Industry"
 
-date = 2016-04-20T00:00:00
-lastmod = 2018-01-13T00:00:00
-draft = false
+date: 2016-04-20T00:00:00
+lastmod: 2018-01-13T00:00:00
+draft: false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["Music industry", "CEEMID", "Croatia", "Market report"]
+tags: ["Music industry", "CEEMID", "Croatia", "Market report"]
 
-summary = "Daniel Antal presented the preliminary findings of the Croatian music industry research in the International Authors’ and Creators’ Conference in Zagreb on 24 November 2015. The presentation was largely based on analysis of various CEEMID databases."
+summary: "Daniel Antal presented the preliminary findings of the Croatian music industry research in the International Authors’ and Creators’ Conference in Zagreb on 24 November 2015. The presentation was largely based on analysis of various CEEMID databases."
 
 # Projects (optional).
-projects = ["CEEMID"]
+projects: ["CEEMID"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point: ""
 
-  # Show image only in page previews?
-  preview_only = false
 
-+++
+  preview_only: false
+
+---
 
 Daniel Antal presented the preliminary findings of the Croatian music industry research in the [International Authors’ and Creators’ Conference (Međunarodna autorska kreativna konferencija, #MAKK2015)](http://www.makk.hr/web/en/) in Zagreb on 24 November 2015. The presentation was largely based on analysis of various CEEMID databases.
 

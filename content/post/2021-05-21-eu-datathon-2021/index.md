@@ -1,31 +1,31 @@
-+++
-title = "The Digital Music Observatory is Contesting the EU Datathon 2021 Prize"
-subtitle = "Reprex and Open Collaboration Partners are Contesting all Three Challenges of the EU Datathon 2021 Prize"
-date = 2021-05-21T20:00:00
-lastmod = 2021-05-26T15:00:00
-draft = false
+---
+title: "The Digital Music Observatory is Contesting the EU Datathon 2021 Prize"
+subtitle: "Reprex and Open Collaboration Partners are Contesting all Three Challenges of the EU Datathon 2021 Prize"
+date: 2021-05-21T20:00:00
+lastmod: 2021-05-26T15:00:00
+draft: false
 
-authors = ["Daniel Antal", "Andrés García Molina"]
+authors: ["Daniel Antal", "Andrés García Molina"]
 
-tags = ["Open data", "Open science", "data-altruism", "data-observatory", "datathon", "competition"]
+tags: ["Open data", "Open science", "data-altruism", "data-observatory", "datathon", "competition"]
 
-summary = "Reprex, a Dutch start-up enterprise formed to utilize open source software and open data in open collaboration with its partners is contesting all three challenges of the EU Datathon 2021 Prizes."
+summary: "Reprex, a Dutch start-up enterprise formed to utilize open source software and open data in open collaboration with its partners is contesting all three challenges of the EU Datathon 2021 Prizes."
 
-projects = ["eu-datathon_2021"]
+projects: ["eu-datathon_2021"]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
-  # Show image only in page previews?
-  preview_only = true
 
-+++
+  preview_only: true
+
+---
 
 Reprex, a Dutch start-up enterprise formed to utilize open source software and open data, is looking for partners in an agile, open collaboration to win at least one of the three EU Datathon Prizes. We are looking for policy partners, academic partners and a consultancy partner. Our project is based on agile, open collaboration with three types of contributors.
 

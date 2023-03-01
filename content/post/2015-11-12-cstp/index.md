@@ -1,35 +1,35 @@
-+++
-title = "Granting And Policy Evaluation For Musicians In Hungary"
+---
+title: "Granting And Policy Evaluation For Musicians In Hungary"
 
-date = 2015-11-12T19:00:00
-draft = false
+date: 2015-11-12T19:00:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["Grants", "Ex ante evalution", "Royalties"]
+tags: ["Grants", "Ex ante evalution", "Royalties"]
 
-summary = "The data and intelligence of CEEMID was used in Hungary to create an ex ante evaluation of the new Cseh Tamás Program to support popular music development in Hungary.  Our mandate was to create concrete granting proposals that have a high chance of making a change in terms of the later royalty earning capabilities of artists."
+summary: "The data and intelligence of CEEMID was used in Hungary to create an ex ante evaluation of the new Cseh Tamás Program to support popular music development in Hungary.  Our mandate was to create concrete granting proposals that have a high chance of making a change in terms of the later royalty earning capabilities of artists."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
-#   Otherwise, set `projects = []`.
+#   Otherwise, set `projects: []`.
 
-projects = ["CEEMID"]
+projects: ["CEEMID"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point: ""
 
-  # Show image only in page previews?
-  preview_only = false
 
-+++
+  preview_only: false
+
+---
 
 
 The data and intelligence of CEEMID was used in Hungary to create an ex ante evaluation of the new Cseh Tamás Program to support popular music development in Hungary.  Our mandate was to create concrete granting proposals that have a high chance of making a change in terms of the later royalty earning capabilities of artists.

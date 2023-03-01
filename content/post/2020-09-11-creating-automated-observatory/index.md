@@ -1,29 +1,29 @@
-+++
-title = "Creating An Automated Data Observatory"
+---
+title: "Creating An Automated Data Observatory"
 
-date = 2020-09-11T16:00:39
-lastmod = 2020-09-11T16:00:39
-draft = false
+date: 2020-09-11T16:00:39
+lastmod: 2020-09-11T16:00:39
+draft: false
 
-authors = ["Daniel Antal", "Sandor Budai", "Line Matson", "Moon Moon Moon"]
+authors: ["Daniel Antal", "Sandor Budai", "Line Matson", "Moon Moon Moon"]
 
-tags = ["R", "Open data", "reproducible", "Digital Music Observatory"]
+tags: ["R", "Open data", "reproducible", "Digital Music Observatory"]
 
-summary = "The making of an automated and reproducible data tool for the music industry. A short video and a brief explanation."
+summary: "The making of an automated and reproducible data tool for the music industry. A short video and a brief explanation."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Start our video (35mb, takes time to load)"
+  caption: "Start our video (35mb, takes time to load)"
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
-  # Show image only in page previews?
-  preview_only = false
 
-+++
+  preview_only: false
+
+---
 
 We are building data ecosystems, so called observatories, where scientific, business, policy and civic users can find factual information, data, evidence for their domain.  Our open source, open data, open collaboration approach allows to connect various open and proprietary data sources, and our reproducible research workflows allow us to automate data collection, processing, publication, documentation and presentation.
 
@@ -50,6 +50,7 @@ We would like to validate this approach in one of the world's most prestigious u
 - Video art: Line Matson
 - Music: [Moon Moon Moon](https://www.youtube.com/moonmoonmoon).
 
-
+{{% callout note %}}
+Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}{{% /callout %}}
 
 

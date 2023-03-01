@@ -63,4 +63,4 @@ user_groups:
 - developers
 ---
 
-Andrés is a data scientist and an ethnomusicologist. He is an experienced international researcher with interests that lie at the intersection between data science and the humanities. He helps our team with quantifying (ethno-)musicological variables to train better AI models and to make our Demo Music Observatory more valuable for its users. He also helps us reach out to potential partners in North America.
+Andrés is a data scientist and an ethnomusicologist. He is an experienced international researcher with interests that lie at the intersection between data science and the humanities. He helps oto team with quantifying (ethno-)musicological variables to train better AI models and to make our Digital Music Observatory more valuable for its users. He also helps us reach out to potential partners in North America.

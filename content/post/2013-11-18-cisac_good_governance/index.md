@@ -1,32 +1,37 @@
-+++
-title = "Value added by music in public performance and home copying: economic theory and empirical applications for tariff setting"
-date = 2013-11-18T00:00:00
-lastmod = 2013-11-18T00:00:00
-draft = false
+---
+title: "Value added by music in public performance and home copying: economic theory and empirical applications for tariff setting"
+date: 2013-11-18T00:00:00
+lastmod: 2013-11-18T00:00:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["daniel_antal"]
 
-tags = ["CISAC", "pricing", "Private copying", "restaurants", "hedonic pricing", "Valuation"]
+tags: ["CISAC", "pricing", "Private copying", "restaurants", "hedonic pricing", "Valuation"]
 
-summary = "My short presentation highlighted the fact that the CEE region’s is much richer in terms of household cultural and recreational spending than music publishers believe."
+summary: "My short presentation highlighted the fact that the CEE region’s is much richer in terms of household cultural and recreational spending than music publishers believe."
 
-projects = ["CEEMID"]
+projects: ["CEEMID", "Valuation", "Private copying levy"]
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
-  # Caption (optional)
-  caption = ""
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
-
-  # Show image only in page previews?
-  preview_only = false
-
-
-+++
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: linkedin
+  icon_pack: fab
+  name: Digital Music Observatory
+  url: https://www.linkedin.com/company/79286750/
+- icon: mastodon
+  icon_pack: fab
+  name: "@digitalmusicobs@eupolicy.social"
+  url: https://eupolicy.social/@digitalmusicobs/
+  
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+  
+---
 You can review the slides below.
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/MPGDNcEefEU04I" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/antaldaniel/sgeur13-1037-dantal" title="Value added by music in public performance and home copying: economic theory and empirical applications in tariff setting" target="_blank">Value added by music in public performance and home copying: economic theory and empirical applications in tariff setting</a> </strong> from <strong><a href="//www.slideshare.net/antaldaniel" target="_blank">Dániel Antal</a></strong> </div>

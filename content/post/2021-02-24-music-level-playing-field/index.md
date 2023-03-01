@@ -1,31 +1,31 @@
-+++
-title = "Music Streaming: Is It a Level Playing Field?"
+---
+title: "Music Streaming: Is It a Level Playing Field?"
 
-date = 2021-02-23T21:23:00+02:00
-lastmod = 2021-02-24T21:23:00+02:00
-draft = false
+date: 2021-02-23T21:23:00+02:00
+lastmod: 2021-02-24T21:23:00+02:00
+draft: false
 
-authors = ["Daniel Antal", "Amelia Fletcher", "Peter Ormosi"]
+authors: ["Daniel Antal", "Amelia Fletcher", "Peter Ormosi"]
 
-tags = ["Listen Local", "Digital Music Observatory", "competition", "music streaming", "UCPS"]
+tags: ["Listen Local", "Digital Music Observatory", "competition", "music streaming", "UCPS"]
 
-summary = "Our paper argues that fair competition in music streaming is restricted by the nature of the remuneration arrangements between creators and the streaming platforms, the role of playlists, and the strong negotiating power of the major labels. It concludes that urgent consideration should be given to a user-centric payment system, as well as greater transparency of the factors underpinning playlist creation and of negotiated agreements."
+summary: "Our paper argues that fair competition in music streaming is restricted by the nature of the remuneration arrangements between creators and the streaming platforms, the role of playlists, and the strong negotiating power of the major labels. It concludes that urgent consideration should be given to a user-centric payment system, as well as greater transparency of the factors underpinning playlist creation and of negotiated agreements."
 
-projects = ["Listen Local"]
+projects: ["Listen Local"]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Music Streaming: Is It a Level Playing Field?"
+  caption: "Music Streaming: Is It a Level Playing Field?"
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Left"
+  focal_point: "Left"
 
-  # Show image only in page previews?
-  preview_only = true
 
-+++
+  preview_only: true
+
+---
 
 Our article, [Music Streaming: Is It a Level Playing Field?](https://www.competitionpolicyinternational.com/music-streaming-is-it-a-level-playing-field/) is published in the February 2021 issue of CPI Antitrust Chronicle, which is fully devoted to competition policy issues in the music industry. 
 

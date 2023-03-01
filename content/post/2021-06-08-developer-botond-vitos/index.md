@@ -1,31 +1,34 @@
-+++
-title = "Developing an Open API is the Right Direction"
-subtitle = "Introducing Our Developers"
-date = 2021-06-07T20:00:00
-lastmod = 2021-06-07T20:00:00
-draft = true
+---
+title: "Developing an Open API is the Right Direction"
+subtitle: "Introducing Our Developers"
+date: 2021-06-07T20:00:00
+lastmod: 2021-06-07T20:00:00
+draft: true
 
-authors = ["botond_vitos"]
+authors: ["botond_vitos"]
 
-tags = ["Open data", "Open science", "trustworthy AI","Listen Local", "musicology", "Bandcamp"]
+tags: ["Open data", "Open science", "trustworthy AI","Listen Local", "Musicology", "Bandcamp", "Contributors"]
 
-summary = "I believe that with curators' priorities and the development of an easily accessible, open API, we are moving in the right direction."
+summary: "I believe that with curators' priorities and the development of an easily accessible, open API, we are moving in the right direction."
 
-projects = ["eu-datathon_2021", "Listen Local"]
+projects: ["eu-datathon_2021", "Listen Local"]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Botond Vitos, PhD"
+  caption: "Botond Vitos, PhD"
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
-  # Show image only in page previews?
-  preview_only = false
 
-+++
+  preview_only: false
+
+---
+
+Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}}{{< icon name="code" pack="fas" >}}open repositories, code, tutorials{{< /staticref >}}.
+
 
 Coming from a cultural studies background, my main research interest has been grassroots music scenes and festival cultures, which I hope to extend to my current projects as data engineer and as a data scientist. My prior research’s scope was mainly qualitative and focused on the inside views and stories of scene participants and stakeholders, which was invaluable in the understanding of specialized stylistic vocabularies. At the same time, I was interested in the “bigger picture,” which can be approximated through algorithmic approaches and data analysis. With both interests together, I shifted towards data science and engineering.
 

@@ -1,31 +1,31 @@
-+++
-title = "Open Data is Like Gold in the Mud Below the Chilly Waves of Mountain Rivers"
-subtitle = "Introducing Our Service Development Team"
-date = 2021-06-10T07:00:00
-lastmod = 2021-06-10T09:00:00
-draft = false
+---
+title: "Open Data is Like Gold in the Mud Below the Chilly Waves of Mountain Rivers"
+subtitle: "Introducing Our Service Development Team"
+date: 2021-06-10T07:00:00
+lastmod: 2021-06-10T09:00:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = ["Open data", "Open science", "trustworthy AI", "service-design", "data collection"]
+tags: ["Open data", "Open science", "Trustworthy AI", "Contributors", "Data collection"]
 
-summary = "Open data is like gold in the mud below the chilly waves of mountain rivers. Panning it out requires a lot of patience, or a good machine. I think we will come to as surprising and strong findings as Bellingcat, but we are not focusing on individual events and stories, but on social and environmental processes and changes."
+summary: "Open data is like gold in the mud below the chilly waves of mountain rivers. Panning it out requires a lot of patience, or a good machine. I think we will come to as surprising and strong findings as Bellingcat, but we are not focusing on individual events and stories, but on social and environmental processes and changes."
 
-projects = ["eu-datathon_2021"]
+projects: ["eu-datathon_2021"]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Daniel Antal"
+  caption: "Daniel Antal"
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
-  # Show image only in page previews?
-  preview_only = true
 
-+++
+  preview_only: true
+
+---
 
 {{< figure src="/slides/img/gold_panning_slide_notitle.png" caption="Open data is like gold in the mud below the chilly waves of mountain rivers. Panning it out requires a lot of patience, or a good machine." numbered="true" >}}
 
@@ -78,6 +78,5 @@ Open data is like gold in the mud below the chilly waves of mountain rivers. Pan
 
 {{< figure src="/screenshots/observatory/dmo_and_zenodo.png" caption="Join our open collaboration Digital Music Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team), or share your data in our public repository [Digital Music Observatory on Zenodo](https://zenodo.org/communities/music_observatory/)" numbered="true" >}}
 
-## Join us
+Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}}{{< icon name="code" pack="fas" >}}open repositories, code, tutorials{{< /staticref >}}.
 
-*Join our open collaboration Music Data Observatory team as a [data curator](https://music.dataobservatory.eu/author/new-curators/), [developer](https://music.dataobservatory.eu/author/new-developers/) or [business developer](https://music.dataobservatory.eu/author/observatory-business-associate/). More interested in antitrust, innovation policy or economic impact analysis? Try our [Economy Data Observatory](https://economy.dataobservatory.eu/#contributors) team! Or your interest lies more in climate change, mitigation or climate action? Check out our [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/#contributors) team!*

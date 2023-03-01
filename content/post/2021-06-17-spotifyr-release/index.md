@@ -5,7 +5,7 @@ date: 2021-06-17T08:10:00
 lastmod: 2021-06-17T08:10:00
 draft: false
 
-authors: ["Daniel Antal"]
+authors: ["daniel_antal"]
 
 project:
  - Listen Local
@@ -19,17 +19,33 @@ summary: "After a very thorough modernization of the package’s exception handl
 image:
   # Caption (optional)
   caption: ""
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: "Right"
   preview_only: true
+  
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: linkedin
+  icon_pack: fab
+  name: Digital Music Observatory
+  url: https://www.linkedin.com/company/79286750/
+- icon: mastodon
+  icon_pack: fab
+  name: "@digitalmusicobs@eupolicy.social"
+  url: https://eupolicy.social/@digitalmusicobs/
   
 categories:
 - R-bloggers
 ---
 
 {{< figure src="/screenshots/package/spotifyr_221.png" caption="The package is an excellent starting to point for R newbies to try their hands on musicology analysis with a few keystrokes. And of course, it is an essential part of the research infrastructure of musicology worldwide in far more advanced applications." numbered="true" >}}
+
+
+
+_Engage with us on {{< staticref "https://www.linkedin.com/company/79286750/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/DigitalMusicObs/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@DigitalMusicObs{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}!_
+
 
 I have been a very long-time user of Charlie Thomson’s [spotifyr R package](https://github.com/charlie86/spotifyr), which is probably the most used open-source music analytics software in the world.  It provides programmatic access to the Spotify Web API, which contains access to the former Echo Nest quantitative musicology engine.  
 

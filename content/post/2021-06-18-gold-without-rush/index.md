@@ -1,31 +1,31 @@
-+++
-title = "Open Data - The New Gold Without the Rush"
-subtitle = "Open Data-as-Service"
-date = 2021-06-18T17:00:00
-lastmod = 2021-06-18T17:00:00
-draft = false
+---
+title: "Open Data - The New Gold Without the Rush"
+subtitle: "Open Data-as-Service"
+date: 2021-06-18T17:00:00
+lastmod: 2021-06-18T17:00:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = ["Open data", "Open science", "R", "data collection"]
+tags: ["Open data", "Open science", "R", "data collection"]
 
-summary = "If open data is the new gold, why even those who release fail to reuse it? We created an open collaboration of data curators and open-source developers to dig into novel open data sources and/or increase the usability of existing ones. We transform reproducible research software into research- as-service."
+summary: "If open data is the new gold, why even those who release fail to reuse it? We created an open collaboration of data curators and open-source developers to dig into novel open data sources and/or increase the usability of existing ones. We transform reproducible research software into research- as-service."
 
-projects = ["eu-datathon_2021"]
+projects: ["eu-datathon_2021"]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Gold Panning at Bonanza Creek, [Wikimedia](https://commons.wikimedia.org/wiki/File:Gold_panning_at_Bonanza_Creek.JPG)"
+  caption: "Gold Panning at Bonanza Creek, [Wikimedia](https://commons.wikimedia.org/wiki/File:Gold_panning_at_Bonanza_Creek.JPG)"
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
-  # Show image only in page previews?
-  preview_only = true
 
-+++
+  preview_only: true
+
+---
 
 *If open data is the new gold, why even those who release fail to reuse it? We created an open collaboration of data curators and open-source developers to dig into novel open data sources and/or increase the usability of existing ones. We transform reproducible research software into research- as-service.*
 

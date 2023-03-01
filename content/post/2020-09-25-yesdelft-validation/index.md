@@ -1,29 +1,38 @@
-+++
-title = "Product/Market Fit Validation in Yes!Delft"
+---
+title: "Product/Market Fit Validation in Yes!Delft"
 
-date = 2020-09-25T15:31:39+02:00
-lastmod = 2020-09-25T15:31:39+02:00
-draft = false
+date: 2020-09-25T15:31:39+02:00
+lastmod: 2020-09-25T15:31:39+02:00
+draft: false
 
-authors = ["Daniel Antal, CFA", "Réka Szentirmay"]
+authors: ["daniel_antal", "Réka Szentirmay", "reprex"]
 
-tags = ["Open data", "reproducible", "start-up", "open-source"]
+tags: ["Open data", "reproducible", "start-up", "open-source"]
 
-summary = "We see much interest in our offering from other continents, therefore we truly welcome the opportunity that we can do this on a truly global business canvas in one of the worlds’ top five incubators, the number 2 university-backed incubator in the world, in the Yes!Delft AI+Blockchain Validation Lab."
+summary: "We see much interest in our offering from other continents, therefore we truly welcome the opportunity that we can do this on a truly global business canvas in one of the worlds’ top five incubators, the number 2 university-backed incubator in the world, in the Yes!Delft AI+Blockchain Validation Lab."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Tension relief after the Yes!Delft pitch in the Palato"
+  caption: "Tension relief after the Yes!Delft pitch in the Palato"
+  focal_point: "TopLeft"
+  preview_only: false
+  
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: linkedin
+  icon_pack: fab
+  name: Digital Music Observatory
+  url: https://www.linkedin.com/company/79286750/
+- icon: mastodon
+  icon_pack: fab
+  name: "@digitalmusicobs@eupolicy.social"
+  url: https://eupolicy.social/@digitalmusicobs/
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "TopLeft"
-
-  # Show image only in page previews?
-  preview_only = false
-
-+++
+---
 
 We would like to validate our product market/fit in two segments, business/policy research and scientific research, with a supporting role given to data journalism. Because we want to follow a bootstrapping strategy, we must focus on those clients where we find the highest value proposition, which is of course easier said than done.  We see much interest in our offering from other continents, therefore we truly welcome the opportunity that we can do this on a truly global business canvas in one of the worlds’ [top five incubators](https://www.yesdelft.com/news/yesdelft-among-the-top-5-business-incubators-in-the-world/), the number 2 university-backed incubator in the world, second to none in Europe, in the [Yes!Delft AI+Blockchain](https://www.yesdelft.com/focus-areas/artificial-intelligence/) Validation Lab.
 

@@ -1,31 +1,40 @@
-+++
-title = "Our Music Observatory in the Jump European Music Market Accelerator: Meet the 2021 Fellows and their Tutors"
+---
+title: "Our Music Observatory in the Jump European Music Market Accelerator: Meet the 2021 Fellows and their Tutors"
 
-date = 2021-03-04T15:00:00+02:00
-lastmod = 2021-03-04T15:00:00+02:00
-draft = false
+date: 2021-03-04T15:00:00+02:00
+lastmod: 2021-03-04T15:00:00+02:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["Listen Local", "Digital Music Observatory", "JUMP", "EU", "Music Moves Europe"]
+tags: ["Listen Local", "Digital Music Observatory", "JUMP", "EU", "Music Moves Europe"]
 
-summary = "Reprex's project, the automated Demo Music Observatory will be represented by Daniel Antal, co-founder of Reprex among other building bridges projects. This project offers a different approach to the planned European Music Observatory based on the principles of open collaboration, which allows contributions from small organizations and even individuals, and which provides higher levels of quality in terms of auditability, timeliness, transparency and general ease of use."
+summary: "Reprex's project, the automated Demo Music Observatory will be represented by Daniel Antal, co-founder of Reprex among other building bridges projects. This project offers a different approach to the planned European Music Observatory based on the principles of open collaboration, which allows contributions from small organizations and even individuals, and which provides higher levels of quality in terms of auditability, timeliness, transparency and general ease of use."
 
-projects = ["Digital Music Observatory"]
+projects: ["Digital Music Observatory"]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
+  focal_point: "Right"
+  preview_only: true
+  
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: linkedin
+  icon_pack: fab
+  name: Digital Music Observatory
+  url: https://www.linkedin.com/company/79286750/
+- icon: mastodon
+  icon_pack: fab
+  name: "@digitalmusicobs@eupolicy.social"
+  url: https://eupolicy.social/@digitalmusicobs/
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Right"
-
-  # Show image only in page previews?
-  preview_only = true
-
-+++
+---
 {{< figure src="/img/logos/JUMP_Banner_851x315.png" >}}
 
 According to the announcement of JUMP, the European Music Market Accelerator, after a careful screening of all applications received, the selection committee composed of all JUMP board members has selected the most promising ideas and projects to be developed together with renowned tutors for this 2021 fellowship. 

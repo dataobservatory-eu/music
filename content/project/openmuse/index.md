@@ -14,7 +14,7 @@ image:
 links:
 - icon: twitter
   icon_pack: fab
-  name: Follow
+  name: OpenMuse on "@DigitalMusicObs"
   url: https://twitter.com/DigitalMusicObs
 slides: ""
 

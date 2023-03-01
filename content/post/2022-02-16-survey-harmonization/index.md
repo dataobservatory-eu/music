@@ -11,16 +11,34 @@ tags: [ "Digital Music Observatory", "Survey harmonization", "Cultural Access an
 
 summary: "Survey harmonization is a powerful research tool to increase the usability of questionnaire-based empirical research.  When the same questions are asked from similarly selected German and French people, music audiences and musicians, then we can make meaningful comparisons between the public opinions of the two countries, or the different perceptions of fans and makers of music."
 
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: code
+  icon_pack: fas
+  name: Code & Tutorials
+  url: https://retroharmonize.dataobservatory.eu/
+- icon: linkedin
+  icon_pack: fab
+  name: Digital Music Observatory
+  url: https://www.linkedin.com/company/79286750/
+- icon: mastodon
+  icon_pack: fab
+  name: "@digitalmusicobs@eupolicy.social"
+  url: https://eupolicy.social/@digitalmusicobs/
+
 # Featured image
 image:
   # Caption (optional)
   caption: ""
 
-  # Focal point (optional)
+
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: "Center"
 
-  # Show image only in page previews?
+
   preview_only: true
 
 ---
@@ -41,6 +59,6 @@ The *Digital Music Observatory* and its predecessor, [CEEMID](https://reprex.nl/
 - [x]  Often you do not even have to pay for the survey, because somebody else has already made a similar taxpayer funded research and we can just get the data for you.
 Harmonizing surveys requires advanced data science and statistics knowledge, which is what we provide with the scientific partners of the Digital Music Observatory.  We have developed an open-source software, free to use, for this purpose.  It is not for the faint heart – but users of our observatory can just leave their data for us and let us run the code. 
 
-{{% callout note %}} Before you start a new questionnaire-based research, get in touch with us!  Maybe we have history for your questionnaires.  We can make your survey cheaper, better, and more informative. 
+{{% callout note %}} Before you start a new questionnaire-based research, get in touch with us!  Maybe we have history for your questionnaires.  We can make your survey cheaper, better, and more informative. See our [use case for gender diversity](https://music.dataobservatory.eu/post/2022-11-22-surveyharmonies/) in music.
 {{% /callout %}}
 

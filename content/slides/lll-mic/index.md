@@ -120,25 +120,6 @@ Read our [Data & Lyrics](https://dataandlyrics.com/post/2020-10-24-forgetify_pop
 
 ---
 
-{{< slide background-image="mic_presentation_9.webp" >}}
-<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
-
-
----
-
-{{< slide background-image="blue_background.webp" >}}
-
-# Further information
-
-- Read more: [Digital Music Observatory](https://music.dataobservatory.eu/) | [Listen Local](https://music.dataobservatory.eu/project/listen-local/)  
-- Longer feasibility study: [Feasibility Study On Promoting Slovak Music In Slovakia & Abroad](https://music.dataobservatory.eu/publication/listen_local_2020/) 
-- Scientific version: [Ensuring the Visibility and Accessibility of European Creative Content on the World Market](https://music.dataobservatory.eu/publication/european_visibilitiy_2022/)
-
----
-
-
-{{< slide background-image="blue_background.webp" >}}
-
 # Questions?
 
 Get in Touch: [Gabija Liaugminaitė](https://www.linkedin.com/in/gabija-liaugminait%C4%97-5a906a152) | [Daniel Antal](https://www.linkedin.com/in/antaldaniel) 

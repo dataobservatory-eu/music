@@ -27,7 +27,7 @@ item:
   - certificate_url: 
     date_end: ''
     date_start: '2023-01-01'
-    description: "Invited for contracting after a competitive tendering for Europe's prestigious research and innovation program."
+    description: "Open Music Europe is funded after competitive tendering in Europe's prestigious research and innovation program."
     organization: Horizon Europe
     organization_url: https://music.dataobservatory.eu/project/openmuse/
     title: Invited for contracting Horizon Europe

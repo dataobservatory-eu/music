@@ -68,7 +68,11 @@ main:
     parent: Data
   - name: 📖 Open Science Repository
     url: 'https://zenodo.org/communities/music_observatory'
-    weight: 48
+    weight: 46
+    parent: Data
+  - name: Data collection
+    url: ../collection/
+    weight: 47
     parent: Data
   - name: 🖥️ API
     url: '#data'
@@ -87,7 +91,7 @@ main:
     weight: 52
     parent: Projects
   - name: 🇪🇺 Open Music Europe
-    url: '/project/openmuse/'
+    url: '/project/openmusiceurope/'
     weight: 53
     parent: Projects
   - name: 🇪🇺 Music Eviota

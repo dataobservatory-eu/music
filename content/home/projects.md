@@ -32,7 +32,7 @@ content:
     - name: Listen Local
       tag: Listen Local
     - name: Open Music Europe
-      tag: OpenMuse
+      tag: Open Music Europe
     - name: Music Eviota
       tag: Music Eviota
 

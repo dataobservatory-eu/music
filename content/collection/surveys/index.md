@@ -46,4 +46,6 @@ The survey will help decision makers assess royalty distribution, among other ke
 
 **Data controllers**: [SINUS Markt- und Sozialforschung GmbH](/authors/sinus/) and [Reprex bv](/authors/reprex/).
 
+**Download the questionnaire**: Master English [here](/documents/SurveyMonkey_510804123.pdf).
+
 

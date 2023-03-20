@@ -70,9 +70,13 @@ main:
     url: 'https://zenodo.org/communities/music_observatory'
     weight: 46
     parent: Data
+  - name: 🎙️ Open Music Collections
+    weight: 47
+    url: https://www.opencollections.net/collections/music/
+    parent: Data
   - name: Data collection
     url: ../collection/
-    weight: 47
+    weight: 48
     parent: Data
   - name: 🖥️ API
     url: '#data'

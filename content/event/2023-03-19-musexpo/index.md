@@ -16,20 +16,20 @@ address:
   postcode: CA 91501
   country: United States
 
-summary: Write a summary
+summary: Marie Zhorova of a Prague based Artist Bridge Consulting s.r.o. will be present throughout the Musexpo conference in LA.
 
-abstract: ''
+abstract: 'Marie Zhorova is part of the Czech delegation at MUSEXPO 2023, taking place in Los Angeles, USA, March 19-22. This event has a special focus on music licensing and A&R opportunities. Marie is participating with her agency as well as presenting Listen Local Czechia, a project that is part of the Digital Music Observatory.'
 
-date: '2023-03-19T15:15:00Z'
-date_end: '2023-03-21T16:15:00Z'
-all_day: false
+date: '2023-03-19'
+date_end: '2023-03-22'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-09-13T10:20:00+02:00'
 
 authors: ["marie_zhorova", "music"]
 
-tags: ["Digital Music Observatory", "Survey recycling", "Gender biases", "Eviota", "Sustainability reporting", "Zero waste", "Edibles"]
+tags: ["Digital Music Observatory", "Musexpo 2023", "Listen Local"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -61,33 +61,22 @@ links:
   icon_pack: fab
   name: Reprex
   url: https://www.linkedin.com/company/68855596/
-- icon: linkedin
-  icon_pack: fab
-  name: Edibles
-  url: https://www.linkedin.com/company/edibles-sustainable-tasty-tableware/  
-- icon: download
-  icon_pack: fas
-  name: Download Our Poster Presentation
-  url: ..//documents/Reprex-Linecheck-2022-poster.png
-- icon: square-check
-  icon_pack: fas
-  name: "EN Google Form"
-  url: https://docs.google.com/forms/d/e/1FAIpQLSet43sYVvK1HHzabxuO3NRpdzKd2kLL4xwhaiiuwGmhJVqOVg/viewform?usp=sf_link
-- icon: square-check
-  icon_pack: fas
-  url: https://docs.google.com/forms/d/e/1FAIpQLSeI7GJ0JDi7dNr-sL4JEsQ86ksNH00tqNSwmB4fEwBOBqseBA/viewform?usp=sf_link
-  name: "IT Google Form"  
 
-slides: reprex-linecheck-2022
+slides: 
 
 # Projects (optional).
 projects: ""
 
 ---
 
+{{<figure src="/img/blogposts_2023/musexpo.png" >}}
+
 {{<toc>}}
 
-## Global Music Publishing Forum ''Copyrights & beyond'' 
+Marie Zhorova of a Prague based Artist Bridge Consulting s.r.o. will be present throughout the conference, and be especially involved in these panels:
+
+
+## Global Music Publishing Forum ''Copyrights & Beyond'' 
 
 Global Music Publishing Forum ''Copyrights & beyond'' and later a cocktail networking reception at 5:45 pm. 
 
@@ -95,55 +84,21 @@ Global Music Publishing Forum ''Copyrights & beyond'' and later a cocktail netwo
 
 Wednesday 22nd at 1pm.
 
-## A&R Worldwide 20th anniversary dinner
+## A&R Worldwide 20th Anniversary Dinner
 
 VIP A&R Worldwide 20th anniversary dinner event and “International Media Person of The Year” Award
 
+You can contact Marie to arrange a meeting in order to discuss her involvement with the Digital music observatory and the innovative projects which focus on enhancing sustainability in the music industry. 
 
-Daniel Antal, co-founder of Reprex will participate in the panel about on **Thursday, November the 24th at 3.15pm**  about environment and sustainability in the music industry and introduce [Eviota](/project/musiceviota/), our simplified, connected financial and sustainability reporting tool.
+{{<figure src="/img/blogposts_2023/marie.jpg" caption="[Marie Zhořová](https://music.dataobservatory.eu/authors/marie_zhorova/) is a project manager and a performing artist.">}}
 
 {{% callout note %}}
-At LineCheck X, you can find out more about our projects
-- You can get a free, total value chain based sustainability report. 
-- Find out how want to [measure better with surveys](https://music.dataobservatory.eu/post/2022-11-22-surveyharmonies/) gender diversity across Europe. And try our test surveys in [English](https://docs.google.com/forms/d/e/1FAIpQLSet43sYVvK1HHzabxuO3NRpdzKd2kLL4xwhaiiuwGmhJVqOVg/viewform?usp=sf_link) or [Italian](https://docs.google.com/forms/d/e/1FAIpQLSeI7GJ0JDi7dNr-sL4JEsQ86ksNH00tqNSwmB4fEwBOBqseBA/viewform?usp=sf_link).
-- We will demonstrate how you can eradicate packaging waste from your music events by making the packaging **edible**.
-- And you can find out how we are trying to find where energy is [going down the sewage](https://greendeal.dataobservatory.eu/post/2022-10-24_thermowatt/), literally, with Thermowatt and the [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/). 
-{{% /callout %}}
-
-### Beta test our sustainabilitiy reporting tool
-<td style="text-align: center;">{{< figure src="/img/eviota/Eviota_EFRAG_requirements.jpg" caption="We are looking for beta testers for our simplified sustainability report that is made from your `trial balance`. We sign and NDA about your accounting data if you test with us, and you can test with older data, too. Beta testing is free." numbered="false" >}}</td>
-
-Our solution benefits the music MSMEs and CSOs in several ways:
-- [x] The European Commission estimates that the cost of connecting sustainability and financial reporting will cost on average €10,000 for corporations. We want to bring down the voluntary reporting costs for MSMEs below €500 euro to benefit from `green loans`, `green insurance` and other `green financing`. 
-- [x] It provides them with a size adequate sustainability management and reporting tool that helps first the management of greenhouse gas emissions, and later sustainable water use, pollution, biodiversity, and recycling in their entire value chain (for example, it flags environmental risks in the supply base of a festival including equipment rentals, transport, security firms, catering facilities, etc.) by connecting standard accounting documents of the MSME with SNA and EEA science based benchmarks.
-- [x] Our system will be extended to the management of social sustainability. We are also showcasing harmonized gender inequality data collection with our other project (see below.)
-
-<td style="text-align: center;">{{< figure src="/posters/Reprex-Linecheck-2022-poster.png" caption="We are looking for beta testers for our simplified sustainability report that is made from your `trial balance`. We sign and NDA about your accounting data if you test with us, and you can test with older data, too. Beta testing is free." numbered="false" >}}</td>
-{{< icon name="download" pack="fas" >}} Download our {{< staticref "/documents/Reprex-Linecheck-2022-poster.png" "newtab" >}}poster presentation{{< /staticref >}}.
+**Find out more about [Digital music observatory](https://music.dataobservatory.eu/)**
+- An inclusive, bottom-up, open, collaborative observatory for the European music industry, sector and heritage organizations.
+- Big data for all—small venues, independent labels, startups, great and undiscovered artists, and lead the way to create a truly inclusive, decentralized music obsevatory.
 
 ## Digital Music Observatory: survive in the music business without a data engineer
 
 {{<youtube bgp-n55TKCk>}}
-<small>⚙️/ subtitles/ 🇳🇱 🇬🇧 🇧🇦 🇨🇿 🇭🇺 🇩🇪 🇱🇹 🇫🇷 🇸🇰 🇪🇸 🇹🇷 + Catalan. If you are there, please leave a 👍, too :)</small>
-
-
-{{% callout note %}}
-- We will introduce **Surveyharmonies**, a survey recycling and [survey harmonization tool](https://music.dataobservatory.eu/post/2022-02-16-survey-harmonization/). You can participate in our international gender bias survey in January 2023. Our team will also participate in the KeyChange Creative Lab on Friday, 25 November at 11.00.
-- You can learn about our **Listen Local** project, which helps local music ecosystems remain visible on global platforms.
-- We will offer you a cup of tea or coffee in an edible cup.
+<small>⚙️/ subtitles/ 🇳🇱 🇬🇧 🇧🇦 🇨🇿 🇭🇺 🇩🇪 🇱🇹 🇫🇷 🇸🇰 🇪🇸 🇹🇷 + Catalan.
 {{% /callout %}}
-
-### Harmonizing surveys on gender (in)equaliaty
-
-
-Our [Surveymonkey](https://www.surveymonkey.com/r/surveyharmonies_linecheck_demo) solution is better when you have many languages, or more complex questions, including watching a diagram, or showing a small video clip. It comes with a small fee.  The Google Docs solutions (see or [English](https://docs.google.com/forms/d/e/1FAIpQLSet43sYVvK1HHzabxuO3NRpdzKd2kLL4xwhaiiuwGmhJVqOVg/viewform?usp=sf_link) or [Italian](https://docs.google.com/forms/d/e/1FAIpQLSeI7GJ0JDi7dNr-sL4JEsQ86ksNH00tqNSwmB4fEwBOBqseBA/viewform?usp=sf_link) demo will be offered for free.)
-
-- [x] You can create better surveys with less cost: you only need to ask the information, or change of information, that is not included in our harmonized datasets. Shorter, better questionnaires, smaller samples sizes, huge cost savings.
-
-- [x] When you make questionnaire-based research, you immediately get a history (the same question asked years ago) and an international comparison (the same question asked in other countries.)
-
-- [x] Often you do not even have to pay for the survey, because somebody else has already made a similar taxpayer funded research and we can just get the data for you. 
-
-<td style="text-align: center;">{{< figure src="/img/blogposts_2021/difficulty_bills_levels.jpg" caption="Survey harmonization is a powerful research tool to increase the usability of questionnaire-based empirical research. Read more on [our blog](https://music.dataobservatory.eu/post/2022-11-22-surveyharmonies/)." numbered="false" >}}</td>
-
-

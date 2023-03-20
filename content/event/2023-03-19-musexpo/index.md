@@ -34,11 +34,6 @@ tags: ["Digital Music Observatory", "Musexpo 2023", "Listen Local"]
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: ''
-  focal_point: Right
-  preview_only: false
-
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -63,22 +58,25 @@ links:
   url: https://www.linkedin.com/company/68855596/
 
 slides: 
-
-# Projects (optional).
 projects: ""
+
+
+image:
+  caption: ''
+  focal_point: Right
+  preview_only: false
 
 ---
 
 
-
 {{<toc>}}
 
-Marie Zhorova of a Prague based Artist Bridge Consulting s.r.o. will be present throughout the conference, and be especially involved in these panels:
+[Marie Zhořová](/authors/marie_zhorova/) of a Prague based Artist Bridge Consulting s.r.o. will be present throughout the conference, and be especially involved in these panels:
 
 
-## Global Music Publishing Forum ''Copyrights & Beyond'' 
+## Global Music Publishing Forum 'Copyrights & Beyond' 
 
-Global Music Publishing Forum ''Copyrights & beyond'' and later a cocktail networking reception at 5:45 pm. 
+Global Music Publishing Forum 'Copyrights & beyond' and later a cocktail networking reception at 5:45 pm. 
 
 ## Meet the Music Supervisors Roundtable
 

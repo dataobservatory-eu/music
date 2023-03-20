@@ -6,7 +6,7 @@ categories:
 - Public talk
 
 event: "Musexpo LA '23"
-event_url: hhttps://www.musexpo.net/musexpoLA23/schedule.php
+event_url: https://www.musexpo.net/musexpoLA23/schedule.php
 
 location: Castaway Burbank
 address:
@@ -69,7 +69,7 @@ projects: ""
 
 ---
 
-{{<figure src="/img/blogposts_2023/musexpo.png" >}}
+
 
 {{<toc>}}
 
@@ -83,6 +83,8 @@ Global Music Publishing Forum ''Copyrights & beyond'' and later a cocktail netwo
 ## Meet the Music Supervisors Roundtable
 
 Wednesday 22nd at 1pm.
+
+{{<figure src="/img/blogposts_2023/musexpo.png" >}}
 
 ## A&R Worldwide 20th Anniversary Dinner
 

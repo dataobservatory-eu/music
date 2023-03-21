@@ -4,8 +4,8 @@ summary:
 authors: [daniel_antal]
 tags: [innovation]
 categories: []
-date: '2023-03-02T18:12:00+01:00'
-lastmod: 2023-03-10T17:18:00+01:00
+date: '2023-03-18T18:12:00+01:00'
+lastmod: 2023-03-20T17:18:00+01:00
 slides:
   theme: beige
   highlight_style: dracula

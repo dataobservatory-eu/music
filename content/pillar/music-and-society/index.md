@@ -19,15 +19,6 @@ external_link: ""
 #   Otherwise, set `slides: ""`.
 slides: ""
 
-# Links (optional).
-url_pdf: ""
-url_slides: ""
-url_video: ""
-url_code: ""
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-
 # Featured image
 image:
   caption: ""

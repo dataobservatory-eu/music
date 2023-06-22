@@ -5,9 +5,9 @@
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+weight = 270  # Order that this section will appear.
 
-title = "Partners of the Green Deal Data Observatory"
+title = ""
 subtitle = "Join our open collaboration team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team)! More about contributing: [Automated Observatory Contributors’ Handbook](http://contributors.dataobservatory.eu/)."
 
 [content]

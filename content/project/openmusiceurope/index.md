@@ -4,7 +4,7 @@ title: "Open Music Europe"
 subtitle: "Towards a competitive, fair and sustainable European music ecosystem" 
 # Date this page was created.
 date: 2021-05-06T17:52:00
-lastmod: 2023-02-28T16:52:00
+lastmod: 2023-06-22T12:53:00+02:00
 
 # Project summary to display on homepage.
 summary: "Open Music Europe brings together music industry stakeholders and researchers from 12 European countries. Our partners represent the diversity of the industry, as well as the shared need to find financially, socially, and environmentally sustainable policy and business models in multiple, sometimes-fragmented streams (e.g., live music, composers/publishers, and recordings with producers and performers)."
@@ -20,22 +20,16 @@ external_link: ""
 slides: ""
 
 links:
+  - icon: desktop
+    icon_pack: fas
+    name: Project website
+    url: https://www.openmuse.eu/
   - icon: database
     icon_pack: fas
-    name: CORDIS Fact Sheet
+    name: CORDIS fact sheet
     url: https://cordis.europa.eu/project/id/101095295
 
-
-# Links (optional).
-#url_pdf: "https://reprex.nl/documnets/DMO_Horizon_Europe_Invitation_2022_03_20.pdf"
-url_slides: ""
-url_video: ""
-url_code: ""
-
-# Custom links (optional).
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
+# Featured image: to use add `featured.jpg/png` to your project's folder. 
 image:
   caption: ""
   focal_point: "Center"
@@ -44,9 +38,7 @@ image:
 
 <td style="text-align: center;">{{< figure src="img/blogposts_2023/MoU_signature_20230306_02_2x1.jpg" caption="From left to right: Ľubomír Burgr, Chariman of the Board (SOZA); [Dr James Edwards](https://music.dataobservatory.eu/authors/james_edwards/) Open Music Europe program director; Ferdinand Daňo, rector of EUBA; Rado Kutaš, state secretary; Tomaš Mikš, SOZA; [Daniel Antal](https://reprex.nl/author/daniel-antal/), co-founder of Reprex. Photo: [Dominika Semaňáková](https://music.dataobservatory.eu/authors/dominika_semanakova/)." numbered="false" >}}</td>
 
-
-
-`Open Music Europe` brings together music industry stakeholders and researchers from 11 EU countries and Ukraine. Our consortium recognises that placing European music ecosystems on a more competitive, fair, and sustainable footing requires evidence-based policymaking, business planning, and accuracy. 
+`Open Music Europe` brings together music industry stakeholders and researchers from 10 EU countries and Ukraine. Our consortium recognises that placing European music ecosystems on a more competitive, fair, and sustainable footing requires evidence-based policymaking, business planning and accuracy. We provide the data needed for these actions.
 
 {{< spoiler text="🇪🇺 Background information" >}} 
 
@@ -55,7 +47,11 @@ image:
 
 {{< /spoiler >}}
 
-We provide the data needed for these actions. Using transparent methods and tools, OpenMuse maps the policy and data landscape; bridges data gaps; and empowers stakeholders and policymakers to take data-driven actions. Our project is grounded on principles of open policy analysis, open science, and open-source software development. We work with stakeholders to identify data gaps on the EU, national, and regional levels; co-create indicators and methods for bridging them; develop free software tools for data collection and analysis; and report not just our findings, but every step taken to reach them. 
+## Data-to-policy Pipeline
+
+`Open Music Europe` aims to create an open, scalable data-to-policy pipeline for European music ecosystems. This aim entails three objectives. A data pipeline is a method in which raw data is ingested from various data sources and then ported to a data store, for further analysis, in this case, to an open, shared, collaborative music observatory. We extend this pipeline using reproducible research techniques, a novel application of the Open Policy Analysis Guidelines, and good statistical practices to support evidence-based policy analysis, scientific music research and sound business strategy building. In this last leg of the pipeline, we emphasise usability for our project’s target audiences and good documentation practices. We want to ensure that our data is high quality and well understood to support robust and correct business, scientific or policy conclusions.
+
+We provide the data needed for these actions. Using transparent methods and tools, `Open Music Europe` maps the policy and data landscape; bridges data gaps; and empowers stakeholders and policymakers to take data-driven actions. Our project is grounded on principles of open policy analysis, open science, and open-source software development. We work with stakeholders to identify data gaps on the EU, national, and regional levels; co-create indicators and methods for bridging them; develop free software tools for data collection and analysis; and report not just our findings, but every step taken to reach them. 
 
 
 <td style="text-align: center;">{{< figure src="/media/img/blogposts_2022/logos_3_1.jpg" caption="" numbered="false" >}}</td>
@@ -134,59 +130,6 @@ By providing continually updated data on five industry pillars – innovation, m
 - [x] **For labels and music publishers**: we make big data understandable; we create price and volume indexes of streaming markets; we tell you about price developments and selection probabilities in different cities and countries; we understand the biases of the Spotify and YouTube algorithms; and we measure (meta)data problems and offer scalable solutions.
 - [x] **For music export offices**: we measure domestic and foreign market shares in streaming; we create actionable key performance indicators; and we do geographical targeting.
 
-## Service Development, Project Management, Coordination and Dissemination 
-
-- [Reprex](https://music.dataobservatory.eu/author/reprex/) is the originator of the OpenMuse project which builds on the achievements of the former CEEMID project, and provides leadership in WP Dissemination with building the Open Music Observatory, a full-fledged, open science-based statistical service that can complement the Eurostat Rest API and the future European Music Observatory on the basis of the Digital Music Observatory prototype validated in Yes!Delft AI+Blockchain Lab and the JUMP European Music Market Accelerator.
-- [Sinus-Institut](https://music.dataobservatory.eu//author/sinus-institute/), (DE) an innovative market- and policy research SME is the coordinator of the project, and provides leadership on WP Music, Society and Citizenship with promoting best, harmonized practices of the measurement of cultural access and participation.
-- [Synyo](https://www.synyo.com/), (AT) an innovative research company is participating in the coordination and dissemination of the project.
-
-## Business partners {#business-partners}
-- [SOZA](https://music.dataobservatory.eu/author/soza/) (SK), the representative organization of Slovak composers and lyricists, and the global composer community within Slovakia, will develop an impact assessment with us on the promotion of the Slovak music in radios (with local content quotas) and streaming platforms, and assist partners in various diversity related actions. SOZA is a founding partner of the [CEEMID](https://music.dataobservatory.eu/usecase/ceemid/) project.
-- [HearDis!](https://www.heardis.com/en/) (DE), a German innovative music tech company is participating in building uses case of uses of music that harmoniously fit into the local music ecosystems and do not colonize lucrative uses of in-store and other public performance.
-- [Aloaded](https://music.dataobservatory.eu/author/aloaded/) (SE), a 100% independent Stockholm-based digital distributor is participating in the development of new streaming market transparency indexes. We will create stock-exchange like streaming price, volume indexes to increase the transparency and business development of small labels and self-released artists.
-- [Artisjus](https://www.artisjus.hu/) (HU), the representative organization of Hungarian composers and lyricists, and the initiator of the [CEEMID](https://music.dataobservatory.eu/usecase/ceemid/) project, together with SOZA, will assist Musicautor to re-valuate the use of music in Bulgaria in a way that can be scaled to any European country, and try to improve probably the poorest markets revenues similarly to the good results of the former CEEMID in Hungary and Slovakia. 
-- [Musicautor](https://music.dataobservatory.eu/author/musicautor-%D0%BC%D1%83%D0%B7%D0%B8%D0%BA%D0%B0%D1%83%D1%82%D0%BE%D1%80/) (BG), the representative sister organization of Bulgarian rightsholders,  will validate the valuation methodologies of our projects with putting them in use, trying to replicate the double-digit growth from Hungary and Slovakia.
-
-Our observatory follows the agile open collaboration method from open-source software development, and it has a triangular approach.  We believe that data which is created by peer-reviewed, open algorithms, and thus open for review from the business, policy and scientific community is the best addition to your business proprietary data.  By sharing data with us, we can build world-class KPIs that give you a competitive edge in the data-driven music industry.
-
-For labels and music publishers: we make big data understandable; we create price and volume indexes of streaming markets; we tell you about price developments and selection probabilities in different cities and countries; we understand the biases of the Spotify and YouTube algorithms; and we measure (meta)data problems and offer scalable solutions.
-
-{{% callout note %}} See [Feasibility Study On Promoting Slovak Music In Slovakia & Abroad](https://music.dataobservatory.eu/publication/listen_local_2020/) - [Central European Music Industry Rerpot](https://music.dataobservatory.eu/publication/ceereport_2020/) - business confidential repertoire valuations - predictive modelling.
-{{% /callout %}}
-
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/medianvalue-1.png" caption="Our pioneering streaming volume and price [indexes](https://ceereport2020.ceemid.eu/market.html#ceemid-ci-volume-indexes) are similar in design to bond- and stock market indexes." numbered="false" >}}</td>
-
-## Civil Society & Social Enterprise partners {#cso-patners}
-
-- [ICMP](https://music.us/supporters/icmp/) (Global, EU), the “global voice for music publishing,”, will be our partner to fill the data gaps identified by Feasibility Study on the Establishment of the European Music Observatory related to the publishing revenue stream of the European music business.
-- [Music Innovation Hub](https://music.dataobservatory.eu/author/music-innovation-hub/) (IT), an Italian social enterprise, is validating our sustainability reporting tool.
-- [Music Exchange Fund](https://music.dataobservatory.eu/author/mxf-muzikos-eksporto-fondas/) (LT), a Lithuanian NGO that helps the promotion of Lithuanian artists abroad, will utilize the trustworthy AI and data management system originally developed by SOZA and Reprex to build a similar system in Lithuania and Ukraine.
-- [Music Export Ukraine](https://music.dataobservatory.eu/author/music-export-ukraine/) (UA), a Ukrainian NGO promoting the music export of Ukraine, will further develop the Ukraine Music Industry Databases and build a similar application to the Music Exchange Fund.
-
-We want to demonstrate that we apply world-class research and the best and most data available to solve policy problems. If you bring your policy problem into an open collaboration with our Digital Music Observatory, you can rely on the expertise of eminent researchers in the field of economics, law, royalty finance, statistics, and valuable data. We want to demonstrate that we can offer the best value for money in data. 
-
-We believe that our offering is particularly valuable for music policy organizations who would like to be actively involved in the shaping of the future [Feasibility Study For The Establishment Of A European Music Observatory](https://music.dataobservatory.eu/post/2020-11-16-european-music-observatory-feasibility/). Our Digital Music Observatory already contains much of the data gaps identified by stakeholders.  We have 7 years of working experience in the music industry, and we are familiar with data sharing and data governance solutions that manage well the conflicts of interests and strategic worries of the industry.
-
-For copyright and neighbouring rights-holders and their organizations we can create music (royalty/tariff) valuations, euro value of the value gap, private copying, privacy – we have data and make estimates with all known music value estimation techniques. For live music organizations: Pan-European audience surveys; demographic comparisons of all European audiences; attendance predictions, attendance profiling. For granting authorities ---we have the world's largest survey-based dataset on how musicians work and live; we create ex ante needs assessment and grants evaluation indicators and ex-post grant evaluation indicators. For music export offices we can measure domestic and foreign market shares in streaming; we create actionable key performance indicators; and we do geographical targeting.
-
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/2021_10_18_MaMA_Pitch.jpg" caption="[Pitching](https://reprex.nl/talk/digital-music-observatory-on-the-mama-convention-2021/) for partnership with French stakeholders within the [JUMP European Music Market Accelerator](https://music.dataobservatory.eu/post/2021-12-02-dmo-jump/), where our Digital Music Observatory was further developed to meet the needs of European partners." numbered="false" >}} </td>
-
-{{% callout note %}} See [Digital Creators' Earnings in the UK - An Empirical Analysis of Music Streaming Revenues and Their Distribution](https://music.dataobservatory.eu/publication/mce_empirical_streaming_2021/) - [Slovak Music Indsutry Report](https://music.dataobservatory.eu/publication/slovak_music_industry_2019/) - [Private Copying in Croatia](https://music.dataobservatory.eu/publication/private_copying_croatia_2019/) - [Hungarian Music Industry Report](https://music.dataobservatory.eu/post/2015-04-27-proart_report_15/)
-{{% /callout %}}
-
-
-## Academic partners {#academic-partners}
-
-- [Turku Data Science Group](https://datascience.utu.fi/) (FI)at the University of Turku will lead the WP Innovation and build an ecosystem of open source applications within the [rOpenGov](https://music.dataobservatory.eu/author/ropengov/) open collaboration platform with Reprex that enable the music industry to create a self-service, Open Music Observatory that will produce statistical products in a similar quality, form, and service level like the Eurostat Rest API. 
-- [Institute for Information Law](https://music.dataobservatory.eu/author/institute-for-information-law/) (IViR) of the University of Amsterdam, will lead the WP Economy of Consortium, including scaleable, standardized valuations that can be placed in use anywhere in Europe, conduct research in the market value of metadata, and provide leadership in economic methodologies.
-- [Sant'Anna School of Advanced Studies](https://music.dataobservatory.eu/author/scuola-superiore-santanna/) (IT) of the University of Pisa will lead the WP Diversity and provide leadership in creating methodologies, indicators and open policy recommendations that can support the circulation of European music and the measurement and promotion of local and national repertoires in broadcasting, streaming and retransmission.
-- [University of Economics in  Bratislava](https://music.dataobservatory.eu/author/university-of-economics-in-bratislava/) (SK) will develop indicators and validate our results in a national policy setting.
-
-We provide scientific access (with priority given to our Consortium partners) to highly valuable quantitative datasets in music, particularly nationally representative audience surveys, nationally representative music creator surveys, and large music streaming data. We provide know-how and data science infrastructure that facilitates data collection via surveys or big data by utilizing pre-existing open science or open government sources.
-
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/difficulty_bills_levels.jpg" caption="Compare nationally representative music audience, general population and music creator data." numbered="false" >}}</td>
-
-We will provide researchers with data according to their needs, and make sure that their quantitative research will have the best scientific and policy impact. Our goal is to ensure our datasets meet higher quality standards than governmental statistics, and that they are the most findable open science resources in music globally.
 
 {{% callout note %}}
 See [Ensuring the Visibility and Accessibility of European Creative Content on the World Market](https://music.dataobservatory.eu/publication/european_visibilitiy_2021/) - [Music Streaming: Is It a Level Playing Field?](https://music.dataobservatory.eu/publication/music_level_playing_field_2021/) - [The Growth of the Hungarian Popular Music Repertoire](https://music.dataobservatory.eu/publication/made_in_hungary/) - [Can scholarly pirate libraries bridge the knowledge access gap?](https://reprex.nl/publication/scholarly_pirate_libraries_2020/) {{% /callout %}}

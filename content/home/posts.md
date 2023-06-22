@@ -7,8 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 1 
-# earlier 60
+weight: 10
 
 title: Recent Posts
 subtitle:
@@ -25,7 +24,7 @@ content:
     exclude_featured: false
     exclude_future: false
     exclude_past: false
-  # Choose how many pages you would like to display (0 = all pages)
+  # Choose how many pages you would like to display (0: all pages)
   count: 5
   # Choose how many pages you would like to offset by
   offset: 0

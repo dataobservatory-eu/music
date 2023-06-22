@@ -28,9 +28,9 @@ item:
     date_end: ''
     date_start: '2023-01-01'
     description: "Open Music Europe is funded after competitive tendering in Europe's prestigious research and innovation program."
-    organization: Horizon Europe
+    organization: Open Music Europe
     organization_url: https://music.dataobservatory.eu/project/openmuse/
-    title: Invited for contracting Horizon Europe
+    title: Development with the supported of the Horizon Europe programme
     url: 'https://music.dataobservatory.eu/project/openmuse/'
   - certificate_url: 
     date_end: '2023-02-28'

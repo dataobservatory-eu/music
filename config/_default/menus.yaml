@@ -8,44 +8,46 @@ main:
     weight: 10
     identifier: Home
   - name: About
-    url: '#about'
-    weight: 11
-    parent: Home
-  - name: "In 1 minute"
-    url: '#slider'
-    weight: 12
-    parent: Home
-  - name: News
+    url: ""
     weight: 20
-    identifier: News
-  - name: Blog
-    url: '#posts'
+    identifier: About
+ # - name: "In 1 minute"
+  #  url: '#slider'
+  #  weight: 12
+  #  parent: Home
+  - name: "What we do"
+    url: "/authors/admin/"
+    weight: 21
+    parent: About
+  - name: "Organisation"
+    url: '#slider'
     weight: 22
-    parent: News
+    parent: About
+  - name: Contributors
+    url: '#contributors'
+    weight: 23
+    parent: About
+  - name: "Projects ↴"
+    url: "/project/"
+    weight: 24
+    parent: About
+  - name: 🇪🇺 Listen Local
+    url: '/project/listen-local/'
+    weight: 26
+    parent: About
+  - name: 🇪🇺 Open Music Europe
+    url: '/project/openmusiceurope/'
+    weight: 27
+    parent: About
+  - name: 🇪🇺 Music Eviota
+    url: '#projects'
+    weight: 28
+    parent: About
+    url: ../project/musiceviota/
   - name: Topics
     url: '#tags'
-    weight: 23
-    parent: News  
-  - name: Solutions
-    url: '#services'
-    weight: 30
-    identifier: Solutions
-  - name: Apps
-    url: 'apps/'
-    weight: 31
-    parent: Solutions
-  - name: Software
-    url: '#releases'
-    weight: 32
-    parent: Solutions
-#  - name: Use cases
-#    url: '#usecase'
-#    weight: 34
-    parent: Solutions
-  - name: Code
-    url: '/category/r-bloggers/'
-    weight: 34
-    parent: Solutions
+    weight: 29
+    parent: About  
   - name: Data
     url: '#pillars'
     weight: 40
@@ -82,27 +84,26 @@ main:
     url: '#data'
     weight: 49
     parent: Data
-  - name: Projects
-    url: '#projects'
+  - name: Solutions
+    url: '#services'
     weight: 50
-    identifier: Projects
-  - name: Overview
-    url: '#projects'
+    identifier: Solutions
+  - name: Applications
+    url: 'apps/'
     weight: 51
-    parent: Projects
-  - name: 🇪🇺 Listen Local
-    url: '/project/listen-local/'
+    parent: Solutions
+  - name: Software
+    url: '#releases'
     weight: 52
-    parent: Projects
-  - name: 🇪🇺 Open Music Europe
-    url: '/project/openmusiceurope/'
-    weight: 53
-    parent: Projects
-  - name: 🇪🇺 Music Eviota
-    url: '#projects'
+    parent: Solutions
+#  - name: Use cases
+#    url: '#usecase'
+#    weight: 34
+    parent: Solutions
+  - name: Code
+    url: '/category/r-bloggers/'
     weight: 54
-    parent: Projects
-    url: ../project/musiceviota/
+    parent: Solutions
   - name: Publications
     url: '#featured'
     weight: 60
@@ -115,10 +116,6 @@ main:
     url: '#publications'
     weight: 62
     parent: Publications
-  - name: Contributors
-    url: '#contributors'
-    weight: 70
-    identifier: Contributors
   - name: Contact
     url: '#contact'
     weight: 90

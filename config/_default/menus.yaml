@@ -20,7 +20,7 @@ main:
     weight: 21
     parent: About
   - name: "Organisation"
-    url: '#slider'
+    url: '/organisation/'
     weight: 22
     parent: About
   - name: Contributors

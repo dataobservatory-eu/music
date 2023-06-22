@@ -24,6 +24,10 @@ links:
     icon_pack: fas
     name: Project website
     url: https://www.openmuse.eu/
+  - icon: cloud-download
+    icon_pack: fas
+    name: Project resources
+    url: ../open_music_europe/
   - icon: database
     icon_pack: fas
     name: CORDIS fact sheet

@@ -29,8 +29,6 @@ The open collaboration principle means that any individual or organisation can r
 
 `New pillars and more data` can be added into or besides the four data pillars defined by the _Feasibility Study_ and developed by Open Music Europe. It is possible to define new pillars or deposit/donate/add further data assets to the observatory. Such add hoc requests should be sent via the [Contact](https://music.dataobservatory.eu/#contact) form.
 
-
-
 ## Governance principles
 
 - [x] Our data observatories integrate partner data into shared data pools. Such data integration exponentially increases the value of the contributing, small datasets, and supports data altruism and other measures of the Data Governance Act.

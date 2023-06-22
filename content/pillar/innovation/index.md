@@ -5,7 +5,7 @@ subtitle: "Innovations in the music business, music participation, and music tec
 
 # Date this page was created.
 date: 2020-11-12T11:00:00
-lastmod: 2022-09-27T08:14:00+02:00
+lastmod: 2023-06-22T16:06:00+02:00
 
 # Project summary to display on homepage.
 summary: ""

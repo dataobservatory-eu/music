@@ -5,7 +5,7 @@ subtitle: "Indicators related to the diversity of music made and listened to in 
 
 # Date this page was created.
 date: 2019-02-27T00:00:00
-lastmod: 2023-06-22T13:04:00+02:00
+lastmod: 2023-06-22T16:09:00+02:00
 
 # Project summary to display on homepage.
 summary: "Music diversity and circulation is a crucial policy and business goal for European music stakeholders. Most European creators work in small countries, often confined to the audiences of a not widely spoken language; moreover, they are in competition with the entire world via media platforms, streaming services and traditional record sales."

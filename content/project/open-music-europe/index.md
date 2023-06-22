@@ -27,7 +27,7 @@ links:
   - icon: cloud-download
     icon_pack: fas
     name: Project resources
-    url: ../open_music_europe/
+    url: ../open-music-europe/
   - icon: database
     icon_pack: fas
     name: CORDIS fact sheet

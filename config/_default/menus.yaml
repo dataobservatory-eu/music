@@ -116,6 +116,18 @@ main:
     url: '#publications'
     weight: 62
     parent: Publications
+  - name: Partners
+    url: 
+    weight: 70
+    id: Partners
+  - name: Contributors
+    url: '#contributors'
+    weight: 71
+    parent: Partners
+  - name: Join
+    url: "#join"
+    weight: 72
+    parent: Partners
   - name: Contact
     url: '#contact'
     weight: 90

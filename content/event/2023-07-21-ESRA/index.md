@@ -58,7 +58,7 @@ links:
 - icon: linkedin
   icon_pack: fab
   name: Sinus
-  url: https://www.linkedin.com/company/edibles-sustainable-tasty-tableware/  
+  url: https://www.linkedin.com/company/sinusinstitut/
 - icon: download
   icon_pack: fas
   name: Download Our Poster Presentation

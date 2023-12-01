@@ -11,6 +11,7 @@ slides:
   theme: black
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   highlight_style: dracula
+  
 ---
 
 {{< slide background-image="01-ehv_reprex.webp" >}}

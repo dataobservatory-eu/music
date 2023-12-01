@@ -35,10 +35,6 @@ selected: true
 tags: ["open-data", "music", "data-observatory"]
 
 # Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example-slides"` references 
-#   `content/slides/example-slides.md`.
 #   Otherwise, set `slides: ""`.
 slides: "MaMA_2021"
 
@@ -54,11 +50,7 @@ math: false
 # Featured image
 image:
   caption: ""
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: "Center"
-  
 
 ---
 

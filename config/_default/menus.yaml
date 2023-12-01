@@ -15,38 +15,58 @@ main:
   #  url: '#slider'
   #  weight: 12
   #  parent: Home
-  - name: "What we do"
+  - name: "What we do… ?"
     url: "/authors/admin/"
     weight: 21
     parent: About
+  - name: "… for musicians"
+    url: '/services/music-professionals/'
+    weight: 22
+    parent: About
+  - name: "… for businesses & institutions"
+    url: '/services/business-institution/'
+    weight: 23
+    parent: About
+  - name: "… for public policymakers"
+    url: '/services/public-policy/'
+    weight: 24
+    parent: About
+  - name: "… for music researchers"
+    url: '/services/researchers/'
+    weight: 25
+    parent: About
+  - name: "… for data curators & strategiests"
+    url: '/services/data-knowledge/'
+    weight: 26
+    parent: About
   - name: "Organisation"
     url: '/organisation/'
-    weight: 22
+    weight: 28
     parent: About
   - name: Contributors
     url: '#contributors'
-    weight: 23
+    weight: 29
     parent: About
   - name: "Projects ↴"
     url: "/project/"
-    weight: 24
+    weight: 34
     parent: About
   - name: 🇪🇺 Listen Local
     url: '/project/listen-local/'
-    weight: 26
+    weight: 36
     parent: About
   - name: 🇪🇺 Open Music Europe
     url: '/project/open-music-europe/'
-    weight: 27
+    weight: 37
     parent: About
   - name: 🇪🇺 Music Eviota
     url: '#projects'
-    weight: 28
+    weight: 38
     parent: About
     url: ../project/musiceviota/
   - name: Topics
     url: '#tags'
-    weight: 29
+    weight: 39
     parent: About  
   - name: Data
     url: '#pillars'

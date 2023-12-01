@@ -30,6 +30,7 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 public/
+resources/
 giturl.txt
 .hugo_build.lock
 content/slides/data-observatory/Europeana.pptx

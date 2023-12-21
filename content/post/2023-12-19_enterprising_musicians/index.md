@@ -44,10 +44,10 @@ image:
   
 ---
 
-<td style="text-align: center;">{{< figure src="img/blogposts_2023/EMC-457.jpg" caption="MusicAIRE Final Conference" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="img/blogposts_2023/Esther-Daniel_interview_04.jpg" caption="The interview was conducted in a video call on 14 December 2023 and subsequently by email." numbered="false" >}}</td>
 
 
-`Esther Viñuela Lorenzo` is the coordinator of the music entrepreneurship program of Reina Sofía Music School in Madrid. We met at the final conference of the MusicAIRE project. We started a conversation about joining forces with another MusicAIRE project, Eviota for Music, and working together on the Digital Music Observatory knowledge platform.  The interview was conducted in a video call on 14 December 2023 and subsequently by email.
+`Esther Viñuela Lorenzo` is the coordinator of the music entrepreneurship program of Reina Sofía Music School in Madrid. We met at the final conference of the MusicAIRE project. We started a conversation about joining forces with another MusicAIRE project, Eviota for Music, and working together on the Digital Music Observatory knowledge platform.  
 
 
 **Esther, please introduce yourself to our blog readers. What is your professional background?**
@@ -70,6 +70,8 @@ Music Eviota is the minimum viable product of an open-source, open, data-driven 
 
 When I entered the school five years ago, I realised people were not using the recycle bins. So I got so upset. We were using single-use coffee cups. I am a nature lover; I hike mountains. I am suffering from summer anxiety now with these heat waves. So why can people not see how we need to change our behaviour systemically? We have to be worried. We should be concerned individually, but it should lead to collective action. This is something we wanted to reflect on in the guidelines, and I was completely involved in the strategy of making them. 
 
+<td style="text-align: center;">{{< figure src="img/blogposts_2023/EMC-457.jpg" caption="MusicAIRE Final Conference" numbered="false" >}}</td>
+
 A few years ago, I was already very strict with myself in my behaviour my own waste, which almost drove me crazy. So, at one point, I realised that if I could make my entire family change, then I make a bigger difference, and I would not have to torture myself to cut down on any other waste bag in the month. If I cannot convince my parents to change their behaviour to be more sustainable, who will I convince? So, a few years ago, I started to do a series of vlogs on my YouTube channel to give green tips. 
 
 I left the YouTube channel some time ago because it is a huge commitment to my personal time, and I realised that I cannot take all the load individually, and I should not go crazy while going to zero waste.
@@ -78,6 +80,8 @@ I left the YouTube channel some time ago because it is a huge commitment to my p
 I teamed up with my school colleagues, who are a bit different.  Amalia, my co-author, is the brains in the Green ME project. Just like in my vlog, we set a target to convince more people to change. We targeted our educational community: more than 300 people, teachers, music students and staff. We designed an action funnel.
 
 We organised a Green Week when we "invaded" and "colonised" all the schools and introduced a five-day challenge to save the planet. We gave out actionable information in all channels and displays to increase awareness of the impacts of everything the community members do. We organised a conference where we informed them about climate change and sustainable development goals. We wanted to involve everybody.
+
+<td style="text-align: center;">{{< figure src="img/blogposts_2023/greenme_on_zenodo.png" caption="We encourage our stakeholders to bring in their knowledge, data, and of course, data problems in measurement, control and reporting integrated economic, environmental and social sustainability management. Check out our muisc publications or add yours to the Digital Music Observatory [shared repository](https://zenodo.org/communities/music_observatory?q=&l=list&p=1&s=10&sort=newest)." numbered="false" >}}</td>
 
 Then we went further in the funnel and decided to target, more specifically, a smaller group, the 20 students in the Master's program. We inserted the sustainable project management module in the curriculum, where we started to employ the business model canvas with green glasses on. 
 
@@ -89,6 +93,9 @@ When you make a project, you make many decisions. We taught them that they shoul
 
 No, the module was introduced first in the academic year that started this year [*i.e., in 2023*], in October. With these green glasses on, the students are preparing their projects now with their coaches. They are not necessarily green-aimed projects, but whatever projects they are planning, they apply these guidelines in the planning phase. They will start implementing projects using the guidelines in January 2024. So I can tell you more about the experience next May.
 
+<td style="text-align: center;">{{< figure src="img/blogposts_2023/Esther_Vinuela_ACE.jpg" caption="Presenting the Green ME project at the 50th Annual Congress of the AEC - European Association of Conservatoires in the Koninklijk Conservatorium - Royal Conservatoire in The Hague." numbered="false" >}}</td>
+
 **Do you have an incubator for entrepreneurial musicians?**
 
 We are in the process of launching an incubator. We do not have it yet; it will be launched in January 2024. 
+

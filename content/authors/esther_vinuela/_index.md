@@ -58,4 +58,6 @@ user_groups:
   - developers
 ---
 
-Pyry Kantanen is a social science student and R developer. He is contributing with data curation and R package testing. Read his introduction, *Comparing Data to Oil is a Cliché: Crude Oil Has to Go Through a Number of Steps and Pipes Before it Becomes Useful*, [here](/post/2021-06-07-data-curator-pyry-kantanen/).
+`Esther Viñuela Lorenzo` is the coordinator of the Entrepreneurship program for future classical musicians at the  Reina Sofía Music School in Madrid. She is passionate about environmental and social sustainability. As a trained pianist, educator, and coordinator of educational activities, she will help curate data for target setting and benchmarking KPIs for music entrepreneurs from an economic, environmental and social perspective, and to define knowledge needs for the Music, society, citizenship and sustainability pillar of the Digital Music Observatory.
+
+

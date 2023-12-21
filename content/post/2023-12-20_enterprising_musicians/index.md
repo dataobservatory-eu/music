@@ -3,7 +3,7 @@ title: "Disseminating Knowledge: Starting the Digital Music Observatory Publicat
 subtitle:  Environmental Sustainability Guide For Enterprising Musicians
 
 # Summary for listings and search engines
-summary: "When you make a project, you make many decisions. We taught them that they should be conscious about the planet with every decision they make."
+summary: "Our first book-form release is the Environmental Sustainability Guide For Enterprising Musicians, an educational guidebook developed by the Reina Sofía Music School for entrepreneurial classical musicians."
 
 authors: ["daniel_antal"]
  

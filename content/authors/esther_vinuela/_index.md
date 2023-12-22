@@ -1,7 +1,7 @@
 ---
 # Display name
-title: Esther Viñuela Lorenzo
-name: Esther Viñuela Lorenzo
+title: Esther Viñuela Lozano
+name: Esther Viñuela Lozano
 
 # Username (this should match the folder name)
 authors:

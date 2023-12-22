@@ -19,7 +19,7 @@ organizations:
     url: "https://www.escuelasuperiordemusicareinasofia.es/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Esther Viñuela Lorenzo is data curator for music entrepreneurs’ economic and sustainability indicators and knowledge
+bio: Esther Viñuela Lozanois data curator for music entrepreneurs’ economic and sustainability indicators and knowledge.
 
 topics:
   - Entrepreneurship
@@ -58,6 +58,4 @@ user_groups:
   - developers
 ---
 
-`Esther Viñuela Lorenzo` is the coordinator of the Entrepreneurship program for future classical musicians at the  Reina Sofía Music School in Madrid. She is passionate about environmental and social sustainability. As a trained pianist, educator, and coordinator of educational activities, she will help curate data for target setting and benchmarking KPIs for music entrepreneurs from an economic, environmental and social perspective, and to define knowledge needs for the Music, society, citizenship and sustainability pillar of the Digital Music Observatory.
-
-
+`Esther Viñuela Lozano` is the coordinator of the Entrepreneurship program for future classical musicians at the  `Reina Sofía Music School` in Madrid. She is passionate about environmental and social sustainability. As a trained pianist, educator, and coordinator of educational activities, she will help curate data for target setting and benchmarking KPIs for music entrepreneurs from an economic, environmental and social perspective, and to define knowledge needs for the Music, society, citizenship and sustainability pillar of the Digital Music Observatory.

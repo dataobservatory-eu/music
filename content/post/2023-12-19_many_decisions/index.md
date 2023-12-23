@@ -1,6 +1,6 @@
 ---
 title: '"When you make a project, you make many decisions"'
-subtitle: Esther Viñuela Lorenzo on enterprising classical musicians
+subtitle: Esther Viñuela Lozano on enterprising classical musicians
 
 # Summary for listings and search engines
 summary: "When you make a project, you make many decisions. We taught them that they should be conscious about the planet with every decision they make."
@@ -47,7 +47,7 @@ image:
 <td style="text-align: center;">{{< figure src="img/blogposts_2023/Esther-Daniel_interview_04.jpg" caption="The interview was conducted in a video call on 14 December 2023 and subsequently by email." numbered="false" >}}</td>
 
 
-`Esther Viñuela Lorenzo` is the coordinator of the music entrepreneurship program of Reina Sofía Music School in Madrid. We met at the final conference of the MusicAIRE project. We started a conversation about joining forces with another MusicAIRE project, Eviota for Music, and working together on the Digital Music Observatory knowledge platform.  
+`Esther Viñuela Lozano` is the coordinator of the music entrepreneurship program of Reina Sofía Music School in Madrid. We met at the final conference of the MusicAIRE project. We started a conversation about joining forces with another MusicAIRE project, Eviota for Music, and working together on the Digital Music Observatory knowledge platform.  
 
 
 **Esther, please introduce yourself to our blog readers. What is your professional background?**

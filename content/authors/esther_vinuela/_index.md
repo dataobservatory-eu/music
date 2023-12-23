@@ -55,7 +55,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - developers
+  - curators
 ---
-
 `Esther Viñuela Lozano` is the coordinator of the Entrepreneurship program for future classical musicians at the  `Reina Sofía Music School` in Madrid. She is passionate about environmental and social sustainability. As a trained pianist, educator, and coordinator of educational activities, she will help curate data for target setting and benchmarking KPIs for music entrepreneurs from an economic, environmental and social perspective, and to define knowledge needs for the Music, society, citizenship and sustainability pillar of the Digital Music Observatory.
